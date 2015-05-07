@@ -1,0 +1,38 @@
+El bjv l PSOE pr s urps s vitr  inficción   PP,     vn  vtr  25  m crd   st  xm   ds grns prds. Pr s, El Vlci, cbz  list   scilists, h rrncd  dng pd  mfist s difrcis  Migu Aris Cñt, crt l PP.
+Si  prt l Gbir, Mri Rj, trpus  dí ntrir  Td  rcuprción l PP   vut   crisis , gún , pndrí  victri l PSOE,  scilist h difrcid tr  fs   rchs   rcrts   ppurs.
+
+Vlci h rivindicd  difrci  Cñt,   PSOE “stru  iguldd”   PP “ stru”. L núr ds   scilists h intrvid   ct l trg l II Pr Crm Crir   Drchs Civis  Pdr Zr, cbrd   Círcu  Bs  Mdrid.
+“Pr  imginción   ch   imgi  Cñt  Rj fdid  rchs  prsns discrinds, fdid  s mujrs, fdid  s prsns l sm x  tdví stán prguids  muchísims pís l md;   imgi  Cñt,   imginción   ch, fdid    fr, si fdid  intrs  s grns crcins”, h gurd  cndidt scilist.
+En prsci l crtri grl scilist, Alfrd Pérz Rublcb,  trs dirigts l prd, Vlci h gurd  PP  PSOE fin  Espñ   Eurp “cmptmt disnt”, pus  scilists pustn   Eurp scil,  rchs   trbjdrs  sris digs,  Eurp  s librts,   divrsidd    iguldd”, trs   ppurs fin  Eurp “  rcrts”.
+“M tm ,    quirn scirs  sms  sm”, h dich pr rfrzr  rsgs disnvs,  busc   mvilizción  s ctrs,  rcción  s plícs l Gbir  Mri Rj. “¿Cóm vms  r  sm? Sms  pust. Es   tms  rivindicr”, h firmd.
+En  prir ct  prd trs  signción  Cñt  cbz  list l PP, Vlci h rpd  nurss cs  mbr,   d i    cmpñ scilist buscrá s frntción  trst tr mbs.
+
+El tr trst buscd s   hbr   vncs   rchs , gún h dich, hn lgd   Gbirs l PSOE, frt  plícs rvdrs  rcrts  prcts  stds   Am   rvdrs l frt.
+“L Espñ   fin  stá d    librtd  s mujrs,    h  vlvr  slir   cl  fr  librtd   digdd  s mujrs”, h ñdid   sd. “Es s  Espñ  fin Rj  Cñt”, h insisd, rfrznd  i l xm  Rj  s urns  25  m.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1397399691_522384_1397401264";
+                
+Envir ví
+
+
+
+
+//
+
+ELPAÍS-LIVE!
+
+
+
+"Pr prir vz pl"
+Al rcgr  pr,  sculr  Fip Gnzáz h dnd pr  csión,  cjl Scilist Pdr Zr,  trtt  cáncr  páncrs,  h mstrd “mcind”  h fdid   Prd Scilist s “ prd   iguldd,  librtd   divrsidd”  viró  Espñ “  rfrt pr  md   fs   rchs civis”   prbción, tr trs,    l mtrim igulitri   rch l vt pr  ingrnts.
+“Espñ lgó  prir vz pl   cit   iguldd, j hbíms sid  prirs”. “Es s  mrc Espñ”, h brd Zr, “    hc   trbjn   rtrcs”.

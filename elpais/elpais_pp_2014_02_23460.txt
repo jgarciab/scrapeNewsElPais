@@ -1,0 +1,44 @@
+Cr  cruz   mñn   dng,  dí   trs   mbrs   nd Csión Intrncinl  Vrificción bín crr nt  juz   Audici Ncinl Ism Mr spués    virns cmprcirn  Bilb pr ncir  intción  ETA  srmr  trs  scificción   bnd   trg  rms   ví vid   BBC.
+El p   mbrs   csión lgó pc nts   cudirn      Audici,  s diz   mñn. Y  fu mr. El hdkri Iñig Urkullu vijó  Mdrid pr  s  Gbir vsc  br. Urkullu  h rid  Rm Mkklingm (Sri Lnk), Rn Ksrils (Sudáfric)  Chris Mccb (Ri Ud)   ht mdriñ.
+
+Futs l Ejcuv utóm hn firmd  Urkullu cidió rir   trs vrificdrs pr xprsrs  p nt  "incmprsión"    juici rfj  hch    s l  crr "cd hn std  trs pís  Sudáfric  Cmbi hcid sts sms css".
+Ningún mbr l Gbir  rfirió   crción   vrificdrs,   hub vrción l PP,  sigu  tr   prcs  dición intrncinl. El viccrtri  Esdis  Prgrms l prd, Estbn Gnzáz Pns, h firmd st mñn   vrificdrs "trbjn pr ETA   pr Espñ". Pns h ñdid  sts vi  mr  s h nd   dign "quién s pg  vij  quién s h hch  crg".
+L srprs lgó  trvés  Twittr, dn  xprt stdin, Bill Clintn xprsó  sábd s  cut sprnzs    prcs " pz" nú   bu c.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1393145363_241864_1393164330";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+El tvz   Csión Intrncinl  Vrificción (CIV), Rm Mkklingm, h gurd  dng trs  crción  trs  s mbrs nt  Ism Mr  quir r "trnsprts"  "cbrr   Jusci". "Crms  xist  uténc dd pr  pz", h firmd.
+"Estms quí h  rms r trnsprts  hms cbrd   juz Ism Mr. Estms trbjnd pr  slidción   pz   cxistci   Pís Vsc. Ds   cró  frm itrl  lt  fug prmnt  vrificb, ETA h mnd  c   cvidd rmd  cumplid  s cmprss. Ahr s mp  sr s rms  pnrs fur  us", h indicd.
+"ETA h xprsd  cmprs itrl, stms quí pr udr   st  lv  cb  intrés,  só  tds s prsns  viv   Pís Vsc si  tmbién l rst  Espñ", h grgd   brv crción  inglés íd   slid  s pncis judicis dn hn prmncid trs hrs.
+"Sms prfs  xprici  crms  tms  uténc dd pr  pz. Simpr hms trbjd   rspld   mrí", h cluid.
+
+
+
+Gd nws frm Bs ctr rd. Hp thir pc prcss nus.
+— Bill Clintn (@billclintn) fbrr 22, 2014
+
+
+El juz Ism Mr hbí citd pr  dng   is mbrs   Csión  Vrificción   fin   inficrn   mbrs  ETA     hn rid   úlms s pr brdr  inulizción  rms  xpivs. S trs   pudirn r clizds   tr   sábd pr hcrs trg   ficción.
+L did   Audici cut   p   fisclí,   vnzó  intción    pción  cmprcci rlizd   Ccv  Vícms l Trrrism l Pís Vsc (Cvit). Futs  Cvit xplicrn  tctrn   fisclí “ vist   currid”  virns  spués   “ ri  prsns utnds vrificdrs intrncins rn hbr rid  trrrists  búsd  cpr”.
+Cvit trsdó  intción  pdir   s citr  tsgs pr  “n td  infrmción  tgn sbr sts trrrists  prcis dón stbn, quiéns rn, si c  indd, dón  rirn  ,   bjv   s furzs  guridd  tgn  indit”. A  trsdó   fisclí    trnó  juz.
+L CIV nció  virns  Bilb  ETA h sd  “cndd trnd”  rms, ción  xpivs. Sgún firmó,  bril  2013 ETA slicitó   csión  prcs  sd  pust fur  us  s rms, ción  xpivs. Dspués    csión cptr s slicid,  pmbr l sm ñ, ETA  trnsó  stb dispust  dr  prir ps   prcs,   prduj  r  2014,   prsci.

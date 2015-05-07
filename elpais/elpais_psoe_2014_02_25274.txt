@@ -1,0 +1,137 @@
+Espñ mpiz  rspirr grcis l PP, intrprt Mri Rj. Espñ sldrá hrid  st crisis  culp l PP, rplic Alfrd Pérz Rublcb. Ds vis   úc st,  sición óc,  cpó  mrts  80% l du tr  prt l Gbir   crtri grl l PSOE   bt sbr  std   nción. Hub cuts silcis —Rj udió  trs vcs mcinr   l brt, mbs igrrn  mg  sr  ETA—   cr prcupción cmún: Ctluñ. A, tmbién  s, psicins disnts. Est s  rm l cr  cr tr  jf l Ejcuv   lír   psición,  EL PAÍS h xtrctd, ditd  dispust   diág.
+LA CRISIS, AÑO 7
+“El árbl mpiz  dr s fruts”
+Rj. L  spñ h psd   rcsión l crcit. El scs l pr  dicimbr s  prir s 2007. L bnz  pgs s psiv  prir vz s 1998. H  récrd históric  xtcins  ctr rísc. L prim  risg  h rducid   trcr prt. Est s, ñrís,   h cmbid  prm spñl   úlms 12 s. S h prducid  cmbi  tnci. H vrid  rumb, hms psd l rtrcs l vnc,   cíd   rcuprción,   mz   sprnz. Hms trvsd  éxit  cb  Hrs.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1393363572_244724_1393364455";
+                
+Envir ví
+
+
+
+
+//
+
+Rj: "Ls rfrms hn mpzd  dr rltds" / ELPAÍS-LIVE!
+
+
+
+Rublcb. Sñr Rj, ¿  pís viv ustd? Déj    trs rs:  mp rrnc  ñ   strucción  184.000 pusts  trbj,  rfrm brl bj  ds  10%, Espñ s  pís urp   sigulds, 600.000 lums pirn uds   rcrts  ducción, s rstriccins l brt dñrán  slud  s mujrs... Pr lns  spñs,  pr stá  lgr.
+Rj. ¿En  pís viv? Viv   pís dn hc  mp, cd usts cbbn  jr  Gbir,  rs rn: “máxim tsión”, “ rcsión  grv”, “Espñ tr  sición lít”... Pr frt, h  rs sn mu difrts. L psibilidd l rsct   mcin. Espñ r  str pr Eurp  h s prt l mtr. N s  xpctv, s  rlidd tngib. El árbl stá dnd s prirs fruts. Czn  plpr  rltds,  firm  cirt  s dids dptds   cutr jusficción   scrificis.
+Rublcb. N h vist  ngún prt tn tt, tn pgd   sm   tg bj tnt frit. ¿D  pr? ¿D r  prt   h vd impusts  s cs dis? ¿El  h d  ud públic  lt  100 ñs?
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1393363572_244724_1393364627";
+                
+Envir ví
+
+
+
+
+//
+
+Rublcb: "¿En  pís viv ustd?" / ELPAÍS-LIVE!
+
+
+
+L h pgd  vij trrrífic   sdd públic   ducción,  h luchd tr  déficit. ¿Pr   prfsrs    stán,   médics    trbjn   Sguridd Scil,  s uds  h quitd   pnci?
+LAS REFORMAS
+“¡A st  lm ir   bu c!”
+Rj. Ls rfrms stán mpznd  dr rltds rs. Dspués  nuv tristrs  rcsión hms guid bndnr. Y stms crcid,    mnr mrd. Ants  cpits huín,  stán  vut. N rivindic  mérit l Gbir,  s  trif   spñs,   sfurz, s scrificis   finz. El sfurz h vlid  p,  rltds mpizn  vr. Estms   c crrct   d huc pr vcicins. Nustr br s prvrr  scns   sm dircción.
+Rublcb. L   prgt s: ¿cóm viv  spñs spués  26 s  Gbir l PP? H rcrtd  ud   pnci, bcs, gsts ducvs  stris, h bid csi 50 impusts  tss, h hch   pists pgu   dicmts. ¡Y  s  lmn ir   bu c!
+Rj. N  dré  ssfch hst   pr rstr   crisis,  pr, cc  disnuir  furz. Qud much  hcr. Pr s  grn ci    cnms hci  ruin. En  sd   rcuprción l bistr  cir   hms lcnzd  prir cumbr.
+EL PARO
+“Pr prir vz  rduc  mp”
+Rj. Pr prir vz  td  crisis  cir  h ms prds  hc  ñ. Y  fbrr pdrá cir  h  filids dis   Sguridd Scil  hc  ñ. Hn trnscurrid 68 rgistrs ms,  trás  tr, ñrís cinc ñs  ds trcis l xt ñ, nts  grr  rltd. ¡68 rgistrs ms ngvs!
+Ns hms frtd   mr strucción  mp  Eurp:  65%  td  mp struid   UE tr 2008  2011  prduj  Espñ. Hms d  hmrrgi.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1393363572_244724_1393364546";
+                
+Envir ví
+
+
+
+
+//
+
+Réplic  Rj  Rublcb. / ELPAÍS-LIVE!
+
+
+
+Rublcb. En st gisr  hn prdid  llón  mps. Y cd  h crd  pc  mp h prcid  tr cr   rfrm brl:    prcridd. Sris bjs, trts  mp prcil  tms. N sn jbs, sn dirctmt mps br. En Espñ  jv pu str  prdiz hst  30 ñs. Están nnd   jóvs l bmp.
+Su m s bjr sris  rcrtr rchs.
+EL COSTE SOCIAL
+“L ptsis   siguldd”
+Rj. Hms rid prtgr    infss. L ncsidd s h bligd  muchs css,  hbí líts   stábms dispusts  trspsr. En s ds prds  imtnts   prpusts: ps  prstción  mp.
+Rublcb. N s vrdd   vir pcins. Ustd h d disnts pcins  simpr h ptd  ir tr   débis. Hn prvchd  mrí bslut   crisis  crtd, pr hcr    rch simpr quis hcr  nc  trvió. Hn vrd st gisr   ptsis   siguldd.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1393363572_244724_1393364677";
+                
+Envir ví
+
+
+
+
+//
+
+Rublcb, sbr  pérdid  rchs / ELPAÍS-LIVE!
+
+
+
+Rj. El mr rcrt scil   histri  Espñ hn sid  3,4 lns  prds   pérdid  70.000 lns  urs  ingrss   gisr 2008-2011. En ss ñs bió  pbrz  Espñ  13,5% (frt   2%   UE)   siguldd  1,4%. Ustd stb   Gbir, ñr Rublcb. ¿Rcrts? ¿Quién rduj  d   fcinris? ¿Quién gó s ps? El Gbir    stb ustd. ¿Es  furn rcrts?
+Rublcb. Ls spñs hn prdid   rchs  sn irrvrsibs. H sid  prdizj mu cru. Quir cir   spñs  cd gbrnms s vlvrms  rchs  usts s hn quitd. Su trif rá fír.
+Rj. Hc ñ  di quí  hbb  sprición l ur, rsct  Espñ, rcsión, umt l pr... H ndi hb  s slv ustd. Sub quí  hcr  discurs pclípc. Si tn ml s vn s css, ¿  s gcis  clificción dic  trri  ustd?
+Rublcb. Dic  s pclípc  grr. ¿Qué psrá  jv   v fur  buscr trbj  si   cutr  trs s  d  trjt stri? ¿Qué psrá  trspntd  h mpzd  pgr  s dicins   hspitl? ¿Qu  s pclípc    plíc s cru?
+Rj. ¿Cóm pu dr ustd ccins    pgn  rics   pbrs? ¿Pr   impust  scids h bid  prir vz  2012? ¿M pu xplicr  currió   ctr éctric? ¿Pr  Espñ s  trcr pís dn  luz s  cr? Usts  birn. ¿A quién bficib s, ñr Rublcb?
+CATALUÑA
+“V  pr   ctns”
+Rj. Espñ s  Estd  rch dn qui s gbirn  tds s  . Ls spñs  hms cid tr dición   idd,   rms  s vi brr. Qurms  pís id pr hnrr nustr histri  grnzr nustr fur. Tg  br  cupr  tds  spñs, vivn dn vivn,  cumpliré   br. N prmncré indifrt. V  pr   ctns.
+Rublcb. Ls css hn id  pr. El PSOE  v  vtr  fvr l rch  uttrnción,   prbm trritril b rslvr,   rfrm pctd, litd, did,   Cnsción. Est prbm h  fcr  dig.
+
+Rj. Tds stms sds   Cnsción   s s. Ndi itrlmt pu privr l jt l pub spñl   rch  cidir sbr  fur. Ndi. E rfréndum   pu cbrr. Mi bligción  prt s cumplir    hcr cumplir. Tgn  gur  cumpliré   bligción. Simpr h std dispust l diág,  tmbién. Pr ntr   Cnsción.
+L Cnsción pu r rfrmd. Quis prtdn  mdificción pu pntr,  siguid s rgs.
+Rublcb. L   Cngrs  pu hcr s cir rilmt “rms guir jts”  lug irs  cs  si  psr nd. Pr  stá psnd. L frmu s simpmt brir  diág, tmr t   tms  prbm  vivci. Litrs  cir “,   ”  v  rrgr  prbm, prbbmt  v  mprr. Crms  bcsión scinl,  pr hbr    rfrm scinl,   lgrá si lg, si pr cmprr  dignósc.
+LA CORRUPCIÓN
+“Vn   100 imputds l PP”
+Rj. Hms hch    trnsprci,    finncición  prds. Pr  Gbir,  rgrción s  cmprs. Trtrms   cd dí   difícil crrmpr  jr crrmpr. L crrupción  tc  ngún prd  spcil si   prpi mcrci.
+Rublcb. Cd mn s Audici Ncinl lgn cis  dic  ustd nó  st Cámr. Vn   100 imputds l PP. Cd hb  finncición  prds, ¿  d cut   td  md pis  ustd  h finncid iglmt durnt 20 ñs?
+Rj. D  css  crrupción  tms ci h  stán cupnd  tribs. El Gbir trbjrá   prvción   csg     prduzcn mñn.

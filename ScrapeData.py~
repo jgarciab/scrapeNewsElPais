@@ -1,0 +1,521 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import numpy as np
+import bisect
+
+
+def customaxis(ax, c_left='k', c_bottom='k', c_right='none', c_top='none', lw=2, size=12, pad=8):
+    '''
+    From stackoverflow. User gcalmettes
+    '''
+    for c_spine, spine in zip([c_left, c_bottom, c_right, c_top],
+                              ['left', 'bottom', 'right', 'top']):
+        if c_spine != 'none':
+            ax.spines[spine].set_color(c_spine)
+            ax.spines[spine].set_linewidth(lw)
+        else:
+            ax.spines[spine].set_color('none')
+    if (c_bottom == 'none') & (c_top == 'none'): # no bottom and no top
+        ax.xaxis.set_ticks_position('none')
+    elif (c_bottom != 'none') & (c_top != 'none'): # bottom and top
+        ax.tick_params(axis='x', direction='out', width=lw, length=7,
+                      color=c_bottom, labelsize=size, pad=pad)
+    elif (c_bottom != 'none') & (c_top == 'none'): # bottom but not top
+        ax.xaxis.set_ticks_position('bottom')
+        ax.tick_params(axis='x', direction='out', width=lw, length=7,
+                       color=c_bottom, labelsize=size, pad=pad)
+    elif (c_bottom == 'none') & (c_top != 'none'): # no bottom but top
+        ax.xaxis.set_ticks_position('top')
+        ax.tick_params(axis='x', direction='out', width=lw, length=7,
+                       color=c_top, labelsize=size, pad=pad)
+    if (c_left == 'none') & (c_right == 'none'): # no left and no right
+        ax.yaxis.set_ticks_position('none')
+    elif (c_left != 'none') & (c_right != 'none'): # left and right
+        ax.tick_params(axis='y', direction='out', width=lw, length=7,
+                       color=c_left, labelsize=size, pad=pad)
+    elif (c_left != 'none') & (c_right == 'none'): # left but not right
+        ax.yaxis.set_ticks_position('left')
+        ax.tick_params(axis='y', direction='out', width=lw, length=7,
+                       color=c_left, labelsize=size, pad=pad)
+    elif (c_left == 'none') & (c_right != 'none'): # no left but right
+        ax.yaxis.set_ticks_position('right')
+        ax.tick_params(axis='y', direction='out', width=lw, length=7,
+                       color=c_right, labelsize=size, pad=pad)
+
+def scrapeLinksElpais(urlPartido,linkPartido,rang0,rangF):
+    import urllib3
+    from bs4 import BeautifulSoup # third-party library!
+    import urllib.parse as urlparse
+    http = urllib3.PoolManager()
+    list_urls = []
+
+    for i in range(rang0,rangF):
+        print(i)
+        url = urlPartido+str(i)
+        r = http.urlopen('GET', url, preload_content=False)
+        html = r.read()
+        soup = BeautifulSoup(html)
+        list_links = soup.find_all('a')
+
+
+        for tag in list_links:
+            link = tag.get('href', None)
+            if link != None:
+                linkComplete = urlparse.urljoin(url,link)
+                #print(linkComplete)
+                if ("html" in linkComplete) and ("elpais.com/politica" in linkComplete) and ("actualidad" in linkComplete):
+                    list_urls.append(linkComplete)
+
+
+    list_urls = list(set(list_urls))
+    #print(list_urls)
+    with open(linkPartido, "w") as f:
+        for u in list_urls:
+            f.write(u+"\n")
+
+def scrapeTextElpais(partido, linkPartido):
+    import re
+    import urllib3
+    import string
+    from bs4 import BeautifulSoup # third-party library!
+    pattern = re.compile("<[^\<\>]*>")
+
+
+    stop = ["podemos","pp","psoe","ciudadanos","ganemos","ahora"]
+    with open('./data/spanish_stop.txt') as f:
+        for line in f:
+            stop.append(line.strip())
+    patternStop = re.compile(r'\b(' + r'|'.join(stop) + r')\b\s*')
+    http = urllib3.PoolManager()
+    with open(linkPartido) as f:
+        i = 0
+        for url in f:
+            print(i)
+            if i > 5000: break #Enough news, randomly distributed
+            i += 1
+            if i < 1340: pass
+            else:
+                r = http.urlopen('GET', url.rstrip(), preload_content=False)
+                html = r.read()
+                soup = BeautifulSoup(html)
+                text  = soup.find("div", {"id": "cuerpo_noticia"})
+                try: iz = str(text.find("div", {"class": "izquierda"}))
+                except: iz = ""
+                try: de = str(text.find("div", {"class": "derecha"}))
+                except: de = ""
+                text = str(text)
+                text = text.replace(iz,"").replace(de,"")
+                text = text.translate(string.maketrans("",""), string.punctuation+'“”')
+                #text = patternStop.sub('', text)
+
+                text = re.sub(pattern,"",text).rstrip().lstrip()
+
+                text = ' '.join([word for word in text.split() if word not in stop])
+
+                ind = url.find("/20")
+
+                date = url[ind+1:ind+11].replace("/","_")
+                with open(partido+date+str(i)+".txt","w") as outfile:
+                    outfile.write(text)
+                #print(url)
+                #print(text)
+
+def happiness(partido,path,periodico,lang = 'spanish'):
+    from labMTsimple import storyLab
+    from os import listdir
+    import datetime as dt
+    import time
+    import string
+
+    labMT,labMTvector,labMTwordList = storyLab.emotionFileReader(stopval = 0.0,fileName='labMT2'+lang+'.txt',returnVector=True)
+
+    stop = []
+
+    count = 0
+    files = listdir(path)
+    files = [_ for _ in files if ((not "link" in _) and (not "dat" in _) and (partido in _))]
+    files.sort()
+
+    dates = []
+    meanHap = []
+    i = 0
+    for file in files:
+        i += 1
+        if i%10 == 0: print(100.*i/len(files))
+        with open(path+file) as f:
+            print(file)
+            dates.append(dt.datetime.strptime(file[file.find("_20")+1:file.find("_20")+11],"%Y_%m_%d"))
+
+            noticia = f.read()
+            noticia = noticia.translate(string.maketrans("",""), string.punctuation+'“”')
+            count += 1
+            saturdayValence,saturdayFvec = storyLab.emotion(noticia,labMT,shift=True,happsList=labMTvector)
+            saturdayFvec = np.asarray(saturdayFvec)
+
+            saturdayStoppedVec = storyLab.stopper(saturdayFvec,labMTvector,labMTwordList,stopVal=1.0,ignore=stop)
+            saturdayValence = storyLab.emotionV(saturdayStoppedVec,labMTvector)
+
+            meanHap.append(saturdayValence)
+
+    dates = np.asarray([time.mktime(_.timetuple()) for _ in dates])
+    np.savetxt(periodico+partido+"_dates.dat",dates)
+    np.savetxt(periodico+partido+"_happ.dat",meanHap)
+
+
+def plotHapp(periodico,year="2014"):
+    import statsmodels.api as sm
+    import pylab as plt
+    import time
+    import datetime as dt
+
+    from matplotlib import rc
+    rc('text', usetex=False)
+    fig = plt.figure()
+    ax = fig.add_subplot(111)
+    for partido in ["pp","psoe","podemos","cs"]:
+        x = np.loadtxt(periodico+partido+"_dates.dat")
+        y = np.loadtxt(periodico+partido+"_happ.dat")
+
+        if partido =="podemos" or partido == "cs":
+            year = "2014"
+        else:
+            year = "2000"
+        y = y[x>time.mktime(dt.datetime.strptime(year+"_02_15","%Y_%m_%d").timetuple())]
+        x = x[x>time.mktime(dt.datetime.strptime(year+"_02_15","%Y_%m_%d").timetuple())]
+
+        x = x[y>0]
+        y = y[y>0]
+        lowess = sm.nonparametric.lowess(y, x, frac=0.4)
+
+        x1 = [dt.datetime.strptime(time.strftime('%Y-%m-%d', time.localtime(_-1000000)),'%Y-%m-%d') for _ in x]
+
+        x2 = [dt.datetime.strptime(time.strftime('%Y-%m-%d', time.localtime(_-1000000)),'%Y-%m-%d') for _ in lowess[:, 0]]
+
+        #ax.plot(x1, y, 'o',markerfacecolor=(255./255,187./255,120./255),markeredgecolor="none")
+        ax.plot(x2, lowess[:, 1],linewidth=3,label=partido,alpha=0.7)
+    ax.set_ylabel("Positividad de la noticia")
+    ax.set_xlabel("Tiempo")
+    plt.legend()
+    ax.set_title("Positividad en las noticias de "+periodico)
+    ax.set_ylim((6.,6.5))
+    customaxis(ax)
+
+    plt.savefig(periodico+"all.pdf")
+    plt.savefig(periodico+"all.jpg")
+    plt.show()
+
+
+def createVocab():
+    from collections import Counter
+    import re
+    from labMTsimple import storyLab
+    import simplejson
+    from os import listdir
+
+    files = listdir("./elpais/")
+    files = [_ for _ in files if ((not "link" in _) and (not "dat" in _))]
+
+    c = Counter()
+    i = 0
+    for file in files:
+        i += 1
+        if i%10 == 0:
+            print(100*float(i)/len(files))
+            with open("./elpais/"+file) as f:
+                for mess in f:
+                    file = re.split(' |\n',mess)
+                    c += Counter(file)
+    del c['']
+    mostCommon = c.most_common(10000)
+    print(mostCommon)
+    mostCommon = list(dict(mostCommon).keys())
+
+
+    # Intersection with the dictionary
+    labMT,labMTvector,labMTwordListSPA = storyLab.emotionFileReader(stopval = 0.0,fileName='labMT2'+'spanish'+'.txt',returnVector=True)
+    l =  labMTwordListSPA
+    vocab = (set(l) & set(mostCommon))
+
+    ## stopwords from http://svn.tartarus.org/snowball/trunk/website/algorithms/
+    spaStop = []
+    with open('./data/spanish_stop.txt') as f:
+        for line in f:
+            spaStop.append(line.strip())
+
+    vocab = vocab - set(spaStop)
+    vocab = sorted(list(vocab))
+    print(vocab)
+    print(len(vocab))
+
+    simplejson.dump(vocab,open('./data/vocab.txt','w'))
+
+
+def bi_contains(lst, item):
+    """ efficient `item in lst` for sorted lists """
+    pos = bisect.bisect_left(lst, item)
+    return [((item <= lst[-1]) and (lst[pos] == item)),pos]
+
+def lda(messages,timesComb,combine=False,topicNum = 4,tit=''):
+    from matplotlib import cm
+    import lda
+    import pylab as plt
+    import re
+    import simplejson
+    from collections import Counter
+
+    vocab = sorted(simplejson.load(open('./data/vocab.txt')))
+
+    numWordsExtr = len(vocab)
+    print("Vocab",len(vocab))
+
+    numberCharacters = []
+    allMessages = np.zeros((len(messages),numWordsExtr))
+    j = -1
+    for mess in messages:
+        j += 1
+        # Very efficient way to count words
+        file = re.split(' |\n',mess)
+        c = Counter(file)
+        del c['']
+        values = np.zeros(numWordsExtr)
+        for word in c:
+            pos = bi_contains(vocab, word)
+            if pos[0]:
+                values[pos[1]] = c[word]
+        allMessages[j,:] += values
+        numberCharacters.append(len(mess))
+
+    np.savetxt("./data/corpus"+str(topicNum)+tit+".dat",allMessages,fmt="%d")
+
+    model = lda.LDA(n_topics=topicNum, n_iter=1000, random_state=1)
+    model.fit(allMessages)
+    topic_word = model.topic_word_
+    np.savetxt("./data/ldaTopics"+str(topicNum)+tit+".dat",np.asarray(topic_word))
+    for i, topic_dist in enumerate(topic_word):
+        topic_words = np.array(vocab)[np.argsort(topic_dist)][:]#-[:n_top_words:-1]
+        freq_words = np.array(topic_dist)[np.argsort(topic_dist)][:]#-n_top_words:-1]
+
+        print('Topic {}: {}'.format(i, ' '.join(topic_words[::-1][:50])))
+        print('Topic {}: {}'.format(i, ' '.join([str(_) for _ in freq_words[::-1][:50]])))
+
+    doc_topic = model.doc_topic_
+
+    if not combine:
+        times = timesComb
+        allDisSorted = []
+        for i in range(len(messages)):
+            allDisSorted.append(doc_topic[i])
+    else:
+        i = -1
+        j = 0
+        pepe = np.zeros(topicNum)
+        currentDate = timesComb[0]
+        allDisSorted = []
+        times = []
+        numberCharacters = []
+        tempChar = 0
+        for mess in messages:
+            i += 1
+            if (currentDate - timesComb[i]).days > 0:
+                pepe[doc_topic[i].argmax()] += 1
+                j += 1
+                tempChar += len(mess)
+            elif np.sum(pepe) == 0:
+                currentDate += dt.timedelta(days=7)
+            else:
+                #print(pepe/j)
+                allDisSorted.append(pepe/j)
+                times.append(currentDate)
+                pepe = np.zeros(topicNum)
+                j = 0
+                currentDate += dt.timedelta(days=7)
+                numberCharacters.append(tempChar)
+                tempChar = 0
+
+
+    allDisSorted = np.asarray(allDisSorted)
+    np.savetxt("./data/allDistComb1Day"+str(topicNum)+tit+".dat",allDisSorted)
+
+
+    p = np.zeros(len(times))
+    colors = []
+    for i in range(topicNum):
+        ax = plt.subplot(topicNum+1,1,i+1)
+        #print(allDisSorted[:,i])
+        v = allDisSorted[:,i]
+        ax.fill_between(times,numberCharacters*(v),p*numberCharacters,facecolor=cm.jet(1.*i/topicNum),alpha=0.3)
+        p = np.zeros(len(times))
+
+    plt.xlabel('Time',size=18)
+    #plt.ylabel("Number of Tweets containing \n \"%s\" per million" %movie,size=18)
+
+    #customaxis(ax)
+    #plt.savefig("./data/"+'MatrixPrediction'+str(topicNum)+'.pdf', bbox_inches='tight' ,dpi=100)
+    #plt.show()
+
+
+
+
+#urlPartido,linkPartido,rang0,rangF = "http://elpais.com/tag/podemos/a/", "./elpais/elpais_podemos_links.txt", 1, 55
+#urlPartido,linkPartido,rang0,rangF = "http://elpais.com/tag/cs_ciudadanos_partido_de_la_ciudadania/a/",  "./elpais/elpais_cs_links.txt", 1, 26
+#urlPartido,linkPartido,rang0,rangF = "http://elpais.com/tag/pp_partido_popular/a/",  "./elpais/elpais_pp_links.txt",1, 4138
+#urlPartido,linkPartido,rang0,rangF = "http://elpais.com/tag/psoe_partido_socialista_obrero_espanol/a/",  "./elpais/elpais_psoe_links.txt",1, 5235
+#scrapeLinksElpais(urlPartido,linkPartido,rang0,rangF)
+
+#partido, linkPartido = "./elpais/elpais_podemos_", "./elpais/elpais_podemos_links.txt"
+#partido, linkPartido = "./elpais/elpais_cs_", "./elpais/elpais_cs_links.txt"
+#partido, linkPartido = "./elpais/elpais_pp_", "./elpais/elpais_pp_links.txt"
+#partido, linkPartido = "./elpais/elpais_psoe_", "./elpais/elpais_psoe_links.txt"
+#scrapeTextElpais(partido, linkPartido)
+
+#happiness("podemos","./elpais/","elpais_")
+#happiness("pp","./elpais/","elpais_")
+#happiness("psoe","./elpais/","elpais_")
+#happiness("cs","./elpais/","elpais_")
+#plotHapp("elpais_",year="2010")
+
+h = np.empty(1)
+for partido in ["pp","psoe","podemos","cs"]:
+    h = np.concatenate([h,np.loadtxt("elpais_"+partido+"_happ.dat")])
+h = h[h>0]
+print(np.mean(h))
+#createVocab()
+
+
+def scrapeLinksLaRazon(urlPartido, urlPartido2,linkPartido):
+    import urllib3
+    import http.client as httplib
+    from bs4 import BeautifulSoup # third-party library!
+    import urllib.parse as urlparse
+    http = urllib3.PoolManager()
+    list_urls = []
+
+    for i in [0]:
+        print(i)
+        url = urlPartido
+        print(url)
+        r = http.urlopen('GET', url,  preload_content=False)
+        r.close()
+
+        #url = "http://www.larazon.es/news-portlet/html/teaser-viewer-portlet/teaser_page.jsp?portletItem=&refPreferenceId=teaserviewerportlet_WAR_newsportlet_INSTANCE_Wx7z&portletId=&contentId=0&categoryIds=18058565&date=20150506193100&teasertotalcount=378&firstItem=1&lastItem=378&globalFirstItem=0&globalLastItem=1500&globalLastIndex=9&scopeGroupId=10810&companyId=10132&languageId=es_ES&plid=12419&sectionPlid=0&secure=false&userId=10135&lifecycleRender=true&pathFriendlyURLPublic=%2Fweb&pathFriendlyURLPrivateUser=%2Fuser&pathFriendlyURLPrivateGroup=%2Fgroup&serverName=www.larazon.es&cdnHost=&pathImage=%2Fimage&pathMain=%2Fc&pathContext=&urlPortal=http%3A%2F%2Fwww.larazon.es&pathThemeImages=%2Fhtml%2Fthemes%2Fiter_basic%2Fimages&serverPort=80&scheme=http&isMobileRequest=0&includeCurrentContent=false"
+        r = http.urlopen('GET', urlPartido2,  preload_content=False)
+
+
+        html = r.read()
+        soup = BeautifulSoup(html)
+        print(soup.prettify())
+        list_links = soup.find_all('a')
+
+
+        for tag in list_links:
+            link = tag.get('href', None)
+            if link != None:
+                linkComplete = urlparse.urljoin(url,link)
+                #print(linkComplete)
+                if ("larazon.es/espana/" in linkComplete):
+                    list_urls.append(linkComplete)
+                    print(linkComplete)
+
+
+    list_urls = list(set(list_urls))
+    #print(list_urls)
+    with open(linkPartido, "w") as f:
+        for u in list_urls:
+            f.write(u+"\n")
+
+def scrapeTextLaRazon(partido, linkPartido):
+    import re
+    import urllib3
+    import string
+    from bs4 import BeautifulSoup # third-party library!
+    pattern = re.compile("<[^\<\>]*>")
+
+
+    stop = ["podemos","pp","psoe","ciudadanos","ganemos","ahora"]
+    with open('./data/spanish_stop.txt') as f:
+        for line in f:
+            stop.append(line.strip())
+    patternStop = re.compile(r'\b(' + r'|'.join(stop) + r')\b\s*')
+    http = urllib3.PoolManager()
+    with open(linkPartido) as f:
+        i = 0
+        for url in f:
+            print(i)
+            if i > 5000: break #Enough news, randomly distributed
+            i += 1
+            if i < 238: pass
+            else:
+                text = ''
+                j = 0
+                while(not text and j < 10):
+                    j += 1
+                    r = http.urlopen('GET', url.rstrip(), preload_content=False)
+                    html = r.read()
+                    soup = BeautifulSoup(html)
+                    text  = soup.find_all("div", {"class": "text"})
+                    text = ' '.join(str(_) for _ in text)
+                    text = text.translate(string.maketrans("",""), string.punctuation+'“”')
+                    #text = patternStop.sub('', text)
+                    text = ' '.join([word for word in text.split() if word not in stop])
+
+                    text = re.sub(pattern,"",text).rstrip().lstrip()
+
+                    print(len(text),text)
+                if j<10:
+                    date  = str(soup.find("span", {"class": "dateline"}))
+                    date = date[date.find(">")+1:]
+                    date = date[:date.find(".")]
+                    date = date.split()
+                    print(date)
+                    if date[0] == "Hace" or ":" in date[0]:
+                        year = "2015"
+                        month = "05"
+                        day = "06"
+                    elif "/" in date[0]:
+                        day,month,year = date[0].split("/")
+                    else:
+                        day = date[0]
+                        if len(day) == 1: day = "0"+day
+                        year = date[4]
+                        month = date[2]
+                        if month == "enero": month = "01"
+                        elif month == "febrero": month = "02"
+                        elif month == "marzo": month = "03"
+                        elif month == "abril": month = "04"
+                        elif month == "mayo": month = "05"
+                        elif month == "junio": month = "06"
+                        elif month == "julio": month = "07"
+                        elif month == "agosto": month = "08"
+                        elif month == "septiembre": month = "09"
+                        elif month == "octubre": month = "10"
+                        elif month == "noviembre": month = "11"
+                        elif month == "diciembre": month = "12"
+
+                    date = str(year)+"_"+str(month)+"_"+str(day)
+                    print(day,month,year)
+
+                    with open(partido+date+str(i)+".txt","w") as outfile:
+                        outfile.write(text)
+                    print(url)
+                    print(text)
+
+
+#urlPartido,urlPartido2, linkPartido = "http://www.larazon.es/etiquetas/noticias/meta/podemos", "http://www.larazon.es/news-portlet/html/teaser-viewer-portlet/teaser_page.jsp?portletItem=&refPreferenceId=teaserviewerportlet_WAR_newsportlet_INSTANCE_Wx7z&portletId=&contentId=0&categoryIds=18058565&date=20150506193100&teasertotalcount=378&firstItem=1&lastItem=378&globalFirstItem=0&globalLastItem=1500&globalLastIndex=9&scopeGroupId=10810&companyId=10132&languageId=es_ES&plid=12419&sectionPlid=0&secure=false&userId=10135&lifecycleRender=true&pathFriendlyURLPublic=%2Fweb&pathFriendlyURLPrivateUser=%2Fuser&pathFriendlyURLPrivateGroup=%2Fgroup&serverName=www.larazon.es&cdnHost=&pathImage=%2Fimage&pathMain=%2Fc&pathContext=&urlPortal=http%3A%2F%2Fwww.larazon.es&pathThemeImages=%2Fhtml%2Fthemes%2Fiter_basic%2Fimages&serverPort=80&scheme=http&isMobileRequest=0&includeCurrentContent=false", "./larazon/larazon_podemos_links.txt"
+#urlPartido,urlPartido2, linkPartido = "http://www.larazon.es/etiquetas/noticias/meta/ciudadanos", "http://www.larazon.es/news-portlet/html/teaser-viewer-portlet/teaser_page.jsp?portletItem=&refPreferenceId=teaserviewerportlet_WAR_newsportlet_INSTANCE_Wx7z&portletId=&contentId=0&categoryIds=105898&date=20150506193100&teasertotalcount=45&firstItem=1&lastItem=45&globalFirstItem=0&globalLastItem=1500&globalLastIndex=2&scopeGroupId=10810&companyId=10132&languageId=es_ES&plid=12419&sectionPlid=0&secure=false&userId=10135&lifecycleRender=true&pathFriendlyURLPublic=%2Fweb&pathFriendlyURLPrivateUser=%2Fuser&pathFriendlyURLPrivateGroup=%2Fgroup&serverName=www.larazon.es&cdnHost=&pathImage=%2Fimage&pathMain=%2Fc&pathContext=&urlPortal=http%3A%2F%2Fwww.larazon.es&pathThemeImages=%2Fhtml%2Fthemes%2Fiter_basic%2Fimages&serverPort=80&scheme=http&isMobileRequest=0&includeCurrentContent=false", "./larazon/larazon_cs_links.txt"
+#urlPartido,urlPartido2, linkPartido = "http://www.larazon.es/etiquetas/noticias/meta/pp", "http://www.larazon.es/news-portlet/html/teaser-viewer-portlet/teaser_page.jsp?portletItem=&refPreferenceId=teaserviewerportlet_WAR_newsportlet_INSTANCE_Wx7z&portletId=&contentId=0&categoryIds=105994&date=20150506214600&teasertotalcount=666&firstItem=1&lastItem=666&globalFirstItem=0&globalLastItem=1500&globalLastIndex=3&scopeGroupId=10810&companyId=10132&languageId=es_ES&plid=12419&sectionPlid=0&secure=false&userId=10135&lifecycleRender=true&pathFriendlyURLPublic=%2Fweb&pathFriendlyURLPrivateUser=%2Fuser&pathFriendlyURLPrivateGroup=%2Fgroup&serverName=www.larazon.es&cdnHost=&pathImage=%2Fimage&pathMain=%2Fc&pathContext=&urlPortal=http%3A%2F%2Fwww.larazon.es&pathThemeImages=%2Fhtml%2Fthemes%2Fiter_basic%2Fimages&serverPort=80&scheme=http&isMobileRequest=0&includeCurrentContent=false", "./larazon/larazon_pp_links.txt"
+#urlPartido,urlPartido2, linkPartido = "http://www.larazon.es/etiquetas/noticias/meta/psoe", "http://www.larazon.es/news-portlet/html/teaser-viewer-portlet/teaser_page.jsp?portletItem=&refPreferenceId=teaserviewerportlet_WAR_newsportlet_INSTANCE_Wx7z&portletId=&contentId=0&categoryIds=106003&date=20150506214600&teasertotalcount=510&firstItem=1&lastItem=510&globalFirstItem=0&globalLastItem=1500&globalLastIndex=3&scopeGroupId=10810&companyId=10132&languageId=es_ES&plid=12419&sectionPlid=0&secure=false&userId=10135&lifecycleRender=true&pathFriendlyURLPublic=%2Fweb&pathFriendlyURLPrivateUser=%2Fuser&pathFriendlyURLPrivateGroup=%2Fgroup&serverName=www.larazon.es&cdnHost=&pathImage=%2Fimage&pathMain=%2Fc&pathContext=&urlPortal=http%3A%2F%2Fwww.larazon.es&pathThemeImages=%2Fhtml%2Fthemes%2Fiter_basic%2Fimages&serverPort=80&scheme=http&isMobileRequest=0&includeCurrentContent=false", "./larazon/larazon_psoe_links.txt"
+#scrapeLinksLaRazon(urlPartido,urlPartido2,linkPartido)
+
+#partido, linkPartido = "./larazon/larazon_podemos_", "./larazon/larazon_podemos_links.txt"
+#partido, linkPartido = "./larazon/larazon_cs_", "./larazon/larazon_cs_links.txt"
+#partido, linkPartido = "./larazon/larazon_pp_", "./larazon/larazon_pp_links.txt"
+#partido, linkPartido = "./larazon/larazon_psoe_", "./larazon/larazon_psoe_links.txt"
+#scrapeTextLaRazon(partido, linkPartido)
+
+
+#happiness("podemos","./larazon/","larazon_")
+#happiness("pp","./larazon/","larazon_")
+#happiness("psoe","./larazon/","larazon_")
+#happiness("cs","./larazon/","larazon_")
+#plotHapp("larazon_",year="2014")

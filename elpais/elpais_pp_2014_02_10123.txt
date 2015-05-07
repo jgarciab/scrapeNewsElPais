@@ -1,0 +1,57 @@
+Mjdhnd, 30.000 hbitnts  1990, 70.000  2013, s  mdr  tds s pbcins  pul tríns   cs Gürt. Hbms  Guilrm Ortg, cid   gnt mcr  Frncisc Crr  Will, El Rt  L Rt, lcl  Mjdhnd s 2001  2005, imputd   cs Gürtl   lits  chch, fru fiscl  b  cpits. En s pcs párrfs vrms s hzñs,  vi chr  pc trás  mvi,   h hij  pdr  t  bu. Cm dic Mnu Frt, cjl l PSOE durnt 11 ñs  Mjdhnd, "quí lvb ñs ulizánd  urbsm   dinr prct l urbsm inbidmt  prducid pingüs bficis  muchs prsns,   s   prmtrs. Y gurmt spués   trm Gürt h guid  guirá". Pr Mjdhnd s trritri g. Allí tmbién hcí s ngcis   trm  sci  g  Agg, Jcb Grdn. En   s prmcins  luj, Twin Jns,  prc vris vcs   cus, vivirn lgún mp  grs  Aznr. Y l PP  Mjdhnd r cjl Jsé Luis Pñs, l   hms cid  pp prtgst   nci   rr.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1392044115_029570_1392056099";
+                
+Envir ví
+
+
+
+
+//
+
+Ls cuts  Will. / VÍDEO: ELPAÍS-LIVE!
+
+
+
+Ricrd Rr  Tjd, mbr  prc   tr vz  s hrtcs   cróc ngr   Cdd  Mdrid, fu lcl  Mjdhnd s 1989 hst 2001, ñ    cidió dicr  l   crtrí rginl l PP, crg   cupb s 1996 bid  s muchs grcis,  lgs gts mliciss dic  tmbién  s muchs cpcids pr  cct  pts  urs. Hmbr mst, jó   pgr durnt ñs s cuts   Sguridd Scil  mprs  ftcpis prpidd  s hrms,  Sánchz-Lázr,  tín lgs intrs inmbiliris. Cd l vrgüz slió   luz, ndi  rubrizó   dircción  Gév,  lugr  mntr  cór, ptó   mgndd, di  ps nt  dij   h prbm, pgms strs,  much  bms. Curis  Rr  Tjd, mbr  t trpizs  cd pc si quirs invsgr l sncch inf  fu  tmz  2003.
+Grss md,  icis  s rcins tr  r   h   gpris mjrigs pu rr -   hc quis c  pñ-   gurr tr   rtdxs l PP -Rr  Tjd  Nrcis  Fxá, rcudción  rcrrid in si/Cdd/Gév-,   mrs  prc   lugr, rcudción in si, tmbién,  rprt  ds ms tr Ortg  Crr,  pr lvárs trs quí stms strs,  svi nuv l PP crid   pchs l znrism. Rr  Tjd  hbí crd  mprs pr mnjr  , Pmms, l mrg  s diss bligcins gs. Al frt sió   hmbr  finz,  cjl Nrcis  Fxá,  l finl  dó   snt   limsn: h, tnts ñs spués, sigu sid  lcl   clidd. L brnc cv dt   prirs ñs 2000, cd s Rr  Tjd   lcldí  j  Ortg  lcl,  prcí pc cs, pr rrvr  Fxá   si cv l mnd l urbsm   cmpr-vt  . Y  ls rrs, sts brrs,  rlt  Ortg,   prcí  pigr pr  sts qu, slió  slió.
+
+Pr hcr brv,   s fácil, Pmms jugb   rchs pr hcr vivid prtgid    cmbib   prmtrs pr hcr vivid libr  s prcs   scbn  curs,  ncins ts  RN1  D2. L   psición scilist lmó " prmutz". Y s  si  vivid prtgid -hbms   mps l drilz- vlí 180.000 urs,  libr pdí cstr 600.000. Clcul usts  cuánt scdí  pr grd  hcrt  p bm inmbiliri  lg  l chl. 250  sts rchs  públic  privd, trducids  250 piss  luj,  jmp, sigficb  mu sigficv cifr  ci lns  urs. A  trucr  influir  lg  ss curss r  p  murt tr s structrs  s prtctrs. Afr 4, prpidd  Ant Cub, r  mprs  grb  br  Mjdhnd trs Rr  Tjd  Fxá prmvín  curss pr lvr  cb  "prmutzs". Pr  Ortg - Crr,  rlidd-   gustb nd    birr s prt l pst. En  nci nt  fisclí stá grbd st fr  Ortg   grup cipl: "N v  cptr   rquitct cipl cmbi  infr   prc pr    lv Afr 4. L sit   lm,    v  cptr". Y s  Crr  hbí prstd  vris mprss s pr hcr   btín.
+Pr  p  prcins  mntó  scánd - prir prmut  2000,  tr  2003-     rrn   ps Fxá,  hmbr l PP  vrtbrd,  Guilrm Ortg,  qui cuidb  primr Frncisc Crr. Tnt   sps   úlm, Crm Rdríguz Quij, cid   sbrmbr   Brbi,   hbí vrd,    ms,    jf  gbint  Will, El Rt  "crbr  msquit"     cir l grn cp  s grbcins  Pñs, pr guir l lcl hst cts  tn siquir sñds   simpác Will. Cm tr,  jmp, lg cut  Suiz,    figurb  bficiri   scidd rdicd   is cribñ  Nvis,  prís fiscl    cgdr.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1392044115_029570_1392056989";
+                
+Envir ví
+
+
+
+
+//
+
+Entrvist  Mnu Frt, cjl l PSOE  Mjdhnd durnt 11 ñs
+
+
+
+O  rcibir,  s muchs fvrs   trm, lgs prbds   tln   uts. Crpintrs  cbrn  fcrs flss l Att    rlidd, bj s xprts ñs   sps  Ortg, Gm Mtmrs, fccinrn  hrms mub  cdr  did   rr pr  dcili flir. En 10 ñs, jt   mujr, lgó  tr 39 vhícu  pr    rltrn mu nrss, chrs  gslin. Más  40 vijs  stncis -s   s flirs, inclus   rvici dmésc-  hts  prluj  Espñ  vris pís,   lgs crucrs. Trjs, tmbién trjs,  blss  Lw pr  ñr, bs  s  fútbl… Y h, tmbién, trgs  m  cits  s  urs  udrín pr  pg l pis  luj   cmpró   sm Mjdhnd.
+Y rjs, muchs rjs. Pr gún tó l juz    x cjs dísc  Mjdhnd, J Jsé Mr, Guilrm Ortg "r  pd   rjs,  pd ,  scrbrd", pliz Mr,  lgó  tr " rmri   cs bslutmt bsl" l  rjs. H stnci   Will cmpró   jrí Suárz rjs   vr prir l llón  urs, tr  vris Pnri  lgs Hubt. Un lbrán ñ, cmprds   glp, trs crnógrfs izs  23.000 urs.
+Al gurr  s prcs culnó   sción  Ortg,   prción    v  intrvir  ssim Esprnz Aguirr. Grs, hlló  slución: Fxá mrr Pmms,  mdr l crr, jt   lcldí,   Guilrm Ortg, pbrcil    s   nd,  mbr grt l Mrcd Purt  Td,   d prir l  lcl. Cm v,  csg jmpr   lirs, simpr tn fir   luch tr  crrupción.

@@ -1,0 +1,33 @@
+Esprnz Aguirr, xprt   Cdd  Mdrid  cndidt   Alcldí   cpitl   PP, sir   prd " stá  much ms   jr mmt". L dirigt rginl l prd gur  st circstnci   ug  prds  quir "stbilizr  mcrci" ( rfrci  Pms), sn s   hn hch vlvr   prir fi   plíc. Ls crcins Aguirr   gci Ef lgn   mmt   , trs  rrt  s ccins ndluzs,  stán rvd furts ts intrns   PP.
+
+"Y  psb vlvr,  vrdd", gur  prt l PP  Mdrid, qui ritr ,  2012  2014,  sición  Espñ " h trird  tl mnr" , md   "pigrs" irrupción l prd  Pb Igsis,  h hch dr  ps l frt."N r  mmt    pusir  prfil, justmt cd vi ml dds s cd h  r vlits", firm.
+Inrs  nuv  cmpñ,  cndidt   Alcldí  Mdrid quir jr trás  cmtris sbr  signción   cruc  crcins  Gév ds dís spués   mbrt ( cut   xigci l PP ncinl  , si s gid lcls, jrí  dircción l PP rginl).
+D hch, g r  chin   zpt  prt l PP. "¿Qué discrpncis? Es   h mstrd ng", br, nts  ptr   "disgust"   bid  impusts  lvó  cb  Gbir ctrl fu "quiprb l  Mri Rj".
+"Otr cs s     ñr Mntr (str  Hcid)  h vcid   r ncsri,      h vcid. Cr   impusts bjs grnzn  b  rcudción", rgumt. A  hiz, rcurd,  gbir  Jsé Mrí Aznr, l   sit "rgul"  hbr prtcid. "Cr  hicims  mgnífic gsón  psr  str  rí", mfist.
+Prcismt Aznr s   s prsns   gustrí  prcip   cmpñ ctrl -"Ti muchs vijs, tdví   h tstd", dic-, igul  Mrí Sn Gil  trs prsnlids " ntr   fur l prd".
+Y  vz   cbr s ccins, si s gn, tcrá str  dstrr  Att      virt   "prmt", si    dstrción l rvici   . Pr s  quir hbr  pcts, si  icivs,  "si h prpusts  Ahr Mdrid (mrc  inclu  Pms)  sn cptbs, ¿  ?",  prgt.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1428138175_612092_1428139210";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+E "tt pñ pr  grn ciudd", l rvici   , v  r  máxim  prsid  gsón, si s lcls, jnd   d  bts prmtris ,   juici, b dr pr trs frs,  ctrr  rslvr  prbms  tds. "Y cd dig tds, sn tds". "Qu Mdrid,  s s ciudd birt, cgdr, libr,   s ciuds jrs l md,  s:  libr,  birt,  próspr,  limpi   vr", prt.
+Ls crcins  Aguirr  difn l dí siguit    tvz l PP  Csl-L Mnch, Crm Ribs, crg  máxim finz   núr ds   ppurs, Mrí Drs  Cspdl, cusr   t  prs  dirigts   prd,     mcinó xprsmt,  trtr  "stbilizr l prd" trs  rrt frid   ccis ndlucs l psd 22  mrz.

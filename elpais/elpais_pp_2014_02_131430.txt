@@ -1,0 +1,35 @@
+Sus   2.000 tms hc l cs Gürt   vlus   h vist   Audici Ncinl,     csmbrd  grns cuss. Más  ci imputds  csi trs tnts bgds fsrs:   80. Y dijims   hn cursd 147 cs rgtris  21 pís. Y  Vlci h birts is cuss pr  sm cs. Jucs, ficis  juzgds, crtris, cs  téccs  Hcid   plicís hn dicd s  s  hrs  trbj  st nuci  cí  PP. L list  prsts lits s rg, rg: b  dinr, chch, fru fiscl, prvricción, tráfic  influcis, fldd  dcumt públic, ficil  rcnl, finncición igl, mlvrsción  cuds públics… ¿Vlum óc? Tdví impsib  clcur,  pis, gurmt,  s cts cs  lns  inclus cits. Un dinr.
+Quis c bi  cs cr   s  fbrr, just   cinc ñs  l uts  Grzón,  juz Pb Ruz pu tr  tds  dts sbr  s,  hbrán cbd  lgr  infrs   UDEF,  Intrvción Grl l Estd   Agci Tributri. Inclus  stán quí  rltds  tds s cs rgtris vids  Suiz   trs pís, incluids vris príss fiscs  hst  Scción Curt   Audici crtó  mrts psd   prácc ttlidd  s prubs bds durnt  cinc ñs  invsgción l cs Gürt sn válids,  s scuchs rnds  Grzón " tnn  rst   cus". D nuv, frcs  s fss pr inttr nur  prcs.
+
+Pb Ruz,  juz jv,  38 ñs,  scsmt cid l grn públic,  hiz crg prvilmt l Juzgd núr 5   Audici Ncinl  ji  2010, trs  trif   prcución tr Grzón. Ds tncs h lvd  cb  trbj gigntsc   juzgd     crg, , trs muchs css, tr  lgs tn imtnts  diács   SGAE -s 120 tms-, Nuv Rums , úlmmt, Pscv  Nmr. Td  sprpósit  cumución  trbj - rspnsbilidd- pr  s juz.
+H qui dud    psib cbrr  mcrjuici    ci cusds stds   bnquil kimétric. Pr futs  c bi  trsijs   Audici   cmpjidd  Gürt, cr   juz Ruz pdrí str psnd  prr  cs  ds -h ntcts mu cids,   cs KIO-  jr pr  gd f lgs spcts crts. Cn td, h  tr  cut  Bárcs brí r juzgd   prir b,  s cuss  prs  prnci. Bdil  Argnd, dd  cmpjidd  s cuts   xtrnjr, pdrín dr pr  gd f. S jrí  ds juicis   did mnjb. S pndrán lgs fsrs,  prfrirín, si  h  rdi  ir  juici -ún inttrán  nulidd  trs vís-,  j   fusión l mcrjuici. L trí l rí rvut. ¿Y h fch   hriznt pr s vist? Ls sms futs fín     ñ próxim,  2015,  fiv. Muchs ñs s  ici   instrucción pr  prfs,   xcsiv trdnz pr  critris   sistm tn grnst   spñl     muchs   cusds,   PP  prir lugr,  mnr prb, hn pust tds  p psibs  s ruds   mquinri judicil.
+A s cirt   jusci  simpr v lt. Cn Bltsr Grzón, (Trrs, Jén, 1955) fu inclus  vcidd  U Blt. Pr  ,  rm judicil l cs Gürt s scrzndr. Y hms vist  h, hst  mmt,  s nd  prir división: Bltsr Grzón, trs tmbién h  bt  prir división: Frncisc Cmps. L rlidd,  vcs, prc  brm  ml gust.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1392308084_036561_1392316834";
+                
+Envir ví
+
+
+
+
+//
+
+Entrvist  Bltsr Grzón: "El PP pus tds  p  s ruds psibs pr dificultr  invsgción" / ELPAÍS-LIVE!
+
+
+
+En Vlci  scz  dis  s ptt. Cn 53 imputds  Gürt,  trs tnts  disnts css  crrupción -Bsc, Brugl, Alpri-,  cutr jucs s cutn  ds crtris judicis  sit fcinris. Sirv  dt risib  s h  ftcpidr,   sirv  scánr,   hc  s cs pr rcgr  dcumtción  hgn intrnbs. Hc  s   h guid  juz  p. Y h, prc mr, ds jucs ncrrupción  hn trbjd,  trbjn,   fán   rigr cbs. Allí, s is cuss vn  tr  sprr s inclus pr tr fch  juici. El cs Fir  stá crrd pr  vist,    stá cbrnd tr juici  crrupción,  cs Bsc,  pdrá fijr fch hst  ést trn.
+
+Mitrs,  princips cusds   trm -Crr  s udnts- hn cidid  crr. Un fs prfctmt crdind  h prfrid fir  s triquiñus jurídics jr   prbr  icci   cusds. Quizá  st úlm,   vist  s innurbs  ptts prubs,   impsib. S pu hcr  prgt,   pms  rspust: ¿Y quién dirig  crdin  tnts bgds? Ndi  trv  tstr  crtz bslut. Si prir fu Fric Tril - s pinn muchs   ltds  EL PAÍS-, h lgs futs dudn tr lg   bgds   imputds, sbr td Jsé Ant Chclán, x juz   fsr  Crr  Luis Rdríguz Rms,   s   hrms Mrtín Vsc, Jsús Mri  Guilrm Ortg. Pr h qui  scrt lg "ud xtrn",   mbr crc  Tril: Adlf Prg, x mgistrd l Suprm  cl fsr  Drs  Cspdl. Prg s, , hmbr  viccins firs. Ultrrchists,  firs.
+L dijims  prir dí. Ls  tms much  grcr   grup  fcinris,  ds  muchs css ms  dis,   crrn  sión  trbjrn - trbjn- durnt hrs  hrs pr scrcr  cmpjs css     frtn. Grcis l mpñ   ntrirs  cs jucs   cus, Grzón, Frs, Ruz  Crs,   br   fiscs crgds l cs,  trbj plicil    téccs  Hcid,   td  prsnl uxilir prcis,  cs Gürt h grd slir nt.
+Cnvi rcrdr  sts mps  sprci  sfcción hci td  públic ,  mnr mu spcil, hci  Jusci.

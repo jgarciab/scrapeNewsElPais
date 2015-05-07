@@ -1,0 +1,50 @@
+L mrí bslut l PP h rchzd  juvs   Jt  Prtvcs l Cngrs   prt l Gbir, Mri Rj, cmprzc  próxim mn  sión plri pr xplicr s icivs frt   css  crrupción,  hbí pdid  psición. El PSOE  Izquird Plurl hbín pdid  psd mrts   vcr  p spcífic  Rj,  prpust  rcibió  rspld l rst  grups   psición.
+Izquird Plurl: "El PP t much"
+El tvz   Izquird Plurl (IU-ICV-CHA), Jsé Ct, h dich sr "vrgüz"   "tz" l PP   cmprcci  Rj  "s"   "inúl" strtgi, pust  stá vcid   l finl  rprá   currió  ñ psd trs  stllid l cs Bárcs, cd  jf l Ejcuv cbó cudid " rstrs" l Sd. Ct h ñd   cjrán   mpñ  citr  Rj  s "impsib hcr prpusts  fur  rr l psd". "El PP sbrá    g,  qui t s  lg b   PP t much  b  br much ", h stcid.
+PSOE: "L scidd stá indignd"
+
+
+
+
+
+
+
+mplir ft
+
+Pdr Sánchz  Mri Rj,   Cngrs   ércs. / Pc Cmps (EFE)
+
+
+
+El tvz l PSOE, Ant Hrnnd, h mtd  Rj h ptd  " huid   silci". "L scidd stá indignd  hrt   crrupción   prt,  sb,  tst", h dich, nts  clificr  "mu scss"  rgumts sgrids   PP pr rchzr  pción. "N  vrr  Cngrs   nv spcil rspct   scidd spñ, quí h  hbr    prcup   ", h firmd Hrnnd, qui h vnzd   PSOE v  guir insisd  pdir  cmprcci l prt.
+UPD: "L cbrdí nc s  cd"
+L lír  UPD, Rs Díz, tmbién cr  l finl Rj drá xpliccins " rstrs". H visd,  bstnt,   hst  s curr  irá cumd " cst" plíc  gr  crrupción    "rspnsb" rá  jf l Ejcuv. Díz sir "mtb, scrzndr  primt"  Rj "  scit   b  xplicción"    dr s  "trpi mcrác". H rmrcd   PP,   cd, "  prtgr   drns", lit " st cd vz mr"   . "L cbrdí nc s  cd,  prbms h  frtr  si   vcms, s vc", h stcid.
+Esrr: El PP quir "rbr  bt"
+El tvz  Esrr Rpublicn, Alfrd Bsch, h ncid , trs  ngv l PP,  grup v inttr prmvr  pción  crción   csión  invsgción sbr tds  css  crrupción  hn d lugr  "td  Estd spñl"   úlms ñs. "Qurms    cus grl tr s ms prccs", h tld, cusnd l PP  rr inclus "rbr  bt"   psición.
+PP: El p " cbró r"
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1414667285_549807_1414686371";
+                
+Envir ví
+
+
+
+
+//
+
+El tvz l Grup Ppur   Cngrs, Alfns Ans. / Ats
+
+
+
+El tvz l Grup Ppur, Alfns Ans, h jusficd  ngv   vctri   sión mgráfic sbr crrupción  prsci  Rj    "p s básicmt    cbró r",  rfrci l bt sbr  úlm Cnj Eurp,   mrí prvchó pr xigir l prt  dé xpliccins. Trs ñr  tds  s mns  hb   Cngrs "    diputds quir", Ans h jd cr   PP,  "rspnsbilidd",  v  fcilitr  cbrción   "bt strucv"   ,   juici, v lugr  ércs. "Nstrs  vms  dr  spcis pr  frtt  pr  spctácu l   cr   ñr Pdr Sánchz  pu sr mu rgu".
+PNV: "N  di xplicción lg"
+El tvz l PNV, Aitr Estbn, h cricd  rchz l PP  h hch hincpié     vivió  Cámr  fu  bt mgráfic  rcm  psición   cl. "Algs  zrzrn  cuscins mus,    tró  hbr sbr  prbm  sbr cóm tjr,   di xplicción lg", h plizd.

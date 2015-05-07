@@ -1,0 +1,43 @@
+Ndi,  siquir  grn mrí  dirigts l Prd Ppur, nh  rgrs   plíc  girió ch Jsé Mrí Aznr. Vris mbrs l Ejcuv  dirigts ppurs hn spgd h,   vrid spctr  vrcins,  rspust  s crícs l xprt. Rccins  rfjn  cr mstr  s fis ppurs. S  prt  Mdrid, Ignci Gnzáz, h fdid  s pbrs  Aznr sn "rmt intrsnts".
+El str  Hcid, Cristóbl Mntr, h smzd   P l Cngrs   vi rpid  públic   privd s hc mns. "Y  gustrí bjr impusts,   h mrg", h mfstd  rfrci  s xigcis l xprt. El r  Hcid,   guró nt Esprnz Aguirr   Gbir  Aznr trdó trs ñs  bjr impusts, h clificd, , s pbrs  "ñrnzs  mclís". En  pión, h  jrs "pr tr dí".
+
+L núr ds l Gbir,  vicprt Sr Sáz  Sntmrí h rid jr cr  Mri Rj   Gbint trbjn pr "scr nt"  pís. "Espñ viv  mmt mu difícil. Est Gbir stá trbjnd pr scr nt", h mfstd   psil l Cngrs   Diputds l rcrdr, frt   bjd  impusts  l gir   plíc tributri  rcm Aznr,   Ejcuv "grc spcilmt tds s tcins   pudn hcr pr    pís  vuv  crr mp   vuv  crcr". "En st s    stms  s s    s dicms", h grgd.
+En  sm lín,  tvz ppur   Cngrs, Alfns Ans, h brd  "  ud   rcuprción l pís s  prct rfrst  lir Mri Rj". "Td  md pu rlizr tcins ,  pust, Aznr. Un sistm mcrác  bs   bt públic infrmd   s pins  s  trs pudn dr", h cdid. A , h stcd  Rj cut   mrí   rspld   Prmt    hn psitd  finz  ctrs.
+U    crs  Aznr h sid  prt   Cámr bj, Jsús Psd,  fu  str  Agriculr   Adstrcins Públics. "Ls css  vn pr  vlvr    mps vn  tr c", h ñd. "El ps l mp s inxrb. H  css  virn  mmt  cr    svims    str mu rgus,  s css  vn pr  vlvr". Pr  vrción  Psd h id  llá. "Es   r hum s  s,  cd  pis   pis   sm. Y dig  pión s fur,  pin vist s si sm, s ntr", h mfstd.
+El str  E, Luis  Guinds, tmbién tstó  Aznr. Sbr s inucins  vut l rud plíc l xprt, mfstó   s “bslutmt l” l prt l Gbir, l  v mu slidd  fir. Al rspct, dij  Rj “s  prt  s crctríscs cuds pr scr  Espñ   crisis  hcr frt   prbms  rts    pís,  sn grvs  prfds”. En  sd, stcó   Gbir h dptd s dids  just scids  ñs, “ cim inclus l Pn  Estbilizción  1959”, infrm Migu Áng Ncd.
+
+Sbr  bjd  impusts  pidió Aznr, Guinds,  intrvi   cutr rgzd   Ascición  Pridists Eurps, dij  “  h mrg pr bjr”  ,  td cs, “s  pu brdr cd  sit  rcuprción   vz   incl   Prpusts Grs l Estd”. El str  rfirió l Prgrm  stbilidd vid  Brus ,   sd, bró  “nts l 2015 rvrrá ttlmt  bid l IRPF prbd  fins  2011”. El str,  rcrdó  Aznr  “ bts  pntn librmt”, firmó   vrdr prsión  fr   rdic   mp     impusts. N bstnt, rmtó  Aznr  td  rspt   “h hch much  Espñ”.
+ 
+Tmbién  prt   Xt, Albrt Núñz Fijó, h mstrd  p  Rj. "El PP s  prd  lts", h firmd. "Y  prd h sid l   prt Aznr, s l   xprt Aznr  s sigfic,  cuci,    ltd inbrntb   prt Rj". Prgtd sbr  psibilidd    xprt vuv   plíc  cv, h gurd: "N duzc   trvist s cd  s prpust l xprt".
+Ls strs  Sdd  Jusci, An Mt  Albrt Ruiz-Glrdón. hn litd  mstrr  rspt  tds s pins. N bstnt,  s fis ppurs  mstr s plpb. El nuv tvz l PP   Prmt vsc, Brj Smpr, h irzd s  cut  Twittr: "Zptr  slid   jr xprt  Gbir". Ds  PP vsc, tmbién  h prncid Iñki Orzábl. El núr ds   frmción  Euskdi h gurd  Aznr sb   PP "rspld mritrimt" s plícs  Mri Rj, trs   h pdid "ltd" hci  cl jf l Ejcuv  l PP, infrm EP. 
+Mu sigficv h sid tmbién  vrción  Jp Ant Durn Lid. El tvz  CiU   Cngrs cr   Mri Rj   gidd  s urns  "  rc s pbrs l xprt Aznr. "N  h hch ngún bi  Rj,  Rj   rc s crcins l prt Aznr", h firmd Durn  s crcins  ptn   jr  s rcins  Gbir  Arr Ms.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1369215795_837108_1369230619";
+                
+Envir ví
+
+
+
+
+//
+
+rutrs-liv
+
+
+
+Ds  PSOE,  núr ds   frmción, El Vlci, h mfstd   psibilidd l rgrs  Aznr  prc  zc l  "n l mp   n   hrrrs".  El crdindr  IU, C Lr: "Aznr  s jó  hrci   pís. Djó l pís   gurr [ Irk]   s cucis tn drmács  virn spués  s gurr". 
+“N cr   vut l psd   slución”. A  tjnt h sid  crtri grl  CC OO, Ignci Frnánz Tx, cd   h prgtd   rtr  Jsé Mrí Aznr   plíc, i    jugó ch  xprt, infrm Mnu V. Góz. “Espñ ncsit rr l fur”, h guid Frnánz Tx. A tmpc  lír  UGT, Cándid Ménz,  sism  i   vuv Aznr: “Nc gds prts furn bus. Y   tmpc   prció  prir”.
+Tx,   s rgzd  Nuv E, h rcmdd l xprt l PP  nts  pntr vlvr hg   fr l r: “L sit much,  vlvrá  currir. Y   hg  rfrci    l ,   ft  s Azrs…”.
+Gnzáz: "El jr prt l Gbir"
+S  prt   Cdd  Mdrid, Ignci Gnzáz, h mfstd h  p  Aznr. Y h dich   h sid "prbb  jr prt l Gbir  h d Espñ  sts ñs"   s pins sn "rmt intrsnts pr tds", infrm Ef.
+"Tds s xprs, mfstcins  pins  Aznr  prc  r intrés", h rspndid Gnzáz   ct    h sid prgtd, hst  cutr cs, sbr  psibilidd    xprt l Gbir rgr   plíc.

@@ -1,0 +1,45 @@
+El r hum s lviddiz. Y Esprnz Aguirr, . "Lópz Vij  r  bslut   ttl finz", cró - scrit-  xprt   Cdd  Mdrid l juz Pb Ruz  17  dicimbr psd. ¡Pbr Albrt Lópz Vij,     hbí sid pr  lirs! Tnt  pr  Esprnz  citr   n  fin  cmpñ    s ds prsns  s  hbí  grcr  br. Y  s  xtrñr,  Lópz Vij, s  cómd Cnjrí  Dts, r  crgd  Esprnz Aguirr -¿quién si  ib  dr tl ?-  rgzr tds  cd    cts   prt, grn  pñ, fácil  difícil. Hst trb  cr   rp   jf pr   chics  Crr dptrn vitmt  crds. Alg vz hst cuidó    rtcrn s fts   prt,   siguit fcrción ñdid, pr "vizr rrugs"  "rtcr  p". Tí m  hirr: stb  vntb  s prirs fis  qui crí t, vir  rng  vir. Pr mndb -r  m jcutr  Esprnz-  mntón.
+
+Y s   mri  Aguirr s mu, mu débil,  tmpc s scit    mr d  crrupción stpd   cs Gürt stá incrustd    prfd l Prd Ppur  Mdrid, l   s prt,  20 imputds. Much h prd  hbr chd,  si l finl v  hcr s  svirn ntr durnt ñs. Aguirr    trb  tnt putrfcción  jb hcr. Pc vird h  ng  s ds pcins. Alcls, diputds, jrís… td stb tcd   rd. Y  prir lugr, Albrt Lópz Vij,  prsnj  fm din ntr l PP   sm  crgó  rsctr trs lgs incints  mrs,  sir, prir  núr is   list  2003, pr spués mbrr jr.
+Lópz Vij prvi  dn  sbms  stb  grnr  Crr:  jóvs ns l PP, l fms cn  Bcrril dn  limtrn, tmbién,  rnísim Ajndr Agg,  jr   Cdd  Mdrid Lucí Figr,   sr prsnl  Rj, Pdr Mrgs. Cncjl   Att  Mdrid, Jsé Mrí Álvrz l Mnz  djudic  1999  rspnsbilidd sbr Limpiz Urbn  Dsrrl Mdimbitl. Sigu   crg  Albrt Ruiz-Glrdón. Y llí birn mpzr s prirs przs  durnt  mndt  psición, PSOE  IU,   cnsrn  ncir  pdir xpliccins  s ingts cnds  dinr -cs  cs  lns  urs-  dicb  cjlí  s mprss cris   rcgid  brs  s  hbí  mr trs gsts srds   prpi jrí   sm cd. S pnín cs cs pr qui s utrizb. El mri Gürt rcg  jmp cristli:  djudicción  2002 pr limpir  distrit mdriñ  Mrtz pndrí s ingrss  48 lns  urs durnt diz ñs pr  mprs   dr   trt. Gnó Sufi S. A., prsidid tncs  Rf Nrnj. El 3%, dic  mri Gürt, fu pr  trm  Crr. Albrt Lópz Vij r  cjl  Limpiz. Pc spués, Vlhrms cmprrí Sufi   fm nurí. Es  prtgst,  Td, l rifirrf tr Cspdl  Bárcs. Hub muchs  ncis   bril l jv Lópz Vij -nció   68-  fu scurcid. Hst  Esprnz Aguirr,  mri tn fb,  rsctó  s scurids   cmpñ  2003   sió   vr.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1391700704_106857_1391761657";
+                
+Envir ví
+
+
+
+
+//
+
+EL PAÍS-LIVE!
+
+
+
+El sistm  prr  Lópz Vij   Cdd r mu scil. Práccmt tds  cts públics   Cdd -686,   cst  6,48 lns  urs, gún  mri-   djudicbn  s mprss  Crr   prci crdd tr ,   trl,    crgb   spizr  trts  bj   12.000 urs pr   hubir  hcr curs  ngún p. Y  is    spizrn,   vr  1,4 lns, virn  r prbds   Cnj  Gbir  prsidí  ssim Aguirr. Tmpc  curd. ¡Ti tnts css   cbz! Pr     trcbn, 680, s jrís pgrn durnt ñs ss fcrs  s  nd sbín, " lgbn l hmbr  finz   prt", gún cró lg   fcinris. Ls fcrs, , prstbn s prcis ttlmt busivs: hst  100%   50%  sbrcst, gún s smcins  Hcid. Al jr  Dts  crrspndí, dnción ltruist  Crr,  10%  cd prción. Ejmp  prcis pgds  rchistr  s mprss  Crr: "Trs tris  45.075,91 urs". O , 15.000 urs  tril,  4.500  1.500 pr  blsil  Lópz Vij. El Bén  2005 cstó 81.000 urs,  s  s figurs rn   Ascición  Bists  Mdrid. ¡Y  hmj l Gtf  bir  Prir División, 73.000 urs! Insisms: 7.300 pr  ficit Lópz Vij. Está mu cr  s grbcins  Pñs    infrs   plicí    Agci Tributri.
+
+Rmms: Albrt Lópz Vij, xjr   Cdd  Mdrid, cumuló, gún  Agci Tributri,  ptrim " jusficd  5,5 lns  urs". Est s   crb  ingrss nus  diputd  crg públic: tr 61.000  103.000 urs, pdid l ñ. Pr pr pgr  finz  750.000 urs, prstó  vl  chlé   hbí cmprd  Mdrid,   cl Arr Sri, pc nts   stlr  cs: 400 trs cudrds, cutr pnts  scsr, is hbitcins, cutr curts  bñ, ds sns, p intrir, piscin  grj pr trs cchs. Un gng   rlt críb: 1.200.000 urs, prci psitd nt tri. Más tr di llón  db  hí pdit. Dmsid pr  d. Tuv,   imtnts, cut  Suiz. Él   mujr, Trs Gbrr. "Pr huir   crdr", dij . S bfició   mstí fiscl l Gbir  rptrió  dinr. Un bu ciudd. Lásm  sté imputd   lits  b  cpits, chch, prvricción, tráfic  influcis  scición ilícit.
+Cnst  Lópz Vij  s  úc implicd   Cdd  Mdrid. Tms,  jmp,  Cr Cmt, xvicjr  Ingrción, h  Cmbi, bu g l xstr Michvi, l   prpi Crr,  chr tfóc intrcptd   plicí,  rcmdb “pcidd fiscl”. O, tmbién, l fcinri   Cnjrí  Sdd Grmán Rsil,  vijó grs  l    Ki - sfri-   Is Murici. Es, l ms, dic  UDEF.
+
+
+
+D Gév   Purt l Sl
+Frncisc Crr  j  Gév l mp   j  znrism  L Mnc. Pr s sts nún   trm s hc  spzr hst nuvs ss  busc  jugss ds. Es  lásm, cr,   Gév jbn gs. Y ngcis. Sbr td, ngcis,  Luis Bárcs  r culquir cs  prvdr  infits trts. Ni Pc Álvrz Cscs,  cóm v ndi  pnr  pud trtr   stris PAC,  tn grsmt rcmpsd prc   pps,  ríz  s cs  AENA,   épc     intrsd r  str  Fmt. A  plicí, siguid  vij chist  quí hn fumd, h lgd  ducir  ss sigs -PAC- crrspnn, h, gr,  Frncisc Álvrz Cscs. En Gürt   smrn,  s Cds tmbién ncsitbn finncición,   hí crc ndbn ss brilnts fdcins ultrlibrs - ultrgrss   prpust- ncids   znrism, tds s dnds   jóvs ns  tn bi cí Crr. Vl FAES  Fscm,  tnt mnt, mnt tnt. A   ñrs lcls, td prdiglidd. A   sigu trucnd trts  mñnd curss  crruptrs  crrmpids  ncsitn. Scrr mu. Cm  Vlci, rr  ds, dn  lns  urs  mulplicbn   gr   pns   pcs. Y pusts  tmpr grs, hst grrn cmbinr s chls  El Bigts   t ptrici  Bdict XVI.
+Próxims prds: Mdrid  Vlci.
+
+
+
+
+
+El s, cpí 7
+Bdil l Mnt  Argnd,  El Albndiguil  El Gfits.

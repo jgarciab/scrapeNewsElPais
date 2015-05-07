@@ -1,0 +1,36 @@
+Cm muchs trs mgistrds,  juz   Audici Ncinl Pb Ruz stá csmbrd  scuchr  trcr  gst xpliccins  tsgs  imputds   scpn   uss scis hbis  inclus   lógic  mtl. Sin mbrg,    ércs  fu msid: “¿M stá dicid   bgd  ustd  r scit   stb firmnd  dcumt   puñ  tr   s  pdrí trr rspnsbilids gs?”,  prgtó, gún  prs   pt  irritción, Ruz  Jsé Áng Cñs.
+El grt l PP  Csl-L Mnch cbb  rcr   scribió  firmó  rcibí  imt  200.000 urs,  dinr  pustmt trgó  2007  mprs Sufi —filil   structr Scr— l prd pr finncir  cmpñ pr s ccins utnócs   ñ, cbzds  Drs  Cspdl. Sin mbrg,  rglón guid guró  scribió  rcibí “bligd”  “l dictd” l xtsrr ncinl  jf  Luis Bárcs  , p    dic  dcumt,  prcibió cndd lg.
+
+“Rdcté  rcibí  r  rn   prir”, guró Cñs,  prfirió psr   imprt  vz    rcptr   pust mrdid   structr. En  crción l psd 15  juli, trs 18 dís  prisión, Luis Bárcs dó  tbilidd b  guró   200.000 urs   filil  Scr rn  csión   djudicción  Sufi l trt  limpiz urbn  Td, ciudd gbrnd tncs   PP. Ests rvcins mbcrn   imputción  Cñs, l xprt  Scr, Luis l Rivr,  l cl máxim dirigt   structr, Mnu Mnri. Ls trs crrn nt Ruz.
+Cñs tlló  firmó “ rn  Bárcs”  prir rcibí  100.000 urs  r  2007    fbrr   sm ñ  xtsrr  rmpió ,   xpliccins,  bligó  rdctr  nuv  200.000. Trs xprsr  srprs  mgistrd, Cñs xplicó  cbb  r mbrd grt rginl   t r spdid si  ngb  bcr s signs  Bárcs. “Ls rins  Bárcs rn mu tss;  sirb  incmptt”, gurn  dij vris bgds prs   crción. Otrs futs ñn  Cñs scribió   ngu jf   prsnj “vilt”.
+Cñs,  s rspndió  s prgts l juz, l fiscl    prpi bgd, guró  nt s dificults finncirs l PP mnchg,  PP ncinl  trgó fnds pr  fcint rdinri  pr cstr  prcmpñ ctrl   jrcicis 2006  2007. El grt rginl  prstó   sm   mrint  Bárcs, ,  rlidd,   crción stb prstnd  rvici   prt l PP mnchg, Drs  Cspdl. Inditmt spués  trnr  intrrgtri,  duró lrdr   hr, futs l prd  prrbn  infrmr   Cñs “guró” l juz   vrsión s “prfctmt chrt”   crción  Cspdl nt  mgistrd sbr  tm.
+En rlidd,  lír l PP rginl  prt  Csl-L Mnch ngó nt Ruz  psd 14  gst  pust mrdid,   pud prfdizr sbr    mgistrd impidió nur  intrrgtri. L invsgción pdí fctr  frds,  spcil l prt  s Crts cst-mnchgs, Vict Tird,  qui Bárcs si   pust rión     ngció  trg l dinr.
+El grt l PP mnchg ngó  Luis Bárcs  trg dinr lg  tálic  ssv  td  dinr  rcibín     Gév 13 ví ví trnsfrci bncri. Est crción chc   vrsión dd   PP ncinl,   psd 18  cbr infrmó l juz Ruz    prd “ st dcumtción tb   ng tr índ     sprd  rcpción  Jsé Áng Cñs   cndd  200.000 urs   ñ 2007”. El PP gur   h rstr   trg  200.000 urs     Td    tbilidd rdinri    ctrl.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1383770608_668062_1383770737";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Est ércs,  viccrtri rginl l PSOE  Csl-L Mnch, Crisn Mstr, guró  “s  quint vrsión l PP  Cspdl sbr  st  d td  ssción   s igul  fls   trdictri  s cutr ntrirs”. “Ahr rlt   dinr  ntó  PP ncinl   rcibís crrspnn  s pgs  ntd. Estms nt  xtrñ cs l rcibí simud  difrid”, irzó Mstr.
+Trs Cñs, lgó  r  crr l xprt  Scr Luis l Rivr. Est mdificó stncilmt  ntrir crción  imputd. D Rivr vlvió  ngr   cmpñí  prsidió hst 2011 trgr cndd lg  pg   djudicción. Sin mbrg, di  vrsión mu disnt   rción  Bárcs. El psd 28  m, D Rivr tó  Ruz   rción   xtsrr l PP r “scs”. “Rcurd  cd  ,  Frncisc Vilr,  flcid   Eli Butrguñ  hbms fdmtlmt  fútbl”, dij tncs.
+El psd s  fs l xtsrr ncinl trgó   Audici Ncinl vris pts pustmt trnscrits  Bárcs  s gds  s  figurn  ms  11 cutrs  D Rivr tr 2006  2007. El xdirigt  Scr rció sts rins  ssv  hub lg , tr s ds   xlír l PP ctlán Jp Pi. D Rivr fu  js, gún  bgds prs   intrrgtri: rció  invitó  Bárcs   bd   prpi hij. N bstnt, D Rivr ngó  rión   , gún Bárcs,  trtó   mrdid pr  cmpñ ctrl  Drs  Cspdl  2007.
+El úlm intrrgtri crrspndió l cl prt  Scr, Mnu Mnri. Est mnv ds trdiccins   ntcsr   crg, Luis l Rivr. En prir lugr, dij , p   pust   cúpu   structr,   ccs  fnds  tálic     pgr  chch  200.000 urs  dinr b. Pr  mñn, D Rivr hbí mnd   jrs gds  FCC  ccs   fnds   mprs.
+Pr tr prt, Mnri rchzó hbr rlizd  spcil guit l trt  Sufi pr hcr   trt  brs  Td. Est trst   vrsión  D Rivr,  mnv  st djudicción fu bjt   tción inul,   Scr cbb  dquirir s filil.

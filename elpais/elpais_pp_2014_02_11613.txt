@@ -1,0 +1,37 @@
+Si  PSOE rí sir   prir p  bt sbr  rfrm    l brt  jr cr   mrí l PP stá   rm  tnt pléc h grd,  P l Cngrs h sid  éxit pr  scilists. Pr si  bjv l PSOE r jr ptts discrpncis  firs   Grup Ppur   rm brd  Albrt Ruiz Glrdón  pdrind  Mri Rj l intt rltó fllid  frcsd.
+El Cngrs h rchzd  prpsición    l PSOE  pdí l Gbir  rrd l ntprct  rgrá    pzs pr insrr  nuv   pusts, innd   mlfrmción l ft. El txt stá ún  f  infrs  b ún r sdid  gd vz   Cnj  Mistrs nts  icir  trát prmtri. Pr  PSOE só  bt  vtcin  prpsición    ,  frm xtrrdinri, frzó  vtción crt.
+
+Es impsib sbr si hub fugs sigficvs  vts   diputds l PP prs vtrn tóricmt  b  fvr   rm. Furn 151 vts   rrd  trs 183  tr  is bstcins. A  178 prs l PP hbrí  ñdir  is  Uó,   UPN    Fr Asris,   mrí 186  fltrín trs  ndi sb  quién sn  pdrín r fugs  rrrs. Ls is bstcins prcrín  divrss grups, ,  jmp, Cnvrgci tí librtd  vt  quizás lg l PP. Td  dnd  pust    rst  grups tds siguirn  disciplin.
+En td cs,  prmtris l PP rcibirn  rltd  puss   mbrs l Gbir prs  mus plmds   hmbr  snriss vints, sbr td  Albrt Ruiz-Glrdón. L xhibición  disciplin  trl s sirvió pr ficitr l éxit bd.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1392138752_003131_1392139001";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+A  diputds l PP s pud   rchz   prsión l PSOE,   mstr   txt brd   Gbir. Pr jmp, Ci Vilbs  stá dispust  rchzr  txt si mn  rdctd, guró  vtrí tr  prpsición l PSOE. “A strs  s gustn  s pidn  ms tridrs. Qurms dr  cr,  s   t n  dd  scilists, s s mu pc ri”, guró. L diputd ñdió   h prcts  icivs   psición pr pdir  rrd  prct     siquir  hn prstd  s Crts   s dij str mst   intt l PSOE. Y s pud, sbr td  lmd  rbt   dircción l Grup Ppur,  mmts  zzbr  mstr intrs   rfrm,  imprsión    bt s bilit nt s ccins urps  s pcins   stbilidd l Gbir.
+Su tsis s sir      mmt ulizrn diputds l PP pr  2003  vtr tr  Gurr  Irk. E s  úc prct  vtción  urn   lmt      prpsición     st   Cngrs  mcrci. “Ap  s diputds l PP pr   vt  diputds    vtrín  mujrs”, dij  scilist El Vlci  fs   iciv. L vtción d rspld frml   prpust  rfrm,   liquid s crícs  silci  s fis l PP,    hn pust vz vris brns rgins. Est sm mrts,  prt vlci, Albrt Fbr, dij   Cn Sr  “pcs  vtrn    dic  prd u tr sbr  brt. Si   s vtrn fu pr scr   pís   crisis”.
+El scirt  hbr birt  bt fct  strs  dirigts l PP, scits   s h cmbid  gd   vt   rcuprción óc  s jrá  s ptcis vtnts  ctr. Ni siquir cr  s prxi     rch  rvdr, prdris  inr culquir rsquici gl pr  brt. Pr s,  PP   Gbir  mn  i   prct rá gd, l ms, hst s urps  m rtrsnd  infrs prcpvs ,  prr  hí, lgs vrn  rrd fiv. En  trib    urn  PP s v  p   is diputds  Uò.
+El str  Jusci, Albrt Ruiz-Glrdón,  simpr, fu much  llá   sism pr fr s prpis rgumts. S pus   cbz   mfstción    Sd  rfirió l p   psición l PSOE   ultrrchist frncs Mrin L Pn. Oó   pdr, Jn Mri L Pn, tmbién ultrrchist, s  úc prdri  Eurp    l Gbir  Rj.
+El Vlci, núr ds l PSOE, hbí pd nts   cici  s diputds l PP pr ,   vtción crt sbr  rrd    l brt,  jrzn  vt  plícs, si  mujrs. “Ap  s diputds l PP pr   vt  diputds    vtrín  mujrs", h dich. Minuts nts   trcr vtción  urn  crt   rcurd   Cngrs,  viccrtri grl l PSOE h fdid     h prstd  str  Jusci, Albrt Ruiz-Glrdón,   quiscci  Mri Rj, v  dividir  s mujrs  ds grups: "Ls   pudn spzr   pís vci  pgr  brt gur;  s   vn bligds   brt cns".
+Vlci h inttd   diputds,  sbr td s diputds l PP,  discrpn     h prstd Glrdón mustr  rchz. "Si   prbm    dur   prd, s mujrs  bríms  r  mnd  cmbi", h dich l Hcic. "Hn lgd usts msid js   b prr". “Rtír  vz  sr hst  hn psd s ccins urps, trtnd  vitr   sgst  s pn jnt iciv”, pidió  scilist
+Cn  sv  rst  grups, slv PP   diputds  Uó, jnd  nuv ptt   hbrá ss  ngún grup   rgrsión   cl   pzs    pusts. Cmbi   cmbi  txt   trát prmtri  ss  irá  llá l diputd  UPN   is  Uó. “Ls s  rstring  rch   libr mtrdd  hc scr  núr  brts. L úc  sigu s umtr  núr  brts ingurs. Bgic, Itli  Pís Bjs, jt  Espñ,  h mrs tss  brts”, dij Vlci   prir intrvción prmtri trs r signd cndidt  s ccins urps l 25  m.
+ “Ls mujrs spñs vlvrán  dividir  ds grups: s   pudn prr vijr   pís vci pr ccr   brt gur,  s   pudn   vn bligds   brt cns”, cluó Vlci, pudid  pi  s diputds. Cn idénc rdr fdirn  rrd l prct   Oi Frnánz (BNG), Trs Jrdà (ERC), Ontz Enbi (Aur), Jb Agirrtx (PNV), Cr Mrtínz Grrirán (UPD), Ascsión  s Hrs (IU)  Lurs Ciur (CiU). Ulizrn xprs  “rfrm fscist”, “rcrt  rchs”, “rm rtrógrd”, “brch  siguldd tr s mujrs”, “ptrnlist”, “brrnt”  “inlt  s mujrs  l std ic”, tr trs.
+Mrt Trrd intrvi  mbr l Grup Ppur pr fr  prct. Su tsis fu   PP stá dispust  digr pr buscr  ss,  “ mps l    dig” hn trnd”. “Usts cr    mpli  cidir  priridd mrl”, dij  diputd. Más tnt h sid Ontz Enbit (Grup Mixt, Aur): "En  cñ    mñ mnd . Y smt ", h jd dich s  trib.

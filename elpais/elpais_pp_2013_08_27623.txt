@@ -1,0 +1,64 @@
+L psición  b vlvió  chcr  mrts tr  mur infrnb   mrí bslut l PP h vntd pr prtgr  Mri Rj. Tds  grups   psición  xcpción hn pdid  éxit   Cngrs   prt l Gbir cmprzc  nuv pr crr s rcins  Luis Bárcs   prst finncición igl l PP.
+Tds,  disnt v  vhmci, gurrn   Diputción Prmnt   prt l Gbir nó nt  p  psd 1  gst , l ms,  di tds  dts sbr  cs. Pr frt stb  PP,  Cr Fri  tvz pr  csión, pr tstr  s pcins rspnn   strtgi l PSOE pr “sgimr l Gbir l PP”. Y,  pust, stb pr frr tds s icivs.
+El dirigt ppur lgó  cusr   scilists  cr  “cprdr ncsri  Bárcs pr   xpli  rig     40 lns  urs  lgó  cumur  cuts izs”. Oó Fri   pción  xpliccins prví  s l PSOE, si  tds   grups prmtris.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1377609436_035602_1377631820";
+                
+Envir ví
+
+
+
+
+//
+
+ATLAS
+
+
+
+Sgún  PP,  st crc  “intrés grl” ,  s, spgó tds  dis  filtrs prmtris pr br  intrpción urgt l prt l Gbir, rchzr  P xtrrdinri sbr  st  ngr  crción   csión  invsgción sbr  finncición l PP.
+Prir  prt l Cngrs, Jsús Psd, vcó  rión urgt   Ms l Cngrs pr impdir  hrs spués  Diputción Prmnt  siquir br  vtr  intrpción urgt  Rj pr  cr si nó  psd 1  gst.
+L tsis l PP   Ms s   s psib intrpr l prt    h rzns  “intrés grl pr vcr  P xtrrdinri”. Explic  cd  mn l 9  pmbr  rnu  cvidd rdinri,  PSOE pu prgtr  Rj  ds nuts pr  rspust  intrpr l Gbir pr  rspnd culquir str  frm  prngd.
+Jrdi Jné, rprstnt  CiU,  bsv  tr   pción l PSOE pn  mción  cr cubirt,  inclu  rprbción l prt l Gbir  rí sd  vtción pstrirmt.
+Pr  prt,  scilists invcn  rtícu 111   Cnsción,  dic  “ Gbir  cd   s mbrs stán sds  s intrpcins  prgts    frmul  s Cámrs”;   180 l Rgmt l Cngrs  firm  “ Diputds   Grups Prmtris pdrán frmur intrpcins l Gbir   cd   s mbrs”.
+El lír scilist, Alfrd Pérz Rublcb, xculpó  Psd  di  hch  h sid prd   Gbir,  siró “inxplicb”  vt   intrpción. Sr Rdríguz, tvz l PSOE, ritró  pción pr intrpr  Rj “sbr s rspnsbilids plícs rivds  s flds vrds   prt   prmtri  rción   scánd  finncición igl l PP”. Si  Ms vuv  rchzr,  scilists irán l Tribl Cnscinl pr rcurrir  b   Cámr.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1377609436_035602_1377618608";
+                
+Envir ví
+
+
+
+
+//
+
+ATLAS
+
+
+
+A  Diputción Prmnt  lgrn ds icivs sbr  cs Bárcs pr  furn rchzds   mrí l PP,  l ms furn bds  vtds:  l PSOE pr crr  csión  invsgción sbr  finncición l PP  tr  IU pr  cmprzc  nuv Rj   P xtrrdinri. A  gd vtrn tds  fvr ms  mrí bslut   b l PP.
+
+CiU  PNV  n  pción  crr  csión  invsgción, invcnd  hbil rchz  s fórmu   xistci  invsgcins judicis  mrch.
+Pr C Lr (IU), “Rj nó   Cngrs”; pr Aitr Estbn (PNV), “ prt  cró muchs css”; pr Jrdi Jné (CiU), “s ncsri  nuv cmprcci”; pr Ir Lz (UPD), “h gimd  mr  frm  cmtt plíc  nó pr cubrir s rspnsbilids  frm sistmác”  pr  Grup Mixt  vrsión l Ejcuv  cinci   hchs.
+En  rspust   ctrt  cuscins  mpó  fnd  núr trs l PP, Cr Fri. Sgún dij,   sd s invsgción   PSOE   stbcid  clusión, s cir,  finncición irrgur l PP  s busc trpcr  invsgción judicil  tcr l Gbir. “N cptrn  rrt  quir guir grrds l ñr Bárcs  cr  s   rtb”, dij Fri   scilists.
+Acusó   scilists  “crr  qui h dd vrs disnts  h gñd  tds”  cluó  “ PSOE stá grrd l ñr Bárcs pr    tg  xplicr  rig l dinr  cumuló  Suiz. El 1  gst  rín xplicción, s rín  disión l prt l Gbir,  s slió ml; Rublcb prdió  bt   quir rprducir”.
+En  sfurz  fs  fltó  rfrci l cs   ERE  Andlucí   cusción  UPD   hbr jusficd  20%   dnnts nóms. Ir Lz  rspndió ncind  r tr  diputd l PP.

@@ -1,0 +1,35 @@
+L btl   trl l PSOE h mpzd . O, l ms,  prr   s mpzrán  mvits visibs  mbcrán  s primris l s  vimbr pr gir l cndidt pr s ccins grs  2015,  rá  tóric lír l PSOE. L hrá spués l pr rltd   histri l prd,  s  23%   vts. Us “m rltds pr  PSOE”, gún dó  mcs ch  cbz  list, El Vlci.
+L rrt   scilists nt  PP sgstd  bilitd trs ds ñs   Gbir j  Alfrd Pérz Rublcb  sición  máxim bilidd pr frntr  prcs  rvción. Dbilit   pr cuzr  prcs,  j fur  jug pr prstr  hst j   ir  indit nuidd  crtri grl l PSOE. El fntsm   pción  grs xtrrdinri sm  Frrz.
+En   l PSOE  dts fivs prvcrn  cirt sción, trducid  silci  usci  lírs. Rublcb cmprcrá  s spués   jcuv. Vlci  scrtó ng pción, tr s  stá   ncipr s primris.
+
+Empizn s  s  mvits visibs,  lgs    hn trbjd durnt s   frmción  quips   rcpición  ps pr ss primris. Pr tds  hn gtd hcr visib  spirción hst  nut spués  crrr s urns pr  r cusds  stbilizr  prd  p prcs ctrl. Cr Chcón, Edurd Mdin, Ptxi Lópz  Pdr Sánchz sn  cutr ,  disnt frm, hn jd cr  vltd  currir  ss primris. Vris   gurn   intción  sprr l Cté Frl  ji pr dr  ps fiv  fijr  psición.
+Alfrd Pérz Rublcb crg   rltd ctrl  s spircins dn trnds   dts l PSOE. En s urns  xnb  gsón  lír   psición,  cpcidd pr rcuprr  prd s , hst , pr rltd   histri,   2011 , pr s, pus sbr  s  cndidr  cbz  list  El Vlci,  núr ds   dirct cbrdr  sts ñs.
+El éxit  frcs p  s xpctvs,   PSOE tí   icir  principi l finl l cic l PP  Rj  s urps   victri   dir xíg pr s cips  utnócs. Pr   h grd. El PSOE  Rublcb  s  h rmntd si  h prdid cinc pts rspct  s grs  2011, h rt  . Rspct  s urps  2009 h prdid   ds lns  vtnts    15 pts. Su pp   rá trnnt   prcs fur  cción  lír , nts,    primris utnócs  cips. Inclus,  p   cndidt pu r prjudicil  lgún ctr l prd pu mpzr  pdir s h   rvción mpic   prt l PSOE   Cngrs xtrrdinri. S strán s hslids,  cds  Atts. En s urns r  dí cóm b r  ritm  cd   rvción l PSOE   vrdict h sid   scilists ncsitn  cmbi prfd. Su rltd s     rchz ciudd l biprdism  rprstn PP  PSOE , prcismt,   b  Rublcb  si   hbr sbid rmpr  inficción   PP. Ls ds prds mn ms l 50%,  m históric. Es cir, l PSOE s  livi  r cíd l PP,  csg l biprdism, much mr   prvist.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1401042417_383146_1401059020";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Pr s, l rltd   scilists  spr tmbién  tb frgmtción l vt   izquird, dn  PSOE sigu sid  máxim rfrci,   hbr pdid rcuprr ps   ds ñs   psición.
+El PP s cmpit tr  pción  Vx   gmt ilógic,   pción  pérdid  vts hci UPD. El PSOE cmpit tr Izquird Ud  scs  pcins nuvs  Pms  Equ. El rt l fur lír l PSOE rá rcuprr  vt   prpust vds, gún xplicb ch    psibs cndidts  s primris.
+Al PSOE s  h slvd  rltd  Andlucí, dn  sigu scnd 10 pts  PP  dd  núr  vtnts   cdd ss  btcz ctrl. Ti  35%   vts  Andlucí, s cir, 12 pts     di  td Espñ. Susn Díz rfurz    cpcidd  cidir    m stá ún   fur l PSOE. Tmbién Extrmdur  mn,   pdrí intrprtr   spldrz   mción  cr  cmpñ  Guilrm Frnánz Vr.
+Al PSOE  h bilitd spcilmt  sición l PSC  Ctluñ, cjnd tr s psicins crs   inpnsts   spñlists,  trr  spci cr   prpust  rfrm frl   Cnsción.
+Dd   PSC  j  tr ts intrns   rchz ficil   lt sbrst,  rspld  Rublcb, futs l PSOE prvén tmbién   ísm   prd lgu  Ctluñ. N bstnt,  Ctluñ  scilists mn  14%   vts,  cim ún l PP.

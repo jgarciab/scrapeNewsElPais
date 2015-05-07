@@ -1,0 +1,32 @@
+L prt   Diputción  Lón, Isb Crrsc (PP),  59 ñs, h sid d  rs  pl cl   tr   s, gún hn firmd futs intrns   frmción. Cndlcis, rccins  péss srn s rs scis, lgs prds hn spdid  cts  cmpñ  s urps l próxim 25  m prvist pr sts dís,   sión  trl l Gbir   mrts,     tdrí  hbr sisd  prt l Gbir, Mri Rj, h sid tmbién cncd. 
+L vicprt l Gbir   Nción, Sr Sáz  Sntmrí, h trnsd "td  p  slidridd" l Ejcuv ctrl  l PP   fli  Crrsc. A  h dich trs gurdr  nut  silci   n  stb prvist  Svil  mv   cmpñ urp,  cul  h spdid. "Sn s mmts mu durs pr tds, flirs  plícs", h brd. 
+Sáz  Sntmrí  h cmtd  dts   tcid , gún h firmd, h psd mu pc mp   invsgción  prt  s Furzs  Curps  Sguridd l Estd, nú. "Sn mmts pr tds  grn strnción  s  ci mu trist  mu difícil". L prt l PP  Csl-L Mnch  crtri grl, Mrí Drs  Cspdl, vijrá  mrts  Lón pr cmpñr   fli   flcid,    mbrs l PP  Lón. 
+Alici Sánchz-Cmch, prt l PP ctlán  h xprsd    slid   rión   str  E, Luis D Guinds: "Es  trist ci pr  PP  td Espñ,  plíc   vivci. Esprms   rspnsbs mn tds s cucis". Al finl l ct  L Frg  L'Hspitt  Lbrgt, D Guinds h pdid  nut  silci. "L jr pbr pr fir s crj. Pcs plícs tín  crj  st mujr", h rclcd  núr ds   list l PP  s ccins urps, Estbn Gnzáz Pns,    l PP nés. 
+El t h currid   ctr   ciudd ns,  s indicins   cs   plíc. L mujr  pustmt dispró h sid d, gún futs plicis. El PP h publicd   cut  Twittr  siguit: "Estms strnds   t  nustr cmpñr Isb Crrsc. Mndms td nustr criñ  p   fli". El Prd Ppur  Andlucí   Mdrid h spdid tds  cts  cmpñ prvists pr  s. L prt l PP  Mdrid, Esprnz Aguirr,  sisrá l n  tí st tr   Rr,  l vcd mñn  Mjdhnd.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1399915586_802164_1399923219";
+                
+Envir ví
+
+
+
+
+//
+
+Ats
+
+
+
+N s mbrs l PP hn rccind nt  sbrslt,  crdindr grl  Izquird Ud Csl  Lón, Jsé Mrí Gnzáz, h trsdd  "prfd dlci"   flirs, cmpñrs  prd  ctrs  Isb Crrsc. Asism,  frmción h spdid tds s cts públics   Cdd.
+El urdiputd  CiU  cndidt   rcción, Rmón Trms, h nd  t,  h xprsd, ví Twittr,  slidridd   PP. Tmbién h xprsd  pés  cndidt  UDC   ccis, Frncsc Gmbús, trs nr firmt "td p  vilci,  cul   cus".
+El PSC h spdid  n  s ccins urps  ibn  prtgzr  s 19.00   s  cndidt, Jvi Lópz,   xhdkri Ptxi Lópz (PSOE)   Pliv Cn Rsés  Rubí. El lír l prd, Pr Nvrr, h mtd  ci  trvés   cut  Twittr: "Aún srprdid   ci, trnst  cr pés   fli  gs  Isb Crrsc,     litnci l PP".

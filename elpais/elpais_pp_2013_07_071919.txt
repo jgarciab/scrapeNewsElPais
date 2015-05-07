@@ -1,0 +1,35 @@
+Espró  s  di, fi   csmbr  jr mdurr s css,  l finl lgó  rspust plíc  Mri Rj l t   mtr, Jsé Mrí Aznr. Y  hiz   lugr  simbólic: std   d,   cur l Cmpus FAES,  fdción l PP  dirig  xprt. Rj fu cr   mnr. Si Aznr  hbí cricd   hcr s rfrms ncsris,  uró tds s úlms prbds   nzó l finl  msj rtd: “Ns dn ds ñs  di  Gbir. Ls bncs  hc l finl. N  pu hcr  bnc l principi  s  s just   duc  nd”.
+Aznr pudió discrtmt,  mnvirn s frms   ficción   td stá bi. Pr  dirigts prs tdirn  msj  Rj. L stb dicid   mtr  ó  pt   trvist  Ant 3,   prcipitó. Qu   rch  gbrnr   mnr sts cutr ñs   spués   vlú.
+Rj hbló much  cr   hbil   msj tmbién pr  vtnts  litnts  stén  curd   críc  Aznr    Gbir stá prdid  mp, s “dd úc”  hcr rfrms durs    gt stá dispust  cptrs    hb  xprt.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1373194697_137169_1373208906";
+                
+Envir ví
+
+
+
+
+//
+
+EL PAÍS-LIVE
+
+
+
+
+“Tms mrí ficit  s Cámrs, trs   . Tms  mndt cr. A muchs spñs  s gustn lgs  s cis  hms tmd. Y tmpc s gust   hms tmd trs. L sbms,  tms,  gt quir  s cis  tm  cridd,  h  dptr   rlidd. Pr ndi pdrá cir   Gbir  h tmd cis,   h pntd rfrms  grn cd”, dij Rj.
+Est discurs l prt lgó spués   urr nt Aznr,   spci  jusficción nt qui  igió  csr  2003,  ps  rb,  list  rfrms rcits: “S   ulm s  Cnj  Mistrs h prbd tr trs,  dig tr trs”, pró. “L   ducción,   mprdrs,  rfrm   Adstrción,  utridd fiscl inpdit,    idd  rcd,   mrsidd, s slucins pr Atts  ivrsids  prbms finncirs,   crción   csión  xprts pr rfrm sistm tributri. Est     ulm s”, insisó  prt   spci  pp  lum   vlución mstrnd  h cumplid.
+El prt tmbién pró nt Aznr  rfrms cv  s próxims mns,  ptó,   s mbigu, lg  hst  hbí scrtd rtdmt:  psibilidd   nuv vut  rc   rfrm brl, tl   pi  ptrnl  Brus.
+“En brv vms  prbr  rfrm rgéc,  rcinlizción   Adstrción cl,    tcccins,  rfrm  s ps,  hrms  infr  vlución   rfrm brl  pu lvr    cis”, dij.
+Rj tmbién ró  psm: “Aún   cir  Espñ v bi”, dij rcrdnd  fr  Aznr. “Pr Espñ v jr. Estms   cut trás   rcuprción”.
+U   pts cv  s crícs  Aznr   trs dirigts  Esprnz Aguirr sn  impusts. El xprt h prstd  rfrm fiscl    pnt  grn bjd  vris impusts  sbr td l IRPF,   p máxim l 40% (Rj  h bid hst  52%). En  Gbir h hbid  h  dur btl tr Cristóbl Mntr,  insist    h mrg pr bjr  IRPF nts  2015 —ñ ctrl—  Luis  Guinds  ún v spci. Rj h rt  mmt  fvr  Mntr.
+El prt h ptd  gnr mp   bt   impusts  h crd  csión  xprts    pz rguísim pr pntr  rfrm: ch s, hst mrz  2015. Aznr,   discurs  prfil bj, rivindicó  prpust  rfrm fiscl  FAES  dij  spr   Gbir  tg  cut  udrí l crcit. Rj  quitó  cim  prbm  si  fur  : “H rcibid  prpust  FAES. Est vcid    csión  xprts trá  s pntts”. Est s, sn trs   tstrán  Aznr   st. Él  rspndió    rí:  rcrinó   mnr s js prmrs   visó:   gbirn s .

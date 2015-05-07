@@ -1,0 +1,31 @@
+El Gbir  Mri Rj mn silci sbr  ccd   prss  ETA, trs dís spués  hcr públic. L vrsión  ficil l Ejcuv s   prncit   rcluss cptnd  glidd, rcid  dñ cusd  d slids individus  mdific  nd  sición.
+Dislución  trg  s rms sn s ds xigcis  ETA  h mnd simpr  Gbir    s ritró  frm  públic —ficilmt gurd silci—. El dirctr grl   Plicí Ncinl, Ignci Csidó,  litó  xprsr  cmprs  s Furzs  Curps  Sguridd l Estd  grr “ ttl  fiv sprición  ETA”.
+
+Futs l Ejcuv xplicn   h ngún cmbi sbr  plíc pitciri  gurn   prt l Gbir, Mri Rj, stá dispust  rcibir l hdkri Íñig Urkullu  h hch  trs cs. Futs  L Mnc rcurdn    úlms s h hbid tmbién  diág fluid  Urkullu   vicprt, Sr Sénz  Sntmrí. L núr ds l Gbir visitó l hdkri   rspnsbs l PNV    hbló, prcismt,   plíc pitciri   fin  ETA.
+El silci públic l Gbir  mntdrá,  principi, hst  virns, cd  str l Intrir, Jrg Frnánz, cmprzc  rud  prs pr hbr  tráfic;  td guridd  prncirá sbr  ccd   prss  ETA.
+Pr inttr zr   psib  ps dd   prss trrs,  Ejcuv jó  rspust  ms l PP. El tvz djt   Cngrs, Rf Hrnnd, guró  “ úc  h  sprr   bnd trrrist s  dislución”.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1388436930_516776_1388436974";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+El PSOE,  trvés   rspnsb  Orgzción, Óscr Lópz, pinó tmbién  “s  ps ,    úlm,   úlm b r    dislución” fiv   rgzción trrrist.
+UPD,  rchz   ccd png ps lg, inttrá frzr  bt sbr  st   Cngrs  fbrr,   vut  s vccins prmtris. Pr s prstó  s   Cngrs  prpsición     inst l Gbir  plicr “ td rigr”  L Grl Pitciri   Códig Pl   prss  ETA nts  crs culquir p  bfici pitciri.

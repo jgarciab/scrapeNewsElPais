@@ -1,0 +1,46 @@
+Ls curs  Luis Bárcs scribió durnt csi 20 ñs   spci  “tbilidd nlíc”, gún  fió  prpi xtsrr l PP   crción vltri nt tri, mustrn  sistm  finncición l PP pustmt igl. Ls mprsris dnnts  dinr  figurbn  ss curs trgbn cnds prirs   60.000 urs, lít máxim prd   ,  rn  muchs css trsts l Estd,     pdín trgr fnds  prds plícs.
+A, s tcins  Luis Bárcs rgistrbn  pg  sbrds priódics, tristrs  strs,   cúpu l prd,  circstnci tmbién pustmt igl pust    rcibín  dinr  tín prhibid   dd  frmbn prt l Gbir,   mrí   css,   pdín tr tr rtribución    ingrsbn  r strs.
+L invsgción birt   juz   Audici Ncinl Pb Ruz,   piz prd l cs Gürt, intt crditr  tds sts xtrms, pr     nlizr  tbilidd ficil l Prd Ppur h lmd  crr  20 prsns, tr s nuv mprsris,  mrí structrs,  figurn   mbr  plids   curs  Bárcs.
+Tmbién h citd  mgistrd  di dc  dirigts l PP  hn rcid hbr rcibid  dinr td   xtsrr;   tbs cs l prd    plicís  hn firmd   infr pricil  crrspn  Bárcs  tr   curs dn  rgistrb  pust tbilidd B   frmción rvdr.
+
+L invsgción birt busc strñr trs cvs   crts  Bárcs tó   cur:
+» L pust finncición igl l PP. El mri l cs Gürt,  trm  crrupción vincud l PP stpd  2009  h xpulsd   plíc  20 dirigts   prd, inclu  dcumt trd   cj furt  tí Pb Crsp, núr ds   rd  x crtri  Orgzción l PP glg. E dcumt, l  hbló Crsp   cárc   bgd mfstánd  prcupción    sigficb, rfj  tbilidd l PP  1999. El stdil  trds  slids  dinr rgistr  trg  fnds l PP ncinl  m  1999  21 lns  pts. L plicí,   invsgción  sts cuts  Pb Crsp, cluó   trtb  dinr ngr, cult l fisc.
+En  curs  Bárcs figur  pt   cpí  trds  dinr fchd  1999   tción: “P. Crsp, 21.000.000”.
+El juz Ruz h citd  crr  Pb Crsp pr, tr trs css, prgtr   pt  hc 14 ñs   tbilidd l prd  Glici  mstrrí  finncición igl l PP.
+A, tr prt imtnt   curs  Bárcs rgistr dncins  mprsris —7,5 lns  urs tr 1990  2009—  tín prhibid  trg  fnds   prds plícs  s scids rn trsts  dstrcins públics,   s impdí hcr uds ócs  frmcins plícs.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1367349682_264896_1367412544";
+                
+Envir ví
+
+
+
+
+//
+
+VÍDEO: ATLAS
+
+
+
+» Dncins mprsris fur   rm. Entr 1990  2009,   xcpción  1993, 1994,  1995 (ñs     xist dcumtción mnuscrit), Luis Bárcs ptó   cur dncins  mprsris  mn 7,5 lns  urs.
+Entr  mprsris  Luis Bárcs ptó   cur figurn lg   princips structrs  Espñ,  Luis l Rivr  Vilr Mir;  trs   figurn imputds   cs Gürt   pust pg  cs igs  cmbi  trts públics  trvés  s mprss, Cnstructr Hispác  Ss.
+Cd EL PAÍS publicó  pps  Bárcs,  31  r psd, sts mprsris ngrn  trg  dinr l Prd Ppur.
+L invsgción  ició  Fisclí Ancrrupción h prd cr  các pc  ulizb Bárcs pr cultr sts dncins  nóms  simpr  bj  60.000 urs.
+Ls cnds  ingrsb Bárcs, gún s pts mnuscrits,    gstb  gsts rdinris l prd, tr   stbn  sbrds   cúpu   rgzción, s ingrsb   cut ficil  dnvs  lug crb l Tribl  Cuts. Pr impdir   cir  rig  ss dncins, Bárcs s trcb  cnds infrirs  60.000 urs. L invsgción judicil h stpd st prácc,  mustr   xtsrr l PP hcí psr  dnvs nóms infrirs  60.000 urs   rn dnvs  mprss structrs,  tín prhibids s dncins, mu  cim  s cnds prds   L  Finncición  Prds Plícs. El juz Ruz inttrá crr   mprsris si  ptd  Bárcs   cur   rfjd   tbilidd ficil l prd r, fcvmt,  dnd   structrs.
+» Sbrds pcs. Bárcs ptb cd tristr  cd str   cur pgs  sbrds    tncs rn crtris grs  viccrtris grs l prd. En  ñs    prdujrn  mrí  sts pgs, ss dirigts l PP  stbn   Cnj  Mistrs  prsidió Jsé Mrí Aznr.
+L  impdí   strs pudirn tr culquir tr p  rtribución. Tds  lts crgs l PP cu mbr tó Bárcs   cur hn ngd hbr rcibid ss rtribucins tristrs  strs.
+Ants   furn strs, ss lts crgs rcibín, gún  tbilidd ficil l PP, sbrds ms — 14 pgs l ñ— bj  nción  gsts  rprstción  dits. A sts sbrds ñdín  sri ficil  prmtris.
+H trs dirigts l PP  mr rng  tmbién prc  rcptrs  fnds   curs  Bárcs    hn rcid hbr rcibid  dinr td   xtsrr l PP   puñ  tr.
+Entr ss dirigts  cutr Clixt As,  fu jr  Slud l Gbir nvrr  l  cd cirt mp  x dirigt ncinl l PP Ji Ignci l Burg  trgb   sbr divrss cnds  dinr   prc signds   tbilidd ficil l prd  ,  tnt,  tributrn  Hcid  bín.
+L invsgción judicil h inttd crditr sts hchs rcmnd   Agci Tributri  pgs  IRPF hchs   Prd Ppur   ñs   pgs  As. Hcid h tstd   xist dcumtción ficil l PP sbr ss rtcins  IRPF   ñs  s rtribucins  As,   h ngd   prt  crr si ls rtribucins tín   rtción fiscl. El juz Pb Ruz h citd  As pr crr  s circstnci rspct l dinr  cbró  sbrs durnt  mp,   prrí mstrr si hub pgs igs l PP  s dirigts.
+Jt  As crrán   Audici  tsgs  cl prt l Sd, Pí Grcí Escur,  figur  rcptr   llón  pts pr brs   cs, fctd   ttd;  diputd Eugi Nsrr,  bgd Jrg Trís   prpi Ji Ignci l Burg.

@@ -1,0 +1,78 @@
+Ls cndidts   princips prds   prstn  s ccins   dng  Andlucí hn psd   rg   mñn  s urns. Ests sn s crcins   rprstnts   mmt  psitr  vt.
+J Mnu Mr Bl (PP). El cndidt ppur h md    ndlucs   prcip "msivmt"  sts ccins "sn mu imtnts pr nustr pr  fur". Mr h vtd  tr  s diz   mñn   cgi Sgrd Crzón 'Escvs'  Mág cpitl.
+J Mrín (Ciudds). Mrín h crd  dng  Ciudds " v  trr  ngún pct  gbir"  h ñdid   prd s gbrnrá si gn   si  strá   psición. El cndidt h vtd   biblitc cipl  Snlúcr  Brrd (Cádiz).
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_8 = cn.hrf;
+                  if (/\?/.tst(_url_vid_8))
+                      _url_vid_8 += "&";
+                  
+                      _url_vid_8 += "?";
+                  _url_vid_8 += "viid=1427020261_881167_1427039790";
+                
+Envir ví
+
+
+
+
+//
+
+El cndid  Ciudds, J Mrín, trs vtr  Cádiz. / ts
+
+
+
+Susn Díz (PSOE). "Tg ilusión, gns  finz", h firmd  cndidt scilist trs vtr. "Andlucí h hch lg imtnt,   scuchd   vz furt   rst  Espñ", h ñdid. L cndidt scilist h vtd  s nc   mñn  Svil.
+
+
+
+
+
+L cndidt scilist, Susn Díz, psitnd  vt. / Ajndr Rusc
+
+
+
+Trs Rdríguz (Pms). L cndidt  Pms  Andlucí h firmd   " ssción   lg v  psr". Rdríguz h vtd   difici ctrl  Crrs  Cádiz sbr s nc   mñn. "H  tc hbr   gt", h ñd  cndidt  Pms.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_6 = cn.hrf;
+                  if (/\?/.tst(_url_vid_6))
+                      _url_vid_6 += "&";
+                  
+                      _url_vid_6 += "?";
+                  _url_vid_6 += "viid=1427020261_881167_1427038127";
+                
+Envir ví
+
+
+
+
+//
+
+L cndidt  Pms  Andlucí, Trs Rdríguz. / ts
+
+
+
+Ant Míl (IU). Míl h pdid     "cudn msivmt"  vtr  s ccins   dng   bjv  slir   crisis  "ncir  nuv Andlucí". El cndidt  IU h vtd  Arc (Murci).
+
+
+
+
+
+Ant Míl, cndidt  IU,    prs. / j mnu vidl (f)
+
+
+
+Mrín   Hrrán (UPD). El lír  UPD  Andlucí h vtd  s nc  di   mñn   cgi  Trrmgrj  Jrz, Cádiz. El cndidt  h mstrd vcid    ndlucs "vn  dr  ps   págin   histri"   Cdd utóm.
+
+
+
+Mrtín   Hrrán (@mdlhrrn) cndidt  @UPD   Jt, vt  Jrz #AdsUPD #LvntAndlucí pic.twittr.cm/C7Dsb2QPqZ
+— UPD Andlucí (@UPD_Andluci) mrz 22, 2015

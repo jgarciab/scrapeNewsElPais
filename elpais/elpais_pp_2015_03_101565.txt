@@ -1,0 +1,34 @@
+L prt l Prd Ppur  cndidt l Att  Mdrid, Esprnz Aguirr, h rid znjr  mrts  pléc sbr  prci   frmción rginl,  h prd bndnr si s gid lcls. Sin mbrg,  spirnt   prd l Gbir rginl, Crisn Cifuts,  h cricd  frm vd durnt  trvist tvisiv  hbr ird  public  puls   dircción ncinl    prt, Mri Rj, cd ó  rín bligr  rcir l pust rgác  cmbi   cndidr.
+"M prcí brd  rcién gids  cndidrs viérms  mpzr   st. S tí  hbr rt tr strs dirctmt    stán  pc hrts  grl    plícs s ms rnd  mblig", h ñd Cifuts  Tcinc. H insisd     spir l pust  prt l PP mdriñ,   hiz  rpds cs  durnt ñs cd   prgtb si rí r cndidt   prd  s ccins cips  utnócs l próxim s  m.
+
+En  rud  prs pstrir l Cté  Dircción l PP rginl, Aguirr h gurd  "st v  r  ulm vz   cndidts  mbr ",  rfrci   signción dirct  prt l prt   frmción, Mri Rj,    dircción ncinl. "Hn hch vr  s   stts cs",  "hbrá  cmbir pr   PP mdriñ pud mbrr  s cndidts", h ñd.
+Y h prvchd pr slizr  vis  nvgnts: "Ls stts l prd hn cmbid pr  cción  crgs, inclus pr  prt ncinl, culquir  pu prstr  100 vs". Aguirr  inttó frzr   dircción ncinl pr  fur  PP mdriñ qui igir  s cndidts,  l finl v  frmr  frcr  Rj  spirnt   lcldí  sprr l "d divi", tl    sm  clificó.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1425988130_810424_1425992533";
+                
+Envir ví
+
+
+
+
+//
+
+Crisn Cifuts: "Es brd trr   cmpción  vr quién s  librl". / ATLAS
+
+
+
+H rclcd  Aguirr  quir tr trl sbr  fcción   list ctrl    sldrán  mbrs l próxim gbir cipl si gn s ccins. Al  intgr  cndidr  strán nts   xm  prt   dircción rginl, prbmt pr vitr css    Frncisc Grnds,  núr ds durnt muchs ñs  crcd  psd tñ   Oprción Púc;    trs mbrs   gbir rginl prcsds   trm Gürt.
+Aguirr,   h fid  nuv  "librl  ptrit", h vnzd  sisrá   mfstción tr  brt vcd pr ntr  s dís,  " brt  s  rch, s  frcs   mujr". H bgd  spr  finl   Cp l R  jugr  purt crrd si  públic silb l mnrc  l him ncinl. Y h indicd   gustrí  "UPD  Vx svirn   PP,  cd  prd r td   stb   rch".
+En  pp  cndidt   lcldí, h gid  br   cl rgidr, An Bt (PP),  s  " gsón xtrrdinri   rtdxi finncir   hrr l Att". H ngd  lmr "glómn"    cipl   Pci  Cibs,  cstó 500 lns  urs, s  cric  Albrt Ruiz-Glrdón,  xlcl  impulsó  mudnz s  Cs   Vil. "L hiz   mmt  pujnz  burbuj,  tmbién s  Cdd hic brs cstss", h dich. "A  difici   v  scr rtbilidd", h ñdid trs insisr   mudrá  spch   pz   Vil (l spch l prt l P)   crr  hrá   pci    crc  2.000 mpds cips  trbjn llí.
+Es ,  cndidt h vut  mdr  Glrdón     pirs   gsón (2003-2011). Aguirr h pstd    Att hg "hincpié  s cmptcis  lugr  r  prmt", just  trri    prpugnó  xlcl,  mplió s fcins cips  llá   L  Hcids Lcs,  inclus srrlló rmvmt  cráctr prmtri l P cipl.
+Aguirr  h rid svr quién rá  núr ds   cndidr,  só h ptd ds tls sbr  prgrm:  pstrá  sctrlizr  gsón  fvr   distrits (" td    pud rrgr llí,  bch, pintr  bnc, tcétr")   cbr   "guts",   prpi brri (Msñ),  rfrci   cidd  s cls  s pintds  s prs.

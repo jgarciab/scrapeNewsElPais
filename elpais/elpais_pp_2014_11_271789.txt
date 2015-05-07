@@ -1,0 +1,40 @@
+El prt l Gbir, Mri Rj, lgó l P l Cngrs   bjv  inttr disipr  imprsión  crrupción grlizd, hcr frt   scánd  fctn dirctmt l PP, udir  img  incción  rcmpnr  crdibilidd. “Espñ  stá crrmpid”, prcmó, nts  ñdir   rpción  sts css   prs “stá crnd  clim ,  rts,  hc irrspirb,  simbr  sfinz grlizd hci  instrumts   vivci mcrác. End  indignción   spñs”, dij.
+
+Durnt csi cinc hrs  bt,  psición cusó  Rj  crcr  crdibilidd pr frntr  crrupción, xigiénd rspnsbilids  hst  cuscins tn rs    Jn Cscubi (ICV): “Ustd s  cp   fli”. Rj lgó l hcic s hrs spués  scrificr   str  Sdd, An Mt,  r ñd   juz Pb Ruz  bficid   trm crrupt  Gürt. Y   prd cusd   mgistrd  mntr  cut b   bficir tmbién  ss pgs. L bncd   rch trnstí  img cmpgid  qui   frntr  difícil trg  td  tr.
+Rj ptó  udir  frntción  vlvió  rpr dids ,   inms mrí,  ció  fbrr  2013  ún  hn trd  vigr. Pró impulsr  tds ss rfrms  s   r  réplic hiz  fs  Mt   mción ípc  Gürt. Cn  ut l juz Ruz “d fur  td dud”  Mt “igrb  csión  ts lits”, guró. Echó m l ufsm pr dr   prd h frid “prbms ris”. “H hbid crrupts   prd, prsns  furn rcdrs   finz  h pdid prdón”, gó  úc rfrci   invsgción  Ruz.
+
+S   úlm r   t bj, hiz frt l scilist Pdr Sánchz   rfrci l cs   ERE  Andlucí. En  rrn zó  prbm   prir rfrci implícit  Pms    rcurd: “S cz grliznd  crrupción,  culp   plícs   cb ñnd l sistm. A prr  hí  d spci   pr  slvptris  s scbs, cu úc prgrm plíc sist  brrr,  s cucis  tds cids”. L táfr   scb fu usd  Pb Igsis.
+El b stncil   cmprcci  dicó Rj  rfugir trs s dids tr  crrupción,   20 s spués    s ncir   Cngrs,   hn trd  vigr. D hch, cmprció  juvs   inul frmt pr prstr ds s  lgrn  s Crts  fbrr   hn prmncid tscds  vltd l PP,   finncición  prds   stt  lts crgs. S m  Códig Pl  lgó l Cngrs  pmbr  2013  h d 41 mplicins  pz  ds.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1417076748_410848_1417084506";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Rj ritró  d  ss rms  s nció lgs rts  frm  ds,  mdificcins   umbrs  dncins  prcurs   prds. Otrs hn cíd   lvid,   prsión  frts,   mcinó,  s dij  sdirá  prpust  Rs Díz (UPD) pr inr.
+En 2013 pró  nuv L  Enjuicit Crinl,   juvs,  flt  mp pr trtr st gisr, nció cmbis pr vitr mcrprcss   trzn  sts cmpjs “ ncsidd  ctción  hchs”, litción  mp  instrucción  prcisr  dids pr  rcuprción  bis. Y hbí hbd  icivs pr trr  indults  nció   cmbirá   pr  cd is s  infr   Cámr  s dids  grci cdids  ngds.
+
+
+Rj rpió  prpust pr   finncición igl   prds  lit
+
+El prct  finncición  prds blig   cción  s órgs dircvs  Rj prcisó  rá cd cutr ñs. Tmbién hbló   “prcdit  spsión  litnci” pr cd  br juici rl  crrupción   “prcdit  xpulsión   litnci” pr nds.
+Rspct l stt l lt crg,  prct lit  gsts  rprstción  rfurz s incmpbilids. El prt incluó  bligción   crficd  str l crrit  Hcid,     xig pr trtr   Adstrción.
+Pr  Códig Pl, Rj rpió  prpust pr   finncición igl   prds  lit, grvr s ps  crrupción  mplir  pzs  prscripción  10  15 ñs. Tmbién prpus rfrms   rgmt l Cngrs,   PP h rtrsd durnt  gisr,  100 nuvs pzs  jucs  fiscs. En s prirs ritró   prmtris b jr  crg cd stán inrss  css  crrupción,   spcificr   mmt, si l prducir  imputción  l brir  juici rl. Oó  rgución   bbis,   pró  2013,   PP prpus st sm mn    juvs sprció l dcumt distribuid  L Mnc  s 70 dids  rgrción. L pnci  Rgmt s  rún  vz l s   h brdd   curt prt   rm,   ritm prs impust   PP.
+Rj xplicó    sprrá  pcts   impulsrá s dids,    slitri, nts  finl  ñ. Alg,     L  Enjuicit Crinl,  lgrá l Cngrs hst fbrr  nts b psr   Cnj  Mistrs, r sd   infrs prcpvs  vlvr l Gbir pr r vid  s Crts.

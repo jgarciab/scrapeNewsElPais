@@ -1,0 +1,34 @@
+A Mri Rj insist   prncir  mbr, muchs css girn   PP lrdr  Luis Bárcs s 2009, cd stlló  cs Gürt. Y s hc s,  grn prcupción   cúpu r cr: ¿Qué hrá  xtsrr si tr  prisión? ¿Pndrá  mrch  vdr? Est juvs lgó  mmt   cúpu l PP,   crró  nuv   silci, rcupró  mbit  tmr    pud hcr  hmbr  trló s finnzs l PP durnt csi 20 ñs,  bmb  ndi sb si  stlrá.
+Rj, gún futs l Gbir,  tró   ci  Brus, l sm mp  td  pión públic. Trs  rión l Cnj Eurp cbrd   cpitl bg,    mdrugd   virns,  prt l Gbir, prgtd   pridists, tstó snrit: "Mñn hbms".
+Bárcs, rcrdbn  privd lgs dirigts,  h mstrd   psd  stb dispust  td  tl   ir   cárc. En 2009 pró  hbr lvd nuv cjs l PP  infrmción licd. Djó cr  tds  círcu   sbí muchs css   bín r tds. Lgó inclus  cudir   tri,  dicimbr  2012, cd  sbí   hbín trd 16 lns  urs  Suiz, pr jr cr  tí s pps cmprtdrs,  sms   31  r psd publicó EL PAÍS.
+Est trctri,    hmbr dispust  td  lgó  ncir   prd  rb, hcí tr  muchs   rcción. A trs cr  s  st  mrzd,   h hch td  dñ  pdí hcr, ndi sb rlmt  ,  pu scr, hst dón pu lgr   vgnz. “Bárcs c  prd jr  ndi      bgds  prsgiss  Espñ. S stí s, intcb. Y   v  vr   cárc, lg pr  , gún  sm hbí td,  stá prprd. Su rcción s imprvisib”, r  dirigt.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1372362384_842026_1372370509";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Cm s hbil,   prd l Gbir h división  pins. Mitrs s  inquitn   ci, trs dirigts ñn   PP,   mu rrisgd  rltd, ncsitb  ci  st. Y    fisclí,  td  md sci l Gbir,  fvr  s pción  prisión.
+“Y tms lg  cirs  nustrs litnts  vtnts:  vrgüz stá   cárc    fisclí  fvr. Much gt nustr  stb nd”,  grb  dirigt. “Est fiz. Qu j  rír  td  md  si  lg  cir   dig”, r tr dirigt. “Ncsitms  cción jmpriznt  st, cárc  finz,  s st pu rvir pr clmr  cmr   cl”,  grb tr.
+Ls brns trritris,   prcupds   cs Bárcs   ssción  crrupción   PP pu prjudicr s ccins,  sn s prirs, vín práccmt rcmnd  did  st hc s. “Est prsn, st vcid   pgrá    h hch” lgó  cir  glg Albrt Núñz Fijó. “Ls litnts stán sds”, dij  s jt  Rj Arntz Quirg, prt l PP vsc. L dircción ncinl,  mnv  nón  Bárcs hst  31  r   ñ, simpr fu  cut. El s hbló  “cus grl tr  PP”. Pr ss brns  s trs stbn  juvs ssfchs.
+
+“Inclus si hb, pdrí virs bi,  slg   tg  slir     psr  tr cs”, ugurb  dirigt. L pr, xplicbn vris, s  mz stnt. Pr s  xtdió ch  lgs  insprd    Bárcs hb, cig qui cig, pr jr  vivir  s ssción    infrmción  pdrí hdir l PP, incluid  prt l Gbir,   sbr nc si s s cirt  .
+Mitrs,  PP rccinó   silci ttl, s rt   inudit ccd  17 pbrs   ,  citr  Bárcs, xprsbn  rspt   jusci. El Gbir hbló  trvés  Albrt Ruiz-Glrdón, str  Jusci: “N h ndi,    PP   ngún ctr   scidd spñ,  pud str  tr   invsgción  tds  cd   l hchs   jusci d  tgn  r sds  invsgción”, dij  Trncón, dn  lgó  ci.
+Algs dirigts stán msts  cr   Ruiz-Glrdón,  rspnsb  Jusci,  Jrg Frnánz Díz,  Intrir, hn sid cpcs  trr   fisclí    plicí pr vitr   cs Gürt  virt   psdil pr  PP. Pr  mstr  rfir    invsgción   pps    fct   tbilidd l PP  l prpi Bárcs,    h dd  gs ntr l prd sbr td s   ció  r frt prsnl , gún  dirigts, ndi sspchb. El PP fi    xtsrr gñó  tds, incluid  Rj,  dij  2009: “Est vcid   ndi pdrá prbr  [Bárcs]  s ict”. E hmbr, cv   histri l PP  nts  AP, dur s ch   cárc. Y ndi, slv , sb  cucis pu tr  gir.

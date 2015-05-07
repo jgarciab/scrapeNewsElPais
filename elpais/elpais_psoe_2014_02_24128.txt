@@ -1,0 +1,32 @@
+L dircción l PP h rcrucid  s  t tr   clific  "mtb spctácu   lmds vrificdrs". L crtri grl, Mrí Drs  Cspdl, h cusd birtmt l hdkri, Iñig Urkullu,    dirigts  PSE  prcipr   "spctácu"  "vr"   csión intrncinl  vrificción   rió  mbrs  ETA pr crditr  mg  sr. "Es  cción  s  tmdur  p  tds  spñs   h hch vint  trvés   ml t  ctrs rvmt bi pgds  lgs rsts invitds  Urkullu   PSE,  hn hch frncmt s pps mtbs", h fzd  núr ds l PP nts  insisr: "Ds lug,  cción mtb   vvil   lmds vrificdrs  s  rcms  spñs  s lug  vscs".
+Cspdl h bdd   msj nzd  virns  Cr Fri   dng  Estbn Gnzáz Pns. Pr h id  llá l tchr  "bchrs"  rcción   scilists vscs, ,   pión, trgrn "td  crdibilidd   pp prpnrnt"   vrificdrs. El PSOE,  rlidd,  distnció   cción   csión.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1393242804_295542_1393249504";
+                
+Envir ví
+
+
+
+
+//
+
+ATLAS
+
+
+
+Óscr Lópz, núr trs l PSOE, h mstrd  "srprs"  s pbrs  Cspdl  h firmd   scilists  trrán  "prvccins". "Pr much   mpñ Cspdl  qui   tr  ETA   cmpñ" pr s ccins urps l 25  m,  scilists  vn  "rspnr  ng prvcción   p", h dich Lópz. A   principi  h rid vrr si  ct   vrificdrs fu  ps "pñ  grn,  nt  trás", spués h ñd    vid "simpr s jr ir nt  trás", "simpr s jr vnzr  rtrcr". "D ETA só sprms  dislución   quir hcr  vrcins. ETA   dislvr  pt", h ñdid.
+
+El Vlci, viccrtri grl l PSOE  cbz  list l principl prd   psición pr s ccins urps l 25  m, clificó  nci  "pñ gst" ,  crcins  EL PAÍS, rcrdó  " imtnt s  gst fiv,  s sprcr  rgzción". "L prir victri fu  jrn  mtr;  gd s  j  xisr", rznó nts  grgr  fí    dislución  " prnt  tr.
+Ptxi Lópz, crtri grl l PSE  litó  cir: "Ls scilists nc vms  sñr  vncs   prduzcn  s dircción,  n,    cs, bstnt scss. Pr,   sm cridd, s dig  nc s vms  frmr  ms   sprición   rgzción trrrist,  sción  rspnsbilids   dñ injustmt cusd durnt tnt mp   scidd   xigib rprción  s vícms".  Lópz bró tmbién  s frmcins plíc  pu "cr,  tción sdid,   jug ,  glps  fct  scificcins priódics".
+L crtri grl l PP h fdid tmbién   prt l Gbir  Nvrr, Ynd Brcin, znd  cs  pusts injrcis  lvó   disión  psd r   dirctr  Hcid Frl    scilists nvrrs  sdir  mción  cr. Cspdl h trtd  rbjr  scánd durnt  cmprcci    ncinl,   h rcid  psib xistcis  ducts irrgurs. "S stá hbnd  ducts irrgurs,   crrupción", h ñd Cspdl nts  bdr   t l PSOE    lír, Alfrd Pérz Rublcb.
+L núr ds l PP h clificd  "spctácu mtb"  "intt" l Prd Scilist  Nvrr  "spjr   Gbir   m  Bildu". "Hms vist tmbién sts dís cóm  PSOE s cpz  Nvrr  chr   m  Bildu pr pntr mcins  cr.

@@ -1,0 +1,58 @@
+Ls ds grns prds spñs,  hn gbrnd  pís intrrumpidmt s 1977 — PP rivindic  hrci  UCD— bvirn ch  pr rltd   histri mcrác. S drn ligrísimmt  bj l 50%,  cifr simbólic. Prdirn   cinc lns  vts  30 pts sbr s urps  2009, cd grrn  80%   vts.
+L sición  s sir    trs pís urps dn h hbid vuc ttl,   trcr  discrdi, IU, dó mu js l gd,  PSOE. Pr  glp l biprdism s much mr   sprd  s grns frmcins  ugurd  tds s custs. Ning s db  bj l 65%. Y  trd  Pms,  grn rvción  s ccins  cinc scñs, curt furz plíc s   bj  Izquird Ud, prc tmbién  msj tr  grns,   s  frmción nuv rgid lrdr   prsnj cid   tvisión  Pb Igsis,  vi  Izquird Ud  h trifd   prpi frmción  h std  pt  prr   clición  C Lr.
+
+El PP,  mbrg, stb mu ssfch ch  p   r sp —2,6 lns  vts ms, 16 pts  cíd  8 scñs prdids— hbí gnd  prcur btl   scilists spués  ds ñs  di  durísims rcrts. El PSOE bv  pr rltd   histri,   pn tr s curds l lír  st frmción, Alfrd Pérz Rublcb. Y grcis   hdit scilist —2,5 lns  vts ms, 15,7 pts  cíd  9 scñs prdids, sir l l PP—   división   izquird   scs fulgurnt  Pms, Mri Rj cmpñ   tds Ang Mrk   úcs prirs strs   pís grn   Uón Eurp  gnn s ccins. Y Mrk stá  pc pr  ,  h vist   SPD rcrt  distnci. L prcupción  s pr  brns l PP,  v   prd c much  pu str  risg s mrís si   tds s frmcins   izquird,   pr Rj,  s rfrzd   mmt cv.
+Frt l vrp   hn lvd s scis Frnçis Hln, Dvid Crn   gués Pdr Psss Ch —sts ds úlms hn vist   brists  scilists ntrs, l trri   Espñ— Rj vij  mrts  Brus   trnquilidd   nzr  msj plíc    principl rivl,  úc  pu rrbtr  Gbir, d  bj  hnd   durísim crisis intrn  pcs s  s primris  vimbr.
+“El úc bjv r gnr   hms grd”, rn   cúpu l PP. Drs  Cspdl xhibió st ssfcción  dij   prd stb “ssfch”  pnr ngún    ml rltd   frmción. El Vlci,  cndidt scilist,  dó  r “ ml rltd, dur, difícil”. L Csión Ejcuv, “ s qui b dptr cis”, xplicó Vlci,  rirá h  spués cmprcrá Alfrd Pérz Rublcb.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1401029782_739281_1401058019";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+A Vlci,   cptó prgts, l trri  Cspdl,  prgtrn si Rublcb   dircción dirán — sm s crtri grl—  jó culquir cisión pr  s, cd  rún  Ejcuv,   t  grn prcupción  pu mrcr  finl   crrr plíc  Rublcb.
+L úc grí   scilists   ch pctrl r   Andlucí,  grn fud,  úc grn cdd  h rsisd  mbt l PP. El PSOE gnó s ccins   ppurs  h bd llí  25%   vts  gró  td Espñ. El PP,  cb  cmbir llí   lír pr pnr  J Mnu Mr,  vnt  mmt cbz, l trri    sprb Rj. Est ml rltd l PP s cv pr s grs —Andlucí s básic   PP tdrá dificults   ml dt  st cdd  tr pésim  Ctluñ, s ds  pbds—  tmbién pr  btl intrn l PSOE. L prt, Susn Díz, s crmt rfrzd  trá much  tds s cis   tm  prr  .
+P   victri l PP, lgs dts inquitrán  dud   brns utnócs. L división   izquird impi l PSOE prr   ppurs,   rltd     dng,   cíd spctcur l PP  tds s cds imtnts, ugur  psibilidd  gbirs  clición  izquird  uts cv  Mdrid   Cdd Vlcin. El PP ncsit mrí bslut llí pr guir gbrnnd   dts ptn    prrá. El PSOE b  rltds bus  cds  gbirn,  Asris,  trs  cb  prr  simpr furn s,  Extrmdur, dn  gnó l PP  Jsé Ant Mng, lg   gró  2011. El mp plíc pdrí cmbir much si st tnci  mn hst s utnócs  2015,   PP fí   rcuprción óc pr dr  vut  st cíd. Rj tmbién rirá h  ss inquits brns     Gév 13,  td  tción   ssción  prfd crisis stá pust   tr ,    scilists   cl Frrz.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1401029782_739281_1401058094";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+El sp l biprdism,  irrupción  Pms,  crisis l PSOE   victri pírric l PP spzrn ch  tción   st   cupó muchs cmtris  s hrs prvis    mu prcupd  td  c plíc  l md  s grns mprss:  rltd  Ctluñ. L grn bid  prcipción  st cdd,   2009 hbí vtd ch pts ms   di, ugurb   cdió l finl:  mvilizción msiv l sbrsm pr nzr  ñl  fvr l prcs. Est frtz, md l scs  Ciudds —  lgó  prr l PP— h jd mu tcds   scilists    ppurs  st cdd,   j  scs ps plíc  Ctluñ   rfrts   ds grns prds ncins.
+Sin mbrg, s  PP xtrín tr clusión , ntr  prcupción, br   pión  psibilidd   lg cmbi:  victri  ERC sbr CiU,  prir vz   histri. En  PP stán vcids    rltd frzrá lgún bt intr  CiU    tr  Arr Ms,  stá vid cóm  prcs sbrst bfici   grn rivl   hc prr vts  fr:  prdirn 12 scñs  s úlms ccins ctns.
+Ppurs  scilists  dbn  tr dt psiv:  prcipción   hdió,   t,  gtó  cifrs mu sirs    2009. Y  psr   frgmtción l vt, ngún prd urscépc  much ms xófb h grd  rltd imtnt, l trri   trs grns pís urps.

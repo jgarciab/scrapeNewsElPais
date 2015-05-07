@@ -1,0 +1,35 @@
+El PP h frd   mrí bslut  iciv l PSOE pr crr  csión  invsgción sbr  mstí fiscl. Ls ppurs hn hch vr  mrí bslut   Jt  Prtvcs frt  tds   grups  tmbién  hn pust  s pcins  cmprcci l prt l Gbir, Mri Rj, pr  hbr sbr Rdrig Rt   tds s pcins  trnsprci sbr  cs.
+Csi   sm hr,  dirctr   Agci Tributri, Sng Ménz, gurb   Cngrs   dts  mnj  Gbir sn " rpr pttr". Pr ng    crá.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1429615519_846845_1429621802";
+                
+Envir ví
+
+
+
+
+//
+
+El crtri grl l PSOE, Pdr Sánchz,  mrts. / Rutrs Liv
+
+
+
+El rgumt   scilists, gún Ant Hrnnd, s  cd Jrdi Pujl, xprt   Grlitt, dó   cgió   mstí,  PP impulsó s csión  invsgción   Prmt  Ctluñ, trs    b   Cngrs.
+Est tr, ,  PP vtrá  tr  brá  iciv l PSOE pr rprbr  Cristóbl Mntr, str  Hcid,  pr   hg públic  list  tributs   cgirn   mstí fiscl. El Gbir sir  s publicción s igl,   PSOE    rtícu 95   L Grl Tributri prt   list  rt   Csión  Invsgción. El ppur Rf Hrnnd sir  s " disprt" dr  cr  mbrs.
+
+
+
+L pléc b gl
+Ls scilists n  h b gl pr   Cngrs pud cr  dts   mstí  rgurizción fiscl. Agurn   L Grl Tributri,   rtícu 95 dic : “Ls dts, infrs  ntcts bds   Adstrción tributri   mpñ  s fcins  cráctr rrvd  só pdrán r ulizds pr  fcv plicción   tributs  rcurss cu gsón tg cmdd  pr  impsición  s sncins  prcdn,   pudn r cdids  ccds  trcrs, slv   csión tg  bjt: ) L cbrción  s cs prmtris  invsgción   mrc glmt stbcid”.
+Pr tr,  Gbir    h b gl  s csión  invsgción  rí crt   prtd 3   rtícu xplic  “ Adstrción tributri dptrá s dids ncsris pr grnzr  fincilidd   infrmción tributri   us cud. Cts utrids  fcinris tgn cit  sts dts, infrs  ntcts strán bligds l  strict  cmpt sigi rspct  , slv   css citds. Cn inpnci  s rspnsbilids ps  civis  pudirn rivr,  infrcción   prcur br  sigi  sirrá flt disciplinri mu grv”.
+Explic  PP  publicr  dts     cgirn   mstí  2012 pndrí  plicción rtrcv   rm  s pró rgurizr. Pr pr  PSOE s úcs rms  nc pu r rtrcvs sn s ps    s  cs.

@@ -1,0 +1,47 @@
+El bt prmtri l psd juvs sbr  cs Bárcs crró  curs plíc s  dis. N  hiz pr  PSOE   rst   psición,  v   intrvción  Mri Rj s   pt  guid   gsón l scánd l xtsrr l PP. Y tmpc  crró pr  prd mritri. A psr    Gbir d públicmt  st  znjd, s  Audici Ncinl , sbr td, s  cárc  St Rl pu r dicind  gd plíc l PP  l Ejcuv. Pr mpzr,  dís 13  14  gst crrán  tsgs Mrí Drs  Cspdl  Jvir Ars,    gd quinc l s vlvrá  bt   diputción prmnt l Cngrs. El brint    Luis Bárcs h d  Rj str,  mnr dirct   s cucis plícs,  gisr  ún  h lgd   cudr.
+A  intrprtn s  dircción l PSOE. Rj slió tcd   bt  mstró   Ejcuv p   s hi,    mrí bslut. S trt   b mu sólid ,  mbrg, st circstnci pu vrr   crrr  bstácu pr frntr   ds ñs  gisr  curds prmtris. Inclus  s fis ppurs,  vivirn  intrvción l prt   librción, sb  Bárcs guirá smbrcid  cvidd  gbir. Cm ptó Alfrd Pérz Rublcb   úlm cté frl   scilists, Rj  trs vlcns  rupción:  plíc,  trritril   óc  scil.
+EL FRENTE POLÍTICO
+Pr   hi
+Tds m   próxim curs plíc  diág tr s princips frmcins rá xtrmdmt cmplicd. El Gbir   td  psición frt   cmplicd tjr cmplicids  trs grups. H dd cr   p xtrrdinri  st mn  h scvd   mción  cr  pntó  PSOE  s icivs prmtris  trs furzs. L “stbilidd plíc”    pó  núr ds l Ejcuv, Sr Sáz  Sntmrí, spués l Cnj  Mistrs, s p,  tnt,   cndd. Est s,   mrí bslut.
+L úc xcpción s CiU. Jp Ant Durn Lid s    lírs   hn mstrd  cmprsivs   sición  viv Rj  Bárcs. N bstnt, s rcins   Ejcuv   frmción,  viv  prpi cs  crrupción, pu tsr  prr   Did l 11  pmbr  nuvs sfís sbrsts  Arr Ms.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1375550542_250865_1375552585";
+                
+Envir ví
+
+
+
+
+//
+
+L cmprcci  Rj l 1  gst. / FOTO: ULY MARTÍN / VÍDEO: ELPAÍS-LIVE
+
+
+
+Tds   Gbir    dircción l PP stán pdits     pud crr Bárcs l juz Pb Ruz. Ls cuscins l ngu rspnsb  finnzs lvn s  psd r mznd   ppurs,  s nub ngr prsigu  s princips dirigts   furz s  ingrs  prisión  psd 27  ji. Pr st rzón ndi   psición siró ficits s xpliccins  Rj, sbr td  rción   tcts mnds   xtsrr ví SMS inclus spués   cirn s cuts  crds  Suiz.
+Alg prcid pin  prs intrncinl. El mnri britác Th Est firmó  dis nts: “Rj  frr   pust  trbj”. El nálisis   BBC br   mrí  spñs  dudbn  Rj nts,   st cmprcci rlt inficit pr gnr  prd   finz. L gci Rutrs,   dur cróc, ñ  “s xpliccins   hr  durción   sprdísim cmprcci   prmtri  vcirn”   mrí,  rcurd  “ sfinz crcit nt  c plíc   css  crrupción  hn scudid  vid públic spñ hn lvd l PP  cr vrgismt   ss  intción  vt”.
+Ant  prm,  PSOE mntdrá  rupr  rcins,   quir  st fct  s inscins. Pr tnt, buscrá,  jmp,  fórmu pr rvr  Cnj Grl l Pr Judicil,   Ejcuv prbrá  slitri    cmbi ttlmt  órg  gbir   jucs.
+El cs Bárcs, , h pust  mfist tr   pts débis  Rj:  crdibilidd. Cm   spci  crné  ducir,  prt l Gbir h id prdid  pts    b chr m cd   ncsit.
+
+Ls incumplits l prgrm ctrl, s prss sbr  impusts lug prds   trmpis  s xpliccins sbr  scánd l ngu rspnsb  finnzs l PP, tr trs, hn trnd  jr l prt  ps pts  crdibilidd. Ls custs  Mtrscpi pr EL PAÍS mustrn s hc s s cíd   finz   prt,   h dd pi   sición ptcilmt prdójic:   cr   Bárcs, qui pu mr  imputd,  l prpi jf l Gbir.
+Ls rfrcis  Rj   hnrz   ngción   finncición igl   sbrds dn bilitds  s flt  crdibilidd. Cn  str tdrá  crgr   gd prt   gisr nt prbms   sbrsm  Ctluñ. A  rspct, inclus   PP xist crrits btrráns  pdrín vrr  tr bstácu. El mg  Jsé Mrí Aznr  lgs gsts  Esprnz Aguirr mustrn  h  PP  rspld tr  dirigts,   tz  s bs  lgs prpusts,   plíc fiscl.
+Agrv  sición  crisis inscinl  vnz   úlms ñs    fct tmbién   prt l Tribl Cnscinl  trdich. En  frgr l bt l juvs sbr Bárcs psó indvrd   tvz  CiU   Cngrs, Jp Ant Durn, nzó  dur ndnd s  trib tr Frncisc Pérz   Cbs, pd  cusón  cbz   insción  brí jrcr  árbitr   cumplit   Cnsción.
+EL FRENTE TERRITORIAL
+Esprnd   Did
+El vlcán trritril stá prprnd  rupción. En pmbr  cbrrá  Did  Ctluñ , prvisibmt,  mr xltción   pns sbrsts  Ms. Rj  h rspndid ún   crt l prt   Grlitt,  s vint  rchzrá  lt,   brirá  nuv frntción. Si  h curd  b brí hbr ngcición,  L Mnc ss   hbrá mrg,   cpt bj ngún cpt  lt  tmpc v psib  pct fiscl.
+Sntmrí hb  stbilidd,  Rj tdrá  hcr frt  s fsiv   bilidd plíc     mmt   dificults pr buscr cmplicids. N s    s brns, gún  vi   úlm Cnj  Plíc Fiscl  Finncir. Muchs, , mpizn  scificr scutrs   Gbir pr  finl  s gisrs. Y   próxims s b mpzr  ngcición l sistm  finncición utnóc, cu vigci cduc  próxim ñ. Es ngcición   r pcífic  ms si h ccins utnócs   vist  si,  curr ,  h much mrg prpustri pr  curd.
+A  rspct,  rbión   Cdd  Mdrid,  j   crn l PP, prc inclus  grv ntr l prd   stnts trnzs  Jsé Ant Mng. Al finl,  str  Hcid, Cristóbl Mntr, siguió pcr l prt xtrñ  hst  cdió  tch  déficit pr 2013 l 1%, mr   0,69%  2012 , sbr td,  tr l critri grl. Est cisión stó  st  grvi , jt   trt cdid  Ctluñ, rcrució  rntz  s rcins   Ejcuv  Ignci Gnzáz. Est cidió pnr  s l bjv  déficit   crt crdd   CPFF, si tmbién   sd prvist  próxims ñs. Y  hiz hrs spués  rcibir  mz l prpi Mntr,    prvi   rión hbí dvrd l jr mdriñ, Enri Ossri,  , si  gn  rcuprr  impust  Ptrim ind hc ñs  Esprnz Aguirr, brán tr  s cucis.
+EL FRENTE ECONÓMICO
+Exm  pmbr
+El Gbir hb  rcuprción,   lg prcid    furn  brts vrs pr Jsé Luis Rdríguz Zptr. Ls princips dirigts l PP sgrim  cd cmprcci  jr   dts  pr   úlms s   právit crcil. A ,  mmt  dir s pust rcuprción rá tñ, cd  cifr  mp  sté dicind     stcinlidd   tmd rísc xcpcinlmt bu.
+Ls prvis l FMI  hn sid bus ,   ámbit scil,  pmbr  trá  fct   rducción  bcs   bid  tss ivrsitris. Rj  tds  frts birts , p  pr  mrí ficit pr frntr, tmbién  frtrá  s dificults    sdd  s  Luis Bárcs stá nnd l Gbir.

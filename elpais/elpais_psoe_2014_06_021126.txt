@@ -1,0 +1,87 @@
+L izquird spñ  h mvid  s tr  vrsión  cdid  ficilist l PSOE;  s rivindiccins  s furzs rgts,  hn xigid  vctri   rfréndum. En  prir bnd  h sid  crtri grl   scilists, Alfrd Pérz Rublcb,  h firmd   bdicción l R br  mp nuv    dn Fip  Brbón rprst  rspt   Cnsción   rmlidd inscinl.
+En  sd,  cl lír l principl grup   psición h stcd " xhusv  prmnt frmción rcibid"   Príncip,  pndrán " jr vl" pr   rind icil "s  nuv prid  éxit  nustr vivci ccv". Rublcb h slzd  figur  Dn J Cr:  "cmprs inbrntb"   mcrci  librtd  tds  spñs. Un fctr cv  h prsidid  rind, gún h dich  crtri grl l PSOE   crción inscinl íd     Frrz, dn h ñdid   scilists n l Príncip " mr cirt"   rspnsbilidd  rá. "El PSOE quir rfirmr  cmprs   vivci   ss  rprst nustr Crt Mgn".
+
+Pr,  st cdid crción  hn guid rccins  tnts ntr  s fis scilists. Jsé Ant Pérz Tpis, cndidt   crrit Izquird Scilist   crtrí grl l prd, h sird   cisión l R b pnr  prr   prcs st  lv  cbrción   rfréndum. "Y cr ,   mmt,  PSOE   hcr prvcr  trdición rpublicn", h stcid  prfsr ivrsitri  diputd ncinl durnt  úlm gisr  Zptr.
+"L ciuddní   vlvr  prncir. Y s h  r. N   pu tr d   Dmcrci", h ñdid  xprmtri,  h hch hincpié    rci  Dn J Cr "bí hbr prducid nts". "Un lt, ,  sts crctríscs,   r vinct. Db tr  cráctr cisri. N pdrí bvir  rltd", h rmchd  cndidt  Izquird Scilist  lirr  principl prd   psición. A   h ñdid: "N s nd  tg  r drmác".
+Tmbién  s fis l PSOE,  pl crisis l prd, s Juvs Scilists  hn prrd  xigir  vctri   rfréndum  riv   prcmción   rpúblic. "S br nuvs hriznts. Tms  br mrl   drs  silci. D xigir  prfd rfrm scinl", h crd Ni Trr, crtri grl   jóvs   frmción. Un grupción  h jd cr, dint  ccd,  pust   cmbi   sistm  Gbir. "Nustr vicción, nustr ñ:  Jfr l Estd gid tr tds  hmbrs  mujrs", h d Juvs  scrit.
+
+En , publicd nts  trnr  jcuv vcd  urgci  Pérz Rublcb, st cción l PSOE h rcrdd  "Juvs Scilists,   rcg nustrs stts, s  rgzción rpublicn". Y,  , ludid tmbién  "rzns ilógics, mri   principis écs";  cción juvil h rid rsltr  " fs   rpúblic" frm prt   indd plíc. "A tmpc bms ulizr nustr iri   rit tr  mnrquí, prvchnd  sición inssb    stá psnd", h mzd  ccv,  h lmd  grgr  tr   rpúblic  "td  spctr plíc,  izquirds  rchs".
+"Nstrs pstms prir   rfréndum    ciuddní ij  m  Estd quir. Si s  mrí rpublicn, sirms  st lt b r  pisttz  slid pr  rfrm scinl", h rclcd Trr. En  sd, Juvs h rmchd  cmpr   régim mnárquic rlt hrr   grción  "sir  st insción   mt ificdr   stbilidd". Pr, gún h ñdid  grupción,  mp   h cbd: "Nustr grción  cutr,  cmbi, libr  crgs psds".
+Pb Igsis pi  rfréndum
+El lír  Pms  srprs  s psds ccins urps, Pb Igsis, h xigid  vctri   rfréndum pr gir tr Mnrquí  Rpúblic. "Nstrs dijims   rltd l 25  m rvb  putrfcción l régim l 78. Est nci h crd s scmpsición", h brd nuts spués  cr  bdicción l R. El urdiputd  ct h psld   frmción   "s  mmt l cmbi mcrác".
+"Si  Gbir sir  Fip   finz   , tms  invit   gt  vtr", h ñdid Igsis. Est, s Brus, h pdid  l PSOE   pct   PP pr  pnr  mrch   L Orgác sbr  csión. "L dms  dd   scilists   mustr   sn  sm   ppurs", h rmchd   vrsción tfóc  EL PAÍS.
+El núr   Pms, , h incidid    img   Cs Rl  cutr sprsgid trs  css judicis  crcn  Iñki Urdngrín   Infnt Crisn. "Es  insción inficd   crrupción   psd", h ptd. "Instms   prr   prcs st", h stcid Igsis.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1401698982_637616_1401707211";
+                
+Envir ví
+
+
+
+
+//
+
+ATLAS
+
+
+
+Igsis h prvchd  prir visit   cpitl ctri s  cción  urdiputd pr fijr ún   psición sbr  mnrquí  ví mstrnd s  nzt  Pms, hc ms  trs s. "Frm prt l psd   l fur; stms   mmt  rquir  mplis sss,   vuv  pbr l pub    br  prcs st", h crd  s purts   Eurcámr, l mp  jb trvr  rción dirct tr  rltd  s rcits ccins l Prmt Eurp   cisión l R. "Ls rltds l 25-M  hn jd indifrt  ndi, strs hms sid  ctr rvnt   prcs  cmbi  tc r    tc s  mcrci", h brd. Infrmn I. Friz  P. Álvrz.
+IU slicit tmbién  cbrción   lt
+En IU  áms  hn cdid pcs nuts spués  cr  nci  Dn J Cr. “N rms  mnrquí impust   dictdr. ¡A   trcr Rpúblic!”, sptb  Twittr Mrin Albil, urdiputd   clición  izquirds. L crción lgb s instnts nts   C Lr, crdindr frl  IU, scltd   bnr   II Rpúblic, firm  "s  hr    pub cid  hb".
+En  sd,  lír   frmción h vincud  cisión l Mnrc l sp l biprdism  s úlms ccins urps. Un m , gún Lr, "h sid  st l sistm mnárquic s  Trnsición". "M st ilund   psibilidd  vr  III Rpúblic nts  mrir", h psld  crdindr frl,  h vcd  urgci  rión l Cté Ejcuv.
+
+
+
+M st ilund   psibilidd  vr  III Rpúblic nts  mrir
+C Lr, crdindr frl   clición IU
+
+
+Pr  prt,  tvz   Jt Esttl Rpublicn  rspnsb frl  Drchs Hums  IU, Frncisc Pérz Estbn, h incidid   ncsidd  brir  "prcs st pr fir  rch  cidir” tr Mnrquí  Rpúblic. "Dtr  nustr grup h qui pis  tmpc b hbr  rfréndum", h rsltd: "Pr rí  vtr tr  scvid"   librtd.
+L Jt Esttl Rpublicn vcó  psd 14  bril  mfstción  Mdrid  fvr   III Rpúblic. En st,   2.500 prsns rcrrirn s cls   cpitl. Y, pr st tr, nt  lmd   nuv ctrción  s 20.00 hrs   Purt l Sl, IU  h mstrd  fvr  st: "Apms s mvilizcins  st tr pr xigir  rfréndum vinct. Y trbjms pr vcr  grn mvilizción pr   pub hb". 
+Pr  prt,  cbz  list  IU  s ccins urps, Will Mr, h xigid  rfréndum vinct pr   spñs pt tr  cl m  mnrquí prmtri  rpúblic. "L mcrci l sig XXI xig   v  rfréndum vinct  td  pub pr cidir si  quir rpúblic  mnrquí", h fzd Mr. Sgún  rprstnt  IU, s rcits ccins urps hn sttd  "crisis"  "nufrgi" l biprdism,   ds prds —PP  PSOE— ,   pión, pn  mnrquí,      sd ún vcr s lt.
+Equ: "Fip  pu tmr psión   rfréndum"
+Al igul  Pms, Equ sir   bdicción l R pn " ntm  l gtt l régim l 78". Pr , gún h firmd  s  ctvz l prd vr, J Lópz  Url, xist  ncsidd  impulsr  rfrm scinl. "En mcrci, s sicins  crisis  rv   mcrci", h ptd  rprstnt   frmción,  h xigid  cbrción   lt   spñs: "Fip  pu tmr psión   h nts  rfréndum vinct".
+En ct   pss  guir nt  scri cl, Url sir   Gbir  Mri Rj brí prstr  disión  vcr ccins grs. Td , pr brir  prcs st , gún fi Equ, cbr   prcmción   "rpúblic ciuddn, frt   mnrquí ncd   psd". "Nstrs sms mu crs. Apstms   rpúblic. Entms    sig XXI bms tr  régim cr  nustr mp", h rmchd  ctvz.
+El diputd  Cmprs-Equ   Cngrs, Jn Bldví,  h md l rchz   " rgác  nuidd" ,   juici, prpr  Gbir pr rgur  csión l R J Cr  h rgistrd   Cámr Bj  prpsición       bg  cbrr  rfréndum     próxim jf l Estd  gid   .
+Psd cutr l R "mu tr  mu gur"
+A s diz  diz   mñn, vint nuts nts    prt l Gbir, Mri Rj, ccr   spñs  bdicción l R,  Mjstd   ccó tfócmt l prt l Cngrs, Jsús Psd, trcr utridd l Estd. H sid  prir prsn    h hbd Dn J Cr, nts  hcr   jf l jcuv. "M h dich  bdicb,  r  cisión mu ditd, mu psd,  h vist mu gur", h dich Psd   Cngrs, ún mcind.
+"Sí,  h mcind, much     stb mu gur, mu fir, mu tr", h nud Psd. "Es  dí históric;  r h sid  jr instrumt  hms d pr  stbilidd   idd  Espñ". N csó   gis: "L h vist mgnífic, dnnd  sición". Pr pust, h rclcd  prt l Cngrs, "h mfstd td  grcit   Mjstd  tmbién  guridd   Dn Fip rá  mgnífic csr".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1401698982_637616_1401708120";
+                
+Envir ví
+
+
+
+
+//
+
+ATLAS
+
+
+
+Ms mn  lt
+Pr  prt,  prt ctlán, Arr Ms, h xprsd  "máxim rspt"   cisión  J Cr I  bdicr,  h brd ,  h cmbi  R  Espñ, " hbrá cmbi   prcs plíc ctlán" ,   juici, b lvr  "vtr  frm pcífic"  9  vimbr: "Pdims  tds s inscins, tds,  rspt  vltd l pub ctlán  cidir librmt  fur ccv,  tgn  cd  rspt mu, diág prmnt  l cbrción", h firmd Ms.
+Ciutdns gur   prcibí "cirt gtt"
+A di mñn, Inés Arrimds, diputd  Ciutdns   Prmt  Ctluñ, h pdid prvchr  bdicción  R pr frntr cmbis   insción   Mnrquí    "gd trnsición ciuddn"  t  mcrci, iguldd, ión  prt tr s inscins   plíc  l rvici   .
+Arrimds h fid l R   figur cv   Trnsición  h rclcd  pp  jugó  mmts imtnts   mcrci   glp l 23-F. L diputd h vrd,  mbrg,   prcibí "cirt gtt". Pr  ,   juici,  cisión  J Cr I pu r  bu mmt pr slidr s rfrms   cmbis  ncsit  sistm mcrác. "L Mnrquí b r  trnsprt  crcn l ciudd", h pind. Y h pdid   br  Estt   Cs Rl  indi s fcins  cd   s mbrs  l rst  s prsns   intgrn.

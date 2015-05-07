@@ -1,0 +1,58 @@
+Ni , pr  scrt públic finl,   cbr, pr prvcr  xpulsión l PP trs 34 ñs  litnci,   2012, pr scblgr   prci  Bnki     hbí prmvid. Mri Rj lv s  hbr dirctmt   siquir  téf  Rdrig Rt, l  nc fu  g ínm  mbs frmrn prt l rstringid quip  upó  Jsé Mrí Aznr s  psición l . Est juvs,  L Mnc, cd  tró l rgistr judicil   vivid  nts   tción, Rj  mstró mu fctd nt s cbrdrs, “prsnlmt,  tmbién   grv dñ  sigfic pr  PP, pr  Gbir  tmbién pr Espñ”.
+Cd  nuv tvz  cmpñ l PP Pb Csd nció, hc 34 ñs,  trr tds  intcb Rdrig Rt mpzó  litr  Alinz Ppur. Est juvs, Csd  pud prr mfstr “bchrnd”   SER  gurr   prd bí r “infxib” nt  cmtt pc “éc  stéc”  Rt   cs   rgurizción fiscl, nts inclus  sbr    tr  gts drs ibn  rgistrr  dcili  lug  tr. Y trs tvcs l prd,  Rf Hrnnd, Cr Fri  Estbn Gnzáz Pns, cusnrn birtmt l  durnt muchs  s 34 ñs  litnci   PP fu sird  i   slvdr óc  Espñ,    csi cmprb s l  Jsé Mrí Aznr.
+
+L dctrin ficil  mnó  juvs s L Mnc, trs  mción grl  prvcó  ci prir l rgistr  lug   tción  Rt,  rtí l fcint rml l Estd  Drch   pís mcrác,   iguldd  s s pr tds      impsibilidd  inttr prr, tpr  dulcrr ccins judicis  mrch.
+Fu   dij  públic  str  Jusci, Rf Ctlá: “Es  sttción    sistm fcin,  jucs  fiscs invsgn   fcint l sistm  rch   s inscins   grntí     s igul pr tds”. Y   tr, nt  trndr sc   furgns   plicí nt  tl   vivid  Rt,  crtri  Estd  Rcins  s Crts, Jsé Luis Allón,  fcinó  tvz  L Mnc: “Est Gbir trbj   intrés grl inpditmt   sición prsnl, l cr plíc,   mbrs  plids  s prsns sbr s   stá invsgnd”.
+El prt, s  silci ficil, stb impctd, gún futs   quip  máxim finz. “Pr h trbjd cd  cd  Rt   c prsnlmt s hc muchs ñs   st ci s m, grv  dñin pr  Gbir, pr  PP  pr Espñ”, rclcrn futs  L Mnc pr smntr  tsis    Ejcuv hbí frcid   st mnr tn públic  mu rvnt cbz  Rt pr svir  tción sbr trs sts  pr tpr inclus trs mbrs incurss  psibs invsgcins  cmtts ilícits fiscs.
+“Ess trís sn  brd. ¿Pr  bficis pu rtr s  pr Rj  pr Espñ?”, rmchrn s sms futs. Ds  quip l str  E, Luis  Guinds, rspnsb úlm   rvici  inspcción fiscl, tmbién  sclificrn ss hipótsis  “picurs”.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1429212131_426474_1429214712";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+En  PP,  mbrg, l mrg   nuvs tvcs incurss   pl prcmpñ  s ccins cs  m,   pu prr  smr ms drmác,  dirigts  vtrs  histórics  mstrrn cmpgids  impctds. Vict Mrtínz Pujlt, tvz    Cngrs l ár óc  xcbrdr muchs ñs  Rt,  xprsb inclus indignd  mndb xpliccins: “Tms rch  sbr  h psd quí  cd  prt  scr públic,  fusit diác,   pu pr l crt  mri”. Otrs dirigts  rspnsbilids   prd drn  stbn “strnds”    prción   juvs sigficb  “p   grvdd brutl”.
+Hc mp  Rt hbí cíd  sgrci pr  PP  Rj  s cbrdrs, csi s   2007 prcipitó  xpliccins vincts  rgrs  Espñ s  pust  dirctr grt l Fnd Mntri Intrncinl,  ctgrí mdil  jf  Estd,  tnt hbí cstd guir. Pr s   prpi Rj frzó,  2012,  cpitción  trvés l str Luis  Guinds  prt  Bnki s rcins tr mbs stbn   rts.
+Tnt  Rj    trvió  rcmr  prsn    lmd  téf  bj   litnci l PP,  psd s  cbr, cd sltó  scánd  s trjts bck  s   princips dircvs  Bnki rlizrn gsts sss  cráctr privd  cst   dd. Y tncs cdió lg prcid    h currid sts dís. Ni Rj  lmó,   citó,   hiz  núr ds   prd, Drs  Cspdl. El prt l PP jó tncs,  h psd ,  trs dirigts ms rvnts cricrn durmt  Rt pr inttr prvcr  mrch vltri. Cstó bstnt.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1429212131_426474_1429215721";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Rt hiz lgr tncs l PP,  vís  ficis,  fd  ndi   dircción ncinl  hubir pust  tct   pr rcbr  vrsión   hchs. Sstí  si  scuchbn  pdrí prcinr “xpliccins prfcts”    stb psnd. El crtri l ár  Orgzción, J Cr Vr,    pcs dirigts   mn   cúpu l prd   épc  Gév 13,  lmó finlmt  mbr   dircción. Rt  mtó    viccrtri  Orgzción, Cr Fri,  núr trs l PP,  hubir trvid  cusnr  cción  s plécs trjts  hubir ncid  tín  intción  brir  invsgción “hst s úlms cucis”. S brió  xpdit,  mbró  instructr l diputd Frncisc Mlinr,   tmó crción  nt  sttción  L Mnc    pléc  mgub Rj lmó   prsn   máxim finz    Rt   frmuló  prgt crg: “¿Algui tdrá  cir  Rdrig  pid  bj?”. El msj  hiz lgr st vz  prsn  Rt cdió. Prgtó  prcdit   jcutó.
+Rt,   pcs dís  pr cubrir  frmlisms, scribió  crt   crtri grl l PP rcmnd  bj tml hst  td  st d bidmt scrcid. Y s sm tr  rspnsb  prs l PP vió  ccd frmliznd  bj.

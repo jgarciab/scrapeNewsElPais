@@ -1,0 +1,33 @@
+Sin mcinr  mbr  Luis Bárcs, xtsrr l PP,  prt l Gbir, Mri Rj, h hbd  crrupción,    fir prpust   ntr  pc  "histri psd". En  intrvción Jt Dircv Ncinl l PP, rid  purt crrd,  prt h fdid  cción   mrí   plícs  h cusnd  fct mulplicdr   css individus. "N quir  Espñ  virt  inhbitb   cu  prubs", h fdid. "N  trt  cultr,   trivilizr,   lvidr. S trt  cr  sstz".
+Pr, sbr td, h fdid   prd  h gurd   PP h cbrd   jusci cd vz    h pdid. "N s vrdd   Espñ h  Estd grlizd  crrupción", h rprchd. "Ls xcpcins  sn rprstvs     sms".
+Pc nts,  prt  hbí mstrd pst nt  fur: “En  2014 Espñ crcrá  cridd  mpzrms  crr mp”. Sgds nts,  prt hbí dd   ñ  curs "rá dur". Pr lug, h rclcd sbr  siguit: "Ls spñs trán rltds tngibs   sfurzs  hn hch".
+El prt h rrncd  discurs   vrción sbr  sición óc,    h stcd   crcit  Espñ   crción  mp s  principl bsión: "Es  bjv,   imtnt,  vi lvidr  distrr". A   h psld,  dds s cifrs l pr: "Ni   ndi   s juici pu str ssfch   rfrm brl".
+Pr, sbr td,  prt h scd pch   gsón   Gbir. "Rbjms  déficit públic, nustr ud xtrn,  vitms  rsct", h id urnd  grs   quip, pr cluir: "H dts psivs pr    s prrán dr  vut"   sición.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1364975461_319596_1364993557";
+                
+Envir ví
+
+
+
+
+//
+
+VÍDEO: EL PAÍS-LIVE
+
+
+
+Rj h insisd tr vz   s "rfrms nurán"  h gurd   trt  cmbis "strucrs". Entr s, h ncid  rfrm  s ps,  rfrm rgéc  nuvs dids pr trr  déficit públic.
+El prt h gurd tmbién   stbilidd prpustri "h fcind"  ,  s,  did  v rduciénd  déficit públic jrrá  sición  s Adstrcins. "El Estd fcin  s  grnt   rvicis públics", h stcd.
+En dicins rms,   h hbí vcd Mri Rj,  Jt Dircv Ncinl l PP, rí  rión intrn    discurs l lír   prs sigu  nuv   pntl  psm. Pr  silci l prt, práccmt crrd  L Mnc s  stlló  nuv  scánd l cs Bárcs,  r, prvcó  grn xpctción  cd vctri. El prt lvb nuv s  rir   Jt Dircv, ds  citr l Cté Ejcuv —s l dí   s dij "td s fls",  rfrci  ls pps  Bárcs—   dircción lvb cinc mns  cmprcr nt  prs. En  txt, Rj tí  infr áms l PP  inclus  clmr s gus intrns.
+A  h id dirigid  finl   prmt. A  s s h rcrdd   tr s difícil    sigu hcr vr     grs guids,  s h invitd  trbjr,  distrr  tr pcici: "Ndi pu prtr str   gbir   r bjt  crícs  mdicicis". Y, sbr td, s h rcmd "idd", "  s ñs  indd l prd", pr   Gbir sté rspldd  s dids.

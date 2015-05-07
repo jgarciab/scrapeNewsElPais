@@ -1,0 +1,35 @@
+“El Prd Ppur b dr xpliccins st sm tr  brir  nuv tp  cbrción   Jusci”. Est h sid  xigci   dirigt scilist Ant Hrnnd h hch ps  hr spués    cir  rn l juz Ruz  prisión indicinl   finz pr  xtsrr l PP Luis Bárcs. “El PP  pu guir rnd pr tr d”, h ñd Hrnnd,  h rcrdd  Bárcs s “ hmbr  h mnjd s cuts l PP” durnt   20 ñs.
+En fbrr,  crtri grl l PSOE, Alfrd Pérz Rublcb, xigió  disión  Rj , gún dij,  prt l Gbir  pu str  ms    quir crr Bárcs. Sin mbrg,  vz cid  rn  prisión,  scilists  hn ritrd s xigci.
+Hrnnd, prgtd   st,  h ritrd  pción  disión , gún h xplicd, Rj stá   Cnj Eurp ngcind  mbr  Espñ  pn óc "ficitmt imtnt" pr    pr   PSOE  mustr "prt  rspnsb".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1372356732_940581_1372359545";
+                
+Envir ví
+
+
+
+
+//
+
+Ant Hrnnd xplic    PSOE  pi  disión  Rj. / ELPAÍS-LIVE
+
+
+
+L   h hch  dircción l PSOE s pdir l PP  br " nuv tp  cbrción   Jusci" pr xplicr  dón slirn  8.000 lns  s ngus pts  h lgd  mvr    pudirn slir s " s cs   trm Gürt".
+Pr  prt, Izquird Ud (IU)  h pdid dis  h dd  hch   crct l xtsrr l PP prvc pác   dircción   prd  l Gbir    pud crr nt  juz. Sgún h dich,  cúpu l PP stá "tmbnd" trs  cisión l juz   Audici Ncinl Pb Ruz  h xigid dis   prd   disculps pr  juz Bltsr Grzón,  fu qui ició  instrucción l cs Gürt   pstrirmt fu prtd trs frir, gún IU,  "lincht injust".
+En crcins  Eurp Prss,  crtri  Ccción Extrn  IU  diputd  Vlci, Ricrd Sixt,   tvz  Jusci   Izquird Plurl (IU-ICV-CHA)   Cngrs, Gspr Lmzrs, hn cbrd  ut l juz Ruz. Sixt sir   ingrs  prisión  Bárcs r lg  " ví vir" dd  cndd  indicis  prubs   cumubn   tr,  fu prcismt   lvó  Izquird Ud  prstr  r.
+Pr tnt, gún  prmtri   frción  izquirds,  fl l juz Ruz vinci  IU  stb "scnd, si td  trri". "Estábms mu bi cnds ,  hch,  v  ir mstrnd   PP  h finncid  frm igl. D mmt,    prisión   xtsrr", h dich.
+En  sd, Ricrd Sixt h dvrd     Gbir b  str "tmbnd", td vz  Bárcs  prubs pr incrinr   dircción l PP,  cul, h insisd,     hcr s "dir"  "  stá  trdich s  finncición igl" l prd. "Empiz  bi", h rd. "Qu   músic", h ñdid  crdindr frl  IU, C Lr,  trvés   cut  Twittr.
+En prcids térs  h xprsd Lmzrs, pr qui  cisión  Ruz s " mu bu ci"  mustr   Jusci   pís "fcin"   " h impidd"  s ducts "crrupts", p  s "prs, injrcis  prcucins"  hn lvd  cb  Gbir   PP  tr   cs ,  crt,  "lincht injust" frid  prt  Grzón.
+Pr, ,  cisión  vir  prisión l xtsrr ppur pn  vinci " mr cmpulsiv" l PP  l prt l Gbir, Mri Rj, cd gurbn  rí "impsib" mstrr  culpbilidd  Bárcs.
+Pr , Lmzrs h xigid "rspnsbilids plícs l máxim v"   cs "tn fgrnt"  finncición igl  fct dirctmt  Rj    crtri grl   prd, Mrí Drs  Cspdl,    h pdid, ,  cbr   Jusci  pidn prdón  s "injrcis, sclificcins  mrs".

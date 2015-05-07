@@ -1,0 +1,30 @@
+El Prd Ppur prt frmr  frt cmún tr   sir “ ist  Ctluñ”. Pr  frt  pct  frmcins  ncinlists vnzd  s  Mrí Drs  Cspdl s gró intrsr  Ciutdns. Ni  PSC  Uó rcgirn  gt   núr ds  ppurs. Jp Ant Durn Lid rchzó  frt  trvés  Twittr. Ds Mdrid,  viccrtri l PSOE, El Vlci, fu tjnt: “N s ptms   pct   inmvilism”.
+El pn   dircción ppur pr trtr  frr s spircins sbrsts  Arr Ms —trs  Gbir prpr  m  finncición  Mri Rj sgrirá pr ngcir   prt ctlán— sist  pctr “tr icivs” ,   pión, pudn jr Ctluñ  Espñ    Uón Eurp. Cspdl pntó públicmt —s     dircción ncinl,  Gév, 13—  curd   frmción  Albrt Rivr,  cr scs, , gún mfstó,  ppurs  rcibn  mplir  prpust: “A  Ciutdns, tms intrés  hbr   Prd Scilist  Ctluñ,   vcs   sb mu bi   pis,   vms  inttr,   Uó”.
+
+Albrt Rivr, prt  Ciutdns, fu  úc  di  Ctluñ  bivid l gst  Cspdl  pdirá rir  s dirccins  Gév  Frrz pr pntr  i l frt cmún. Ciutdns prsigu s hc s   prds fvrbs   idd  Espñ diñ  strtgi jt pr cmbr  inpnsm   sm frm  Cnvrgènci  Esrr,  difrcis ilógics, hn md s rgís  fvr   csión. Rivr quir rir   PSOE  rcrdó s firs pins   xprts l Gbir Fip Gnzáz  Jsé Luis Rdríguz Zptr  l xprt l Cngrs, Jsé B,  tr   inpnci   lt.
+P   PP  PSOE brjn slucins difrts pr diluir  sbrsm, Rivr v fcb  sl  linz,   hicirn   dí   Pís Vsc. “Un sición xcpcinl rquir  slución xcpcinl. Es  stms hbnd”, rclcó, “ rmpr  pís  vntr frntrs”. Cnvrd, gún  úlms ss,  trcr furz plíc  Ctluñ,  nt  PSC  PP, Ciutdns rcm  pct  Estd pr frcr  ltrnv l “mú úc” l “prsm”. “S trt   psr tnt    vn  hcr  inpnsts si     hcr strs”, dij Rivr,   fijó  hriznt grr   Prmt utnóc  mrí scil  sbrst.
+El guiñ jó imprrbb l PSOE. Vlci cricó   PP   Gbint  Rj stán ds   “inmvilism bslut” frt   crisis sbrst  ,  tnt,   mrán  s pntts. El Ejcuv, p   prpr  rfrm l m  finncición,    priridd  brr  Prpusts l Estd. El PSC clificó  “jrcici  cism”  “crción rtóric  d”  prpust  Cspdl. Su tvz prmtri, Murici Luc, cusó l PP  r  prtgst   división tr Ctluñ  Espñ   cusó  “hbr scgid simpr  pción  prjudicil,  lugr  rfrzr  crdi” tr mbs trritris. Luc rcrdó  fu  PP   rcurrió  Estt   rcmó “ jrcici  intrspcción   riv”. Sgún Luc,  Gbir l PP s “ máquin  ctr rrrs”, infrm Pr Rís.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1379964500_623765_1379973380";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Mitrs,  dircción ncinl l PP rfrzrá   prt l prd  Ctluñ, Alici Sánchz-Cmch. Cspdl firmó, ,  cbrción   ct  prd  s cdd,   prsci  Rj, “  sición plíc  scil  rquir”. “Cbrrms cts  Ctluñ, cutrs  nustr prd, frs  bt”, ñló Cspdl,  vitó durcr  discurs tr Ms. Pr  trri, Sánchz-Cmch cusó  Ms  ulizr  “crn inpnst” pr cultr  “pbr” cción  Gbir. En  sm lín l frt cmún,  sdr nzó  i  frmr  ptfrm pr r,  cim  igís,  prds, ds  prsnlids l md   culr, l rt  l t  quir guir sid ctns  spñs. “El b [scinlist]   rgzr”, fdió.

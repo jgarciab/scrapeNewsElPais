@@ -1,0 +1,30 @@
+L licd idd intrn  viv  PSC s  Arr Ms nzó  órdg sbrst pu sltr h   irs   Prmt ctlán. Si Àng Rs, lcl  Lid, rció r   scñ  disfrdd   dircción l prd, trs trs   20 diputds spsn  psibilidd  ir  llá  rmpr  disciplin  vt. Y  quint diputd s mu prbb  sig  sign l PSC,  vrblic  rtd psición.
+El rig l scutr s  curd l j ncinl l PSC l 17  vimbr  vtr   tds s icivs prmtris sbr  rch  cidir. Y  prir  vt h, cd  Cámr pdirá l Gbir  trnsfir   Grlitt  cmptci pr vcr  rfréndum sbrst  hn pctd CiU, Esrr, ICV   CUP pr  9  vimbr próxim.
+
+Ls cinc diputds crícs, linds   ctr  ctst, lvn dís inttnd vcr  Pr Nvrr, lír   scilists ctns,    prd rsir     vtción,  s  lin  PP  Ciutdns. Cm ltrnv rcmn  bstción, pr mr tds s ssibilids scilists,    j librtd  vt.
+Sin mbrg, Nvrr  h dd  brz  trcr  fi  uñs  dits  ,   rgumt     pu trvir  cisión l j ncinl. Y  s s, si  h dvrd   rupr   disciplin  vt, pu crrr “cucis irrvrsibs”   diputds crícs   drín   mult,  cdió hc  ñ, si  pdrín incluir inclus  xpulsión l prd. Ls crícs,   trri, ss   pción l Prmt s  ps   búsd   lt gl  pctd   Gbir  lvó  PSC   prgrm ctrl, pus  rcm  plicción l rtícu 150.2   Cnsción pr   trnsfir  cmptci   Grlitt. Ls psicins sn  irrcilibs  s d  vr cóm  vilizn   vtción.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1389818939_617941_1389822064";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Rs ró  tl r  rció   scñ  “chrci”, pr  prcipr   vtción,  nurá  lcl  Lid  rprá  cbz  list  s ccins cips  2015. “En  PSC cbms tds, inclus   pu vtr  tr mnr”, dij Rs, quién rcmó   prd tg  “psición prpi”   prcs sbrst  vcó  plurlidd h crctrizd l PSC s  fdción  1978. Cn td, vitó cricr  Pr Nvrr  jusficó  rci   “rspt inscinl”  h  tr   ncsidd  vitr “str pznd numt   dircción l PSC”.
+Un sición disnt s    diputds Mrin Gi, xjr  Slud, Núri Vr  Jn Ignsi El. Ls ds prirs  inclinn  vtr    pción   lt   trcr stá   bstción,  r  mstrrn hrmécs sbr  hrán finlmt. L diputd Rcí-Mrtínz-Smpr tmbién discrp birtmt l    lt,  s mu prbb  finlmt cd  xpr  mnr cr  psr críc.

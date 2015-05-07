@@ -1,0 +1,69 @@
+Fin l bt l std   nción  2014   spr  s rslucins   juvs vt  grups prmtris. Un cirr  rifirrf prmtri     j  much  psibilidd    cmbi  Cnsción pr  Ctluñ,  tmbién  Pís Vsc, cutr jr d  “s spircins ncins”,  h dich  tvz l PNV, Aitr Estbn. Tmpc  divinn pss pr tr s pcins  hn hch   Cngrs PNV  Aur   trtt difrts   prss  ETA, sbr td  crct  s cárcs vscs. Ests ds clus  pu xtrr l cfón  h pust  ds dís  bt  prt l Gbir, Mri Rj, prcdid  mr rtdidd   tvz prmtri l Grup Ppur, Alfns Ans.
+
+“L Cnsción  pu rfrmr  vi r prt  sbr  s    quir hcr  s psibilids  ss,   fir  dón  quir ir”, h dich  jf l Ejcuv pr spdir  bt. Sbr  cmbi  cd  rción   prss  ETA,    sr ncid   bnd trrrist, tmpc  drá ngún ps. “Cm tds  vscs  tds  spñs, stms sprnd   prduzc  nci  ETA   j  xisr  rgzción trrrist”, h rclcd  prt.
+Y si h lg dud, Ans h hch  pción s  trib  rdrs: “N vms  prr   trrrists    s hn udd scribn  histri    h currid. Ls jucs b mntr bi crrds s purts  s cárcs hst   nds cumpn s ps  rrg   ”. Un pus ints h rgid  s fis ppurs. Y  cd Ans  h dirigid l tvz  Aur. “Sñr Errknd,  prhíb  hb   mbr   s vsc,   mst”. Mik Errknd h ngd   cbz    pbr s  scñ  hbr   mbr  cr  rcí  s vsc.
+Prc   h duds    hbrá cmbis sbr Ctluñ   fin  ETA   mstrrá  s mcins  prpusts  rslución   PP prstrá  s próxims hrs pr  vtción mñn juvs. El dí ntrir  lír l PSOE, Alfrd Pérz Rublcb, hbí rcrdd  prpust  rfrm   Cnsción “ s pr Ctluñ”, si pr rvisr  m utnóc  si  s psib , l ms, digr nt “ grv prbm crd  Ctluñ”.
+Diág s   tmbién  h pdid l prt l Gbir  tvz  CiU, Jp Ant Durn Lid, pr tr   vi: “Un crción itrl  inpnci”. Tmbién  tvz l PNV, Aitr Estbn,  h pdid  crr si trs  sttción    pu cmbir  Cnsción,  Gbir  v  prr       mrí prmtri   lv. N h dich  prt  ,   futs gubrnmts  scrtn. “Un discurs  cmbi   Cnsción  s  trvid si  trri”, h pind Ans”. Y, l finl,  stci  s td  crción  intcins: “L Cnsción sigu sid  jr pt  cutr  tds  spñs”.
+El tvz  ERC, Albrt Bsch,  h pdid  ércs prcismt s rfrm scinl,    td mmt  h rfrid    ctns vtrán infcbmt  9  vimbr,  cd Mri Rj “spirt  dí 10  vimbr  trrá   Rpúblic ctn”.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1393402062_163672_1393420453";
+                
+Envir ví
+
+
+
+
+//
+
+EL PAÍS-LIVE!
+
+
+
+Sbr ETA, s     dislvr. N h   hbr,  much   tvz  Aur, Mik Errknd, h pdid  fin  s dids “ disprsión  xcpción, dids  trs mps  prvcn murts  frit”. Ants,  tvz l PNV, Aitr Estbn, hbí prgtd l prt si   rí r “dr  xcus  ETA pr trzr  sprición”. Qu  divn, s  rspust gubrnmtl.
+"¿Pr  tg   dr lg  ETA   div“?
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1393402062_163672_1393409884";
+                
+Envir ví
+
+
+
+
+//
+
+EL PAÍS-LIVE!
+
+
+
+Ni  pbr hub  dí ntrir, prir dí l bt l std   nción, sbr  sición  ETA   úlm pisdi   vrificdrs intrncins  psrn jt  ds trrs   mustrri  rmmt  prub   stán dispusts   trg  rms. L dd   h dd l prt l Gbir, Aitr Estbn, tvz l PNV,  jt  Aur hn trid st mtri l bt. “Y  h dich  nd h cmbid s  ETA nció  jb  mtr; cr  lg h cmbid   dij, s  psición, cd  ncirn”, h rspndid  prt. Pr nd , rspct   pción l PNV    muv,   png dicins  ETA,    nusvr s icivs  xist. “N s tms  dr nd  cmbi   divn”, h znjd.
+L slución s mu cr: “Qu ETA  div, ¿     pi?,  h dich Rj  Aitr Estbn. El PNV  h hch s pción  ETA  nurss cs,  úlm  psd mn nt  prsci   vrificdrs intrncins;     h rcrdd Estbn   réplic.  “N rc  p” l prt l Gbir dr  pión sbr  vrificdrs. “N s tms  dr nd  cmbi, nd”. L rspust  Estbn tí lg  stri. “Ustd  sb  vms  guir trbjnd s  discrción”   tm.
+"N s triflist: s rlist  quilibrd"
+Est ércs h d  csión  prt l Gbir  rspnr  tds  tvcs  r  ldrn  triflist  fdmt. L h hch  st réplic l PNV, cu tvz,   ntrirs,  cmprt  bslut   Espñ s css mpic  ir jr   mnr ssd  stb. “Est  dicins  trnsr     msj  mrd psm;  s triflist  xgrd, s rlist  quilibrd”,  h fdid Rj. Tmbién  Estbn  h rspndid sbr  trt stri   ingrnts  pps. “Díg  s pís urp     s dé   frc Espñ”, h dich spués  ñr   s   urgcis, xclusivmt,   sigu  slud  s mbrzds    jóvs  pps hst  18 ñs. Nd  h rspndid  prt sbr si stá dispust  sr  ctns  vscs  sitn “  gust”. H rcid Estbn  s mr  mnd  Ctluñ    Pís Vsc, “  jug  s mrís prmtris”.
+Ni Cndá,  Méxic, “s s iss Fr   sctrlizción”  Espñ, h ilustrd  prt l Gbir.
+
+
+
+Rj: “En Nvrr  h hbid crrupción”
+Ni  mr dud   prt l Gbir  Espñ, Mri Rj,    prt nvrr, Ynd Brcin, dic  vrdd rspct   icci   jr  Hcid,  pugn   dirctr grl   hcid nvrr   cus  “irrgurids”. Est s  rspust  h dd l gt l diputd  UPN, Cr Slvdr,  h dicd  mp   bt l std   nción pr linr   prt  tcr l Prd Scilist  Nvrr, PSN   Bildu  hcr pinz tr  gbir  Brcin.
+En td  d  rzón Rj,    h quitd,  t mb,  Uxú Brks,  Gr Bi. Est úlm h hbd      sición  tds  ,  prcri,  si  prt  dí ntrir dij   brc  Espñ h psd   Cb  Hrs,  diputd nvrr  h prcisd    mbrcción irín mu pcs,  mrí stá fur. “Qu vi  vscs”, h irzd  diputd nvrr, sbr  grit   rlidd rg  UPN  l PP nt culquir pntt  gbir difrt l   rch.
+Pr  msj  h dd cr s  Rj cr  Ynd Brcin,    h hbd rcitmt sbr  hsgt prmtri  fr. “Est vcid    Nvrr  h crrupción, st  curd  trbjr   frlidd nvrr”. Est h sid  rspust sts   crcní,   rprstnt  Uón l Pub Nvrr, UPN, Cr Slvdr. “Y st  curd   ñr Slvdr    ustd ñr Brks”. A  cr

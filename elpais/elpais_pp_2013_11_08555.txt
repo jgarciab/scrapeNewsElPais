@@ -1,0 +1,29 @@
+¿S scificó ch  rupr? ¿H  brch rl tr  psd   pr l Prd Ppur, tr Jsé Mrí Aznr  Mri Rj? Ests prgts sbrvu h  cóncv intrprmtri   ppurs   cbr  Córdb, tr cus prcipnts s  tvz   Prmt urp, Ji Mr Orj, cudió   prstción  s mris l xprt l Gbir. El Ejcuv   dircción l PP bndnrn  Aznr   ct,  circstnci     "tm t".
+"Si lgs intrprtcins  rzón   h mndd  msj  scificción sbr  cisión   rupr, pus  tm t", h firmd  virns   trvist   Cp. En Córdb,  mrí   crgs l prd mritri trt  rbjr públicmt s tsión  g  rupr. El xstr  Aznr  cl viccrtri  Plíc Lcl  Autnóc, Jvir Ars, h mnd  simpr "rspt" s pins l xprt. El vtr dirigt ndluz h xplicd   pud cudir  stb rgznd  cóncv ppur   fin  mn. El tvz   Cngrs, Alfns Ans, g  ch sv   frci  Mág. El viccrtri  Esdis  Prgrms, Estbn Gnzáz Pns, h scrtd s rupr. "Sgur  ", h tstd l r prgtd l rspct. El prt  L Rij, Pdr Snz, tmbién h inttd frir  clim   vrsción infrml  pridists. L imtnt, h mnd, s qui tr,   cs  prt l Gbir, " s  brrr  pu cir muchs css". 
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1383901452_352114_1383926811";
+                
+Envir ví
+
+
+
+
+//
+
+Sntmrí,  virns trs  Cnj  Mistrs. / ELPAÍS-LIVE
+
+
+
+L prpi Sr Sáz  Sntmrí, núr ds l Ejcuv, h mfstd trs  Cnj  Mistrs   Gbir " ngci  ngcirá  ETA". "Ls trrrists s   fin: dislvr", h grgd  vrr  psr  Aznr. "N v  vrr  cmtris   xprts l Gbir. Sn inscins  h  rsptr   br   trg. Td  md pu pinr sbr  Gbir",  h litd  pinr.
+En  trvist   Cp, Aznr hbí  ñd   pu "dr rzón"  s usci. "Ls usts sbrán   svirn usts", h znjd. Aznr prstó r  libr   ht mdriñ, ct l   cudió  prt l Gbir, Mri Rj, ng  s strs,  tmpc ngún intgrnt   cúpu l PP. Alg   currió hc  ñ, cd prstó  prir tm  s mris.
+Al r prgtd sbr  psibilidd   s usci  bir  s firmcins, h ñd     dic "s  xprsión    pisn lns  ctrs l PP  ctrs  s  litnts l PP". L sm mñn l ct, Aznr hbí mstrd  prcupción cd Rj, l r prgtd   dctrin Prt, tst:"Lluv much  Espñ".

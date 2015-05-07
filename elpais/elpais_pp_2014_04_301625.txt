@@ -1,0 +1,62 @@
+“Inf, lib, indigdd, bjz...”. Ests sn lgs  s xprs  h rcibid  tvz l Grup Prmtri Scilist, Sr Rdríguz, spués     sión  trl l Gbir l psd mrts rprchr   vicprt l Gbir, Sr Sáz  Sntmrí,  hbr prgtd cóm  prd tí tnt dinr pr sbrds. “En  put vid h rcibid  sbr”, dij lug  vicprt   psil   Cámr,   cr  cr   intrpt. “Ms tcs   trnsprci”, rspndió  ércs  tvz scilist. El PP h mzd  mprr ccins gs tr Rdríguz  "nci fls, injuri  clum". Pr rá spués  s urps.
+¿Trnsprci sbr ? L gustrí   tvz scilist, nd prcliv  “pdir disculps”   h xigid  tvz prmtri l PP, Alfns Ans,   dirigts l PP  hn rcibid durnt ñs “sbrds”, s cir, “ds ds”,  l prd  tr l Prmt, h spcificd Sr Rdríguz, cut   pión públic    PP tr 2004  2011, trs svirn   psición, prcibín ds rrcins.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1398859833_557306_1398863310";
+                
+Envir ví
+
+
+
+
+//
+
+El fd  Sr Sáz  Sntmrí. / ts
+
+
+
+N  prgt,  firm,   figur   dcumtción   PP h rd l juz Pb Ruz,  invsg  prst finncición igl   prd. Pr ss sbrds  figurn   tbilidd ficil, gl, limpi. “Si  PP v rml cbrr ss xtrs, stá bi,   dig. Y   quir sbr s si   hn prgtd nc  dón sc  prd tnt dinr”. Pr tnt,   vd cusción  Sr Rdríguz s tnt  índ mrl —“si s prc bi cbrr ds ds  mps tn difícis pr  mrí”—   rcibir dinr   rig  pdrí r igl.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1398859833_557306_1398863407";
+                
+Envir ví
+
+
+
+
+//
+
+ts
+
+
+
+El dí ntrir,   sión  trl,  frm    pntó  prgt  Sáz  Sntmrí,   hi prcpb  ccción tr  dinr   prst cut b l PP, prvcó  irritción   vicprt. Es intrprtción grlizd s   h dd pi  td  PP pr rrtr tr  tvz scilist. D sm md,  dirigts ppurs  hn frrd  s vd cusción pr bvir  l   trvrsi:   PP  cbrn xtrs,   s prcptrs s ind hbr     prácc  gl.
+Ls dts   PP ró l juz Ruz cincin    iró  tvz scilist. Entr 2004  2011  PP bnó  Sntmrí  diputd 600.000 urs;  tnt  l xstr  Agriculr Migu Aris Cñt  prd  bnó 300.000 urs. El xstr  cl cndidt l PP  s ccins urps dic  tr mp ,  spués   cit  s urns,  25  m, dicrá mp  nlizr “ ccins crins pu mprr” tr  tvz scilist “ nci fls, injuri  clum”. L fctd  m     spch  bgds l   dirij  sdi tmbién “s mrs  s rspct  s mprss l str  trtbn   Adstrción   ó   rgistr l Cngrs”.
+Al ms   prir prt   cmpñ ctrl,  cndidt l PP   v  librr  r intrpd   cvidd “ bbist”,   ld  PSOE.
+
+
+
+Un prácc   cs
+M. F., Mdrid
+Ls rícs l pg  sbrds   PP h  buscrs hc  curt  sig. El xtsrr  crcd, Luis Bárcs, cmzó  rtribuir   cúpu   frmción   ñ 90    s tncs  lmn “gsts  rprstción”: cnds ms fijs l mrg  dits, gsts  vijs  cds,   duplicn  ji  dicimbr  md  pgs xtrrdinris.
+El sistm, gún dó  prpi Bárcs nt  juz, fu vd  Migu Bs, tncs sr jurídic   frmción rvdr, pr “cmptr”  sri   diputds brnd  régim  incmpbilids.
+Grcis  st rguci,  cúpu l PP, tncs  Jsé Mrí Aznr   cbz,  h bficid  imtnts rtribucins. A  tsrrs (Bárcs  Álvr Lpurt)  tbn s mrs cnds,  nón l PP svirn Aznr  Mri Rj;  crtris grs (Frncisc Álvrz Cscs, Jvir Ars, Áng Acbs,  Drs  Cspdl) u trs crgs, s Sr Sáz  Sntmrí  An Mt  Cristóbl Mntr. El prd rfj s cnds  s cuts, s ví  Hcid   rr   crgs públics     prhíb xprsmt. Sin mbrg, Aznr cbró  trs cs trs  lgd  L Mnc  1996, gún    liquidción  gsts vgds nts   tm  psión. El xprt intrpus  mnd  EL PAÍS  stpr  cs,  prdió   stci cid hc  mn  ñb  ss pgs furn sbrds.

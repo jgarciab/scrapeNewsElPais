@@ -1,0 +1,90 @@
+El discurs  cur   vción ncinl l PP  Vldlid  dng  h bsd  trs is:  t   hrci rcibid    psición;  fs   idd  Espñ  frm  slir   crisis   ncsidd  guir vnznd  s rfrms. Ningún tl h dd Mri Rj  s grns prcts pr  ñ. Tmpc h hch    m utcríc nt  s. A nución, s frs  stcds   intrvción nt cits  simpznts.
+L hrci rcibid
+Durnt td  fin  mn  msjs   lírs l prd  hn bsd  cricr  hrci rcibid l Gbir scilist. Est dng Rj h insisd mchmt  s i: "Bst cmprr   h tms    s trgrn cd lgms l Gbir. Cnvi rcrdr s css pr  prr s rfrcis. Hc ds ñs rcibims  pís l br   quibr,  sé   mu dur,  s  vrdd. Ni siquir címs td  vrdd. L sición r much pr   prvist  much pr    fsbn  rspnsbs".
+"Ns jrn  déficit instb l 9%  urgí cumplir,  infción  crcb l 3%,  cmpvidd stb   s, crcí  ud... muchísims prvdrs lvbn s, inclus ñs,  cbrr. N s v  rcrdr   ritm sprcín mprss  utóms. El pr crcí  mnr sbcd. N hc tnt mp  s, cd mñn r  sbrslt,  ngus nuv,  sbíms si pdíms pgr s ps,  si pdríms sstr  rvicis scis. Muchs sstín  Espñ  pdrí rsisr. E r tncs  bt. N quir cnsrs ,  rc  p,  cbrí nc st intrvción,  tds c  Espñ  rcibims. D td  prm  cumpl ds ñs. A prr  s sición s rrmngms  cms  tr".
+"Hms vid  rvr nustr cmprs   scidd, vr   hms hch    s d  hcr pr vr  Espñ cmpv  slidri  tds mbicinms".
+
+"Y stáis mpznd  cmbir  ám   spñs   fur  Espñ. H  cir  hms psd   rsignción   sprnz, l sám   finz  l frsm l rfrsm".
+"Ns hms rsctd strs s"
+Otr   msjs  rpds: s rfrms stán scnd l pís   crisis "p"  s prtsts   psición. "N h hbid  Espñ  prcs  rfrms tn imtnt    hms cd   mp. Rpit,   h hbid nc. Os  v  cir   viví,  hubiérms pdid hcr  nustr p,  vustr cbrción s cd Att  s cd cdd utóm,  s s d s grcis". 
+"N hn fltd crícs, ss  fltn nc,  cr   bi sbrrn, s cricbn cd cisión  tmábms,  rducción l gst...  s rfrms nún. ¿Quién  hcí? Ls sms  tnt s hbrín prgnd  fls brts vrs  mncrs luss. Ls sms cusnts l scbr rn    cricbn  rdi. N hms d  ud   rspnsbilidd   spñs   frtz  nustr prd. Rsisms  prsión  hcr css  pdrín prjudicr   spñs. Hms d  tmr cis ingrts  quitvs. Hms grd prrvr  grns rvicis públics,    ducción   sdd,  sigu sid  guirán sid ivrss, públics  grits".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1391342324_365702_1391345975";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Rj  h hbd l crcit   siguldd,     sigs ócs psivs tdví  vnzn  rcuprción ttl   . Tmpc  h rfrid    ts  pr s l 26%. Prfirió ctrr   msj   jubids  tr  "sstr",  gún  hbrí prvcd  "rsct": "Dsgms s ps. En ngún mmt   hbín prdid  mp jrn  rcibir s bsidis. Tds  dís  s rcmb  pidiérms  rsct,   rchzms pr  grvr  sición, trs tl vz  hubirn cptd  h  stríms mtnd. Tmr s cisión  fu fácil. Al finl  spñs s hms rsctd strs s,  td Espñ crgó   trbj dicinl   ndi dr   ct".
+L slid   crisis
+Ls lírs l PP quir mrcr  pt  infxión   vción, quir jr trás  tp   rcrts durs.  "Espñ s    v  lvr  crisis  nt grcis l sfurz  tds  spñs. En 2013 tms  grn cmbi   sición, cmzms  rcgr  fruts. H h ms prsns  pr s hc  ñ   vislumbr  crción  mp nt. Mjrn s xtcins  rgrsn  invrsrs. El pn  diñms pr tr  hdit  rcuprr  finz  ps prvi pr vitr  rcuprción  h cumplid. Ns  dic s fur,  p inscins ócs  finncirs".
+"Estms vntnd  grn pís,  nustr, l  psibilids, l  gt cpz. Un pís   úc  ncsitb r librr   inpd pr rcuprr  prpi rgí".
+"O t cls  rcs  mérit"
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1391342324_365702_1391346394";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+"N  prcupn s crícs, pñd strí. Pr td   lít: ¿cóm s psib    vist  st vg lgui  dig    h hch nd? ¿Cóm pu cir   fu vicprt   Gbir  lvó  Espñ   ruin?"
+Al lír   psición, Alfrd Pérz Rublcb,  rfirió  citr: "Tú,  t cls  rcs  mérit   gt. N cults   spñs  vrdd   rcuprción  nts cultst  l hdit. Os dig   pis. Ls css  stán  much ms  s gustrí,  Espñ v jr. Ls css mñn vn  ir much jr. Y dig ,  spñs s hms gnd  fdd rch   sprnz.
+L "idd  Espñ"
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1391342324_365702_1391346178";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+"L dij hc s dís  Br:  principl vr  cirr Espñ,   imtnt,   mrs cucis,  jr grntí pr nustr srrl,   gur nustr vivci  pz, l   stms dipusts  scrificr  ng mnr s  idd  tds  spñs. Es s   s hc grns, s s   quir  inms mrí  Espñ, lgs   cmprt,   l ms  rspt,  rspt  . Grnz   prt l Gbir,  hré. Y , cmbré  scns td   simpr discrdi  divi   spñs, sms  grn pís,   invt  ntr, Espñ s   ngu  Eurp, cmprms  bu   m, sms slidris     cd mmt trvisn dificults, tds sms spñs. Ns  td. Sms    pís   h crcid l md   úlms 50 ñs. Prt   vicción   jts mms  prds prms. E s  sig   mps, Ctluñ   ctns  pu dr l mrg. E s  msj  vms  trnsr  td Espñ".
+Bjd  impusts
+Ningún tl h dd Mri Rj sbr  rfrm fiscl. "Lvntms  dis  prtcción,  sn s rfrms. Estms mu js  psr   scns, quí   cb  impuls, hrms  rfrm fiscl. Es  cd mpzms  crcr, s s  rfrm  stms prprnd,  rfrm  smu  crcit   mp. N rá  r rt   just   bj,  trt   nuv sistm  simp, quitv,  dé fxilidd l ctr privd  incv  hrr. N s  bjv  crt pz. V  prngr  rducción  impusts durnt vris ñs. Ahr  hcr  rfrm fiscl   pudims hcr   mmt  s jrn s cuts públics  sición sprd. Ahr,  cí nustr prgrm, hrms  rfrm fiscl".

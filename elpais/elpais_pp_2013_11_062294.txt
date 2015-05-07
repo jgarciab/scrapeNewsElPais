@@ -1,0 +1,51 @@
+El grt l PP  Csl-L Mnch, Jsé Áng Cñs, h dd nt  juz   Audici Ncinl Pb Ruz  scribió   puñ  tr  rcibí sbr ds trgs  100.000 urs pustmt rcibids   PP   mprs Scr  cmbi   csión l rvici  rcgid  brs  Td. Sin mbrg, Cñs h gurd   rcibió ngún dinr   scribió  dcumt bligd   prir indit,  xtsrr l PP Luis Bárcs. Ls fnds pustmt sirvirn pr finncir  cmpñ ctrl   cl prt   rgión, Mrí Drs  Cspdl. Ruz hbí slicitd  prub cid  "curp  scrir cligráfic" pr nlizr  tr  cmprbr si fu  utr   l rcibí  Bárcs prstó l juz.
+Sgún futs l PP, Cñs h ngd nt  juz  rcibir  Bárcs dinr lg  h gurd   firm  ds rcibís  mrz l ñ 2007 "crrspndí l rcit  prt l grt rginl    Grci Ncinl hbí d gsts  cts rlizds   PP  Csl-L Mnch durnt  prcmpñ ctrl  2006  2007, gún s instruccins   prpi Bárcs trsdó  Cñs  disnts rins  mbs mnvirn", gún hn infrmd futs ppurs.
+
+Abgds prs   crción  Cñs firmn   h mfstd   sbí  rig   s l dinr cu rcibí firmó. "Firmé  d  prr  trbj", h gurd Cñs, gún vris trds. Est vrsión   Cñs, bgd  prfsión,  prstr  rdctr  rcibí  ss dicins h sid cgid  scpcism   mgistrd, gún s futs prs   crción. Cñs h firmd    infrmó  ndi   prd l hch   Bárcs  hbí bligd  firmr  rcibí hst   dcumt fu trgd   ngu jf l juz Ruz   crción l psd 15  juli, trs trr  prisión.
+Cñs mn, ,  st circstnci s chrt   crción  hiz  núr ds l PP, Mrí Drs Cspdl, nt  juz Ruz  psd juli. Sgún  vrsión,   licd sición finncir l prd rginl,  Grci Ncinl l PP, st s, Bárcs, " cmpró  hcr crg   gsts rivds   cts plícs  prcmpñ  rltbn  cstss".  Jsé Áng Cñs tmbién h xplicd, gún s sms futs,  fu  prpi Bárcs qui  dictó  d   rcibís   md  rdctr , ,  trsdó   firm   dcumt,  pbrs l grt ncinl, “crcí  imtnci”.
+Cñs,  stb citd  crr  s 10   mñn, h slid   Audici Ncinl  tr      tr   h hch crcins   dis. Bárcs tó  psd 15  juli l juz  rcibí   pust pg  prc firmd   prpi Cñs  rvó   csión tí  trprstción  djudicción  prt l Att  Td   trt pr  gsón  rsidus   mprs Sufi, filil  Scr.
+
+
+
+
+
+
+
+mplir ft
+
+El grt l PP  Csl-L Mnch, Jsé Áng Cñs, h / CLAUDIO ÁLVAREZ
+
+
+
+El mgistrd,  invsg   piz prd l cs Gürt  pust tbilidd B l PP, tmbién tmrá crción l xprt  Scr Luis l Rivr  l tncs vicprt  cl rspnsb   cmpñí, Mnu Mnri. Sgún  vrsión  Bárcs, mbs  hbrín rid  dirigts l PP cst-mnchg, tr   cl prt  s Crts, Vict Tird, pr crrr  prción.
+El xtsrr,  guró nt  juz   dnvs prcibids   PP "j furn finlists slv   Csl-L Mnch", ñló  Tird trnsó  D Rivr  Mnri  imtnci  pr  prd tí tr   tción óc  cirt imtnci pr udr l srrl   cmpñ ctrl.
+En  mrc  st invsgción, Ruz pidió l Att  Td  xpdit  djudicción   xptción l rvici públic  brs  rnó  nálisis cligráfic   tr  firm  Cñs  rvirá pr cmprbr  utcidd l rcibí   mbr td  Bárcs.
+Ls prts prsnds   prcdit tmbién prgtrán  s ts mnuscrits   fs  Bárcs tó  psd s l juz,  rvrín   xtsrr  lgó  rir  D Rivr 11 vcs  2006  2007, durnt  s prvis   rcpción   pust csión.
+El psd ércs  PP ró  scrit l mgistrd    ngb   frmción hubir rcibid  dinr  crtb   st   dcumtción  rchivs rfrci lg l cbr  st csión. "N st   Prd Ppur dcumtción tb   ng tr índ     sprd  rcpción  D. Jsé Áng Cñs   cndd  200.000 urs   ñ 2007", ñló.
+El psd 15  juli,   cmprcci nt  prs,  crtri grl l PP  prt  Csl-L Mnch, Mrí Drs  Cspdl, ngó rtdmt  cbr  s csión  lgó  clificr  "clum"  crción  Bárcs. "Td st histri s rtdmt fls", fzó.
+L núr ds   ppurs ñló tncs   hch   h  dcumt firmd   grt rginl l PP " ng mnr" pu prbr  s impli  cbr   csión prvi. "Es  histri disprtd  mrs", ritró.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1383722896_271079_1383749079";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Sgún  prt  Csl-L Mnch,  "úc"  prub  dcumt,  v "lógic"  xist, s   grt rginl l PP  st cdd, l igul   rst  grts rgins, rcibín  signción pr  cmpñ ctrl  trvés  Luis Bárcs,    grt r  dstrdr   cmpñ. "Cnsirr  s s prub  nd,   r mr, s   grn igrnci", firmó.
+D Rivr,  stá imputd   cus jt  Bárcs,  tmbién xtsrr Álvr Lpurt  trs ch pusts dnnts l PP, cmprció nt  juz Ruz  psd 28  m. Entncs guró   ib  rr tr  "utr mtril  intcl"   nds 'pps  Bárcs' cd pir quién  quiéns  hbín brd.

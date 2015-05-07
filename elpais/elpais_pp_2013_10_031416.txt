@@ -1,0 +1,33 @@
+Vict Vir,  mprsri  nció l xprt   Diputción  Cstlón  l PP prvincil Cr Fbr, stá   cárc cumplid n   grsión xul    xsps. El s  vi cumplirá ds trcis   p impust, diz ñs  prisión,    pdrá pdir  csión   trcr grd. Cn cutr s , Vir pdrí slvtr  stnci  prisión  tr n,  fldd, trs prbr  mpuló  dcumtción ficil  s prducts fitstris   fin  grr   utrizrn. E sm bjv s   , pustmt, Fbr hiz s gsns nt  Mistris  Agriculr  Sdd,  s  stá cusd  tráfic  influcis.
+Si Vict Vir firmr  rt ,  dicimbr  2003, psmó   r tr  dirigt ppur,    guró hbr pgd  Fbr  ss gsns,  unculpción   pg   chch  rtrí tr n. Est  impdirí slir  prisión  ñ  vi, fch   , gún prvé, pdrá jr  str tr rjs.
+
+El mprsri cmbió  juvs, nt  tribl,  vrsión  tds ss hchs  hn lvd  Cr Fbr  str   bnquil cusd  tráfic  influcis, chch  cutr frus fiscs,  cuscins rspldds   Fisclí Ancrrupción   Abgcí l Estd,    cusción ppur. Vir  sdij  guró  hbr fcd ngún pg l dirigt l PP. “Nc   di dinr  Cr”, firmó  psó  dr  nuv vrsión: “Vi Mmp (sps  Fbr)   mujr  trgó 30 lns  pts (180.000 urs)   mtín ngr”. El industril mnv , pstrirmt, hub tr pg, crdd tr mbs mujrs,  trs 150.000 urs.
+Trs  nuv rt sbr  pgs, Vict Vir v  rspnr  s prgts sbr   bcín sts. En  csión tstó   “prgt   xmujr”   tr dij  “rn  mustr  grcit”.
+El mprsri tmbién vrió  rt sbr s gsns  rins   rspnsbs   stris     jrcín s dicins, rcgids  dcumts  tds   mri. Vir  pud ngr  sts  prdujrn  firmó   virn ngún fct   siguió s utrizcins pr fbricr fitstris  hbí td td  dcumtción ncsri pr   fur. Cn st, rduj   clidd   vist bu    s prducts  dir pc spués   rión   Mistri  Agriculr,    sisrn ds diputds   sdr  Cstlón (   tmbién imputd),      trtó l rtrs   trtción  s liccis.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1380781674_874694_1380808031";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+En  crción ró s cuscins  s prvcds  “ds mujrs cdiciss”   flict prsnl: “Vs   ,  v   , firmó   dij  Fbr, “  vgnz si    pó cd  mujr  nció  vición”, ñdió. “Fu  sd flir”, ñló     csión, nts  spués  mfstr   x sps  “nció  vición, flnd ttlmt  histri”. Y grgó “S  stci   pbr tr  , dicid   jé  nd,  s s fls    brí str   cárc”.
+Vir fu  úlm  r intrrgd   úc  rspndió  s prgts frmuds  tds s cuscins  tds s fss. Quizá Vir,   cmbi  vrsión,  libr   cusción  chch   pdrí frtr  tr  nci fls.
+“M   di viscrl”, fu  mnr     prpi Cr Fbr scribió  rción  Vict Vir,  cmzó sid “rml  crdil”, tl  clificó durnt  intrrgtri. En  crción,  dirigt l PP ngó hbr hch culquir p  gsón  fvr   prducts l tncs  g. S scudó   flt  cmptci pr  utrizción  prducts fitstris,   fin  sprr   cusción  tráfic  influcis. Aguró  hbr rcibid nc dinr  Vict Vir  llá l pg  140.000 urs  s infrs   fcrrn    s scids, Crmcs. A, jusficó  sts furn cpids  intrnt    guí   mu: “Cr  buscms infrmción  intrnt   s  silis,   buscms, igul   busc  jurisprci”.
+A  Fbr  Vir,  juvs crrn s  xspss  ñrn  mbs  úcs rspnsbs l mnj l dinr. Pr  prt,  xsdr l PP Migu Prim rció hbr rlizd gsns nt lts crgs   Adstrción sbr  prducts l mprsri   sts  prdujrn “ntr   glidd”.

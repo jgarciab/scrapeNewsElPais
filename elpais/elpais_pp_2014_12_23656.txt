@@ -1,0 +1,44 @@
+Esprnz Aguirr, prt l PP  Mdrid,  frció  mrts  mnr públic  xplícit  lirr  cndidr   lcldí   cpitl,  ps mu sprd   ctr   prd  quir  Mri Rj mbr   s cbzs  crt pr s cips  utnócs  m, spcilmt    trdicins fuds l PP    s custs ptn   pérdid   mrí bslut.
+El mvit  Aguirr h sid intrprtd   PP ncinl   gst  prsión  Rj — “ órdg”,  pbrs   dirigt l prd— , tóricmt,  psb mbrr   cndidts hst dids  r  prirs  fbrr. Gév,  hch, cgió  spg  iciv  Aguirr,    dviró   prd “  much gt rid” pr tds  pusts   Rj   jrá prr. “Y s grnz  ”, stció Cr Fri, viccrtri  Orgzción  Ectrl   ppurs.
+
+L cndidr  Esprnz Aguirr r  crt  vcs hst  mrts. L xprt   Cdd  Mdrid hbí mstrd  privd    ptr l pust  j libr An Bt, qui  pmbr nció    prstrí  s ccins. Aguirr rprst l  rch l PP,   sit inficd  “s bs  simpr l prd”, prt  s scntds  Mri Rj.
+En  tr psn s s rcins  implicds   cs Gürt (jrs s)   Oprción Púc ( xjr  Prci Frncisc Grnds sigu   cárc   st),  incint  tráfic (ún pdit  juici)   s  cr  simpr,  plíc  td  vid  mmts  rvción.
+Pr   frr    PP b psr,  dij  mrts,  s prsns “ cpcs  fr  principis  vrs l prd”. El psd s  juli,  xprt mdriñ   pus  dispsición  Mri Rj,  tmbién  h hch . En s ds cs,  rspust. Aguirr,  rud  prs vcd x prfs    l prd   cl  Gév, pró  Rj  s  mbrr    cndidts, si tmbién    scj  intción  gnr. “L  intrs s crtr  s prsns  vn  fr jr  principis  vrs l prd. Si  quir mbrr  prsns   n ficitmt cids quizá rí trdí,   prc    cs”, dij.
+L xprt mdriñ mpujb  st mnr  Rj  ntr  cbzs  list,   hbín hch públicmt  prts   Cdd  Mdrid, Ignci Gnzáz — qui Aguirr fdió   “jr cndidt”—,    Cdd Vlcin, Albrt Fbr. Futs l prd dt   nrvisism   inquid cn tr muchs   psibs cndidts, tr    mps  Mri Rj grn inguridd, gún lgs  .
+
+
+
+ infrmciónT Góz: “Quir vgr   plicís   rrstrn ”
+El “d divi”
+Rj cr   PP vlvrá  gnr grcis   “mrí mrd”
+El PP girá  s cndidts  s cips  utnócs  fbrr
+
+
+
+Pr  pns l prd  l prpi Rj  s mps. Futs l tr l prt xplicn   s prdri  cmpñs rvmt crts pr vitr mr   cndidts. Y rcurdn  pns icis fijds   PP: l 23 l 25  r,  Mdrid, vción l prd,   ctrrá   prgrm pr s ccins  prcmción  cndidts,  fbrr. En  ntrirs ccis lgs cndidts virn  sprr hst mrz.
+El PP rspndió  cirt frildd l nci   plíc mdriñ. “Qué dud cb  Esprnz Aguirr s  grn cv  nustr prd”, dij Cr Fri   Cngrs, pr ñdir  “rán  órgs l prd   cidirán  ttl inpnci” quién cbzrá  cndidr   lcldí  Mdrid. Fri ñdió  p   Aguirr s “ vr imtnt”,  PP pu “prr  tr  much gt mu rid  muchs ”.
+El dirigt ppur h scrtd  p   frcit  Aguirr   mnr  “prr”  Rj pr   sign cndidt. “Y  sé si lgui pis  Mri Rj s  prsn prb,  grnz    s  prsn prb”, h dich.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1419363414_904008_1419363608";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Sin mbrg, trs futs l prd  intrprtn  mvit  Aguirr   vit  Rj    frm  “ccr  cbz” pr lirr  crt ctrl. Pr sts sms futs xplicn , si s custs  s  Mri Rj spr dispnr durnt sts nvids dn  victri cr  Aguirr  s cips,  rá  gid, p  td. Ls custs cids hst  dn  hch   PP  rvrá  mrí bslut  Mdrid,  indicn   prd tdrí  psibilids si  list  cbz Aguirr   trs psibs cndidts (  hn dd  ps)  Crisn Cifuts, gd l Gbir  Mdrid,   vicprt l Gbir, Sr Sáz  Sntmrí,  prfrirí  ptr l pust.

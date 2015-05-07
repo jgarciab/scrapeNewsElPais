@@ -1,0 +1,71 @@
+Susn Díz ntó csi  ñ s ccins ndluzs   “instbilidd” l Gbir  clición  PSOE  Izquird Ud. A  rg   cmpñ ctrl,  dirigt scilist h pdid  mrí mpli pr tr  Gbir furt  stb. Ls urns hn trgd  Díz  victri cr,  js   mrí bslut,    frnt  gisr    strá bligd  hcr  jug  quilibris pr gbrnr. Cn  99%   vts scrutds,  PSOE vuv  r prir furz  Andlucí  b 47 scñs,  sms    ntrir gisr. L mrí bslut  gr  55 diputds,    Díz tdrá  buscr curds, prvisibmt ps,  trs frmcins pr tr  nsid stbilidd.
+
+Cm ugurbn s custs,  PP c  frm strpits  gr 33 diputds, 17 ms   2012. Pms,   cdd    s xpctvs rn mrds, tr  furz  m 15 scñs. Izquird Ud d rrind   ciclón l prd  Pb Igsis  gr cinc, sit ms  hc trs ñs. Y Ciudds,  prd  Albrt Rivr,  lz  nuv    lv   gbrnbilidd   cdd.
+Ls urns hn firmd  frtz l PSOE  Andlucí;  r rsión  s trs ds furzs trdicins, PP  Izquird Ud;   scs   nuvs, Pms  Ciudds. En s décims ccins ndluzs,  PSOE rcupr  mrí scil  prdió   ccis  2012 frt l PP  Jvir Ars,    pr rltd  ctj  vt   histri utnóc ( 35%),  rsist  mbt  s nuvs frmcins,  hn bligd  rprr much   trt ctrl.
+El cndidt l PP, J Mnu Mr,  h pdid vitr  sstr   prd  psr l spligu l Gbir durnt  cmpñ ctrl,     prt, Mri Rj,  h implicd  principi  fin, scit   s ccins ndluzs rn  prir tst pr  gsón. El PP b  pr rltd s s ccins  1990, cd  rvnci  Andlucí r m.
+
+
+
+
+
+
+
+mplir ft
+
+
+
+
+El cndidt  IU, Ant Míl,  h rsisd  vnc  Pms,  h dd  prir glp sbr  s   mp plíc spñl   xurdiputd Trs Rdríguz  cbz  crt. Y Ciudds,  hc ds s  prcí  pcins  Andlucí  ng cust, h mstrd   stá hcid  huc   mp plíc, scrbnd vts   ctr l ctrd. Su cndidt, J Mrín, lirrá  curt furz   Prmt mu frgmtd  trá  cinc prds.
+El rltd,  culquir cs, v  hcr cmpj  gbrnbilidd   cdd  pbd  Espñ,     PSOE stá l frt s hc 33 ñs. Susn Díz tdrá  trzr curds  trs frmcins pr scr nt s  prcts. Y  tdrá  hcr   cldri ctrl cmplicd   prc difícil  lgún prd v  crrr pcts   PSOE  Andlucí cd  nt h ccis utnócs, cips, ctns  grs.
+Díz, , h rclcd durnt  cmpñ   ngún cs pctrá   PP   Pms, ds prds     sit prfdmt jn. En  úlms 15 dís,  dirigt scilist ps h mcind  s trs ds furzs, IU  Ciudds, s trs ds psibs lids. Cn  frción  izquirds rá cmplicd culquir curd   rupr l Gbir  clición jó hrids  tdví  hn cictrizd ,  culquir cs,  cinc diputds  IU  mn mrí   Cámr ndluz. Y  Ciudds tmbién rá cmpj  Rivr,  stá pscnd   cr l PP,  lts xpctvs nt s ccins grs  tdrí mu difícil xplicr  curd   scilists  Andlucí.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1427025646_085391_1427060801";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Trs  rltd s prvisib   s fis scilists   br ngún bt sbr  dd   l nt ctrl,  prción  lt risg    Susn Díz cidió mbrcr  psd Nvidd. Un vz prbd  Prpust   ñ   p  IU, Díz mpzó  dr vuts   psibilidd l ncip. El nálisis   strtgs scilists ptb    PSOE rcuprrí  mrí   cdd  prdió  2012 nt  PP.
+En  scri,  vró  sp  s custs ugurbn  Mr,  tdví   hbí std   tí  svtj    r cid  bu prt   ndlucs. Tmbién  vluó  Pms  tí cndidt   dircción rginl rcud     ncip  cgí  trpié l prd  Pb Igsis. Pms igió sbr  mrch  Trs Rdríguz  cndidt  prsidir  Jt  Andlucí  rtrsó hst spués   cbrción   ccis  frmción   strucr rginl.
+Dtr l PSOE tmbién hbí dirigts rcis l nt   sirbn inncsri r  risg  r  prirs  frtr  s urns l fóm Pms. En  pión  sts dirigts, hbrí sid jr purr  gisr pr cmprbr  rltd  btí  prd  Pb Igsis   ccis   stbn fijds   cldri  2015 (cips, utnócs, ctns  grs). En  nálisis  sirb  Pms pdrí frir lg rsión  ñ  cuci  s cis sbr pcts  tdrá  tmr  tts  uts trs s ccins  m.
+L cisión   smb  IU  fcultr   dircción  vcr  rfréndum tr  litnci  próxim vr pr cidir si guí     Gbir utóm  cs    slis nt lgs s  pr  frción rn priritris, fu  rgumt  mpó finlmt Díz pr dislvr  Cámr  prcipitr  ccis. Us ccis    tmbién rí mstrr  pdí frr  Pms  Andlucí  rrncr  ñ ctrl   victri l PSOE pr  sirvir  rvulsiv nt s cits pdits  2015.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1427025646_085391_1427061223";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+El nt ctrl  ció  ch l 25  r. Csi trs s spués h cristlizd   Prmt   ,  prir vz, vn  vivir  prds vijs   nuvs   nci  cmbi  cic  stá xprimtnd  plíc spñ,    Andlucí sigu psnd   PSOE.

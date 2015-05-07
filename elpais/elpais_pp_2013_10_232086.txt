@@ -1,0 +1,82 @@
+El Gbir   dircción l Prd Ppur lvbn mns prprnd  trr pr hcr frt   tsión  s scicins  vícms. Pr  stci l Tribl Eurp  Drch Hums  nu  dctrin Prt prcipitó  puls,  Mri Rj h frcsd  ércs   intt  rbjr  tsión  vists   mfstción vcd   AVT pr  dng. Ls princips dirigts ncins l prd mritri  vris mbrs l Ejcuv  mpn s  s  nzr  msj inquívc  p   fctds,   mntr “stms  s vícms” chcó   vctri  s prtst tr  fl l tribl  Estrsburg    Gbir   PP stán  dicins   ficilmt, pust   pu prncir tr     stci. El PP busc   fórmu pr   dircción ncinl   strucr l prd —st s, Gév, 13— tmbién stén rprstds   mrch. A flt  cr  m   prtst,  frmción sdi  frmt   prcipción  s ctrción   psibs mbrs, tr   pdrí tr lgún viccrtri   rspnsb  Esdis  Prgrms, Estbn Gnzáz Pns,  Cr Fri, núr trs   ppurs.
+
+Pr trtr  rbjr  tsión, Mri Rj  vi bligd  imprvisr  rión  L Mnc   AVT   Fdción  Vícms l Trrrism. El prt l Gbir  rió  prd prir   prt   AVT, Ángs Pdrz,  spués  Mrí l Mr Bnc. Trs vris tcts discrts tr  dircción l PP   prir ccv pr cr  lcnc   m   mfstción  prpr pr  dng  Mdrid,  Ejcuv ptó  scificr  crct   cutr  cráctr ficil.
+El prt  gró,  mbrg, scvr  Pdrz, qui trs rchzr ulizr s instcins  L Mnc pr tr   dis —p l db frcit l Gbir—, hiz hincpié   mstr    fd  s vícms. En  pión,  Ejcuv   sfrzó  ficit pr vitr s stci. “S pdí hbr hch ”,  rprchó l jf l Ejcuv   rión   ,  mbrg,   brdó dirctmt  mrch. Sgún Pdrz,  hbló   srprs l Gbir nt  dd lcnzd   p   Audici Ncinl pr xcrcr   trr Inés l Rí.
+En culquir cs,  prt   AVT  siguió rrncr ngún cmprs  Rj. Futs ficis prcisrn   prt  litó  xplicr   hbín gtd tds s vís pr vitr  stci,   sirb   dctrin Prt hbí sid bu   grnzó   xtrmrá  viginci , trs s xcrccins.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1382514785_049547_1382551509";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+“Estms mu dlids  mu fdds”, fzó Pdrz nuts spués  rir   jf l Ejcuv. Y  rfirmó  trvés  Twittr   lmd  mfstr. “Est dng tds   Pz  Clón pr pdir Jusci. Pr str  s vícms. #YVJusci27O ¡Allí s sprms!”, scribió.
+El p   mfstción,   divi l PP  h prvcd  rbión   princips dirigts l prd  Mdrid, crr  risg  hndr   frcr intrn l prd. L dircción ncinl,   ércs ún  hbí mfstd  psr ficil sbr  mrch,  vrá bcd   jug  quilibris. D  d stán Ignci Gnzáz, prt   Cdd  Mdrid, principl brón l prd,  prt rginl   frmción, Esprnz Aguirr,   lcls   cpitl, An Bt. El p   mfstción prvcó  smr icil rspct   psr   princips dirigts l prd  Mdrid. L dircción ncinl,   ércs ún  hbí mfstd  psr ficil sbr  mrch   sdib cóm cudir,  vi bcd   jug  quilibris. En  cúpu  dudb   dd  cudir   vctri  sts crctríscs si rcm  rchz l fl   tribl urp ,  tnt, ir tr  .
+Ls trs cudirán   prtst  tr l critri  xtdid, hst  ércs,   dircción ncinl l prd  l Gbir. Es cir,   PP  slidriz  s vícms  pdrá sisr   vctri si st rcm rchzr  fl   tribl urp ,  tnt, ir tr  . El prpi str l Intrir, Jrg Frnánz, rció   psil l Cngrs   Gbir  Mri Rj “  ngún mrg  mbr”,   “rpugn” s cucis   dctrin. Y,  flt   cisión ficil   cr  m   prtst,   ércs lgs crgs ptbn   prbbmt  cúpu   strucr  Gév, 13 tmbién pdrí str rprstd   mfstción  lgún dirigt  cud  tí prsnl. L núr ds l prd, Mrí Drs  Cspdl, fu mu cr  mrts   rión   sdrs ppurs: “L stci prvc rpuls l PP,  h  cumplir”.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1382514785_049547_1382560375";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+L cisión  Gnzáz, Aguirr  Bt  rspn,  culquir cs,   strtgi jt,   trs lvn s trtnd  mrcr  prfil prpi ntr l prd. L prt l PP  Mdrid  nció  sistci  mrts   tr. Est ércs  mrn  prt rginl,  ncsit dquirir ún  prpi prfil plíc,   lcls  sps l xprt Jsé Mrí Aznr.
+Bt firmó  cudirá ntr  ct cipl. “Y stré dn stén s vícms ,   tnt, v  str   ctrción”  rcrdó   cpitl fu “trmdmt glpd   trrrism durnt ñs” ,  tnt, “ ciuddn  lcls”, sit  b str  s. “H ncsitn nustr criñ, sbr td”, rclcó. L rgidr fu  llá   crct  s vícms  guró  rcibirá  s scicins: “Cr   Att  Mdrid b hcrs  hmj”.
+El Gbir t   mrch,  cincidirá   mfstción   mr bnc,  virt   prtst tr  plíc ntrrrist l Ejcuv,    PP tm , p   tcts  Pdrz,  t   msjs   ctrción pudn strr. A st prcupción  m cirt mstr,   rspirb   Ejcuv    psil l Cngrs,  rspct   rcción   stci   fdción  Jsé Mrí Aznr. En  nálisis l fl  Jvir Zrzjs,  dirctr   FAES trdij l Gbir  tribuó s xcrccins   ngcición  ETA. Y prcismt lgs   diputds  próxims l xprt,  Ctn Álvrz  Td   xcrtri  Estd  Sguridd Ignci Astr, tmbién   FAES, ncirn  prciprán   mfstción.
+Mitrs tnt,  ctr dur l PP insistí,  vz   tr l critri l Ejcuv  Rj,   ETA stá “gzpd, sprnd  mmt”. A  prnció  tvz ppur   Prmt urp  vtr lír   ppurs vscs, Ji Mr Orj,   rtícu  El Md, nt    cl str l Intrir rplicó , ds ñs spués l nci l c fiv   vilci,  bnd trrrist “stá rrtd”     Gbir trbj pr grr  dislución   rgzción.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_5 = cn.hrf;
+                  if (/\?/.tst(_url_vid_5))
+                      _url_vid_5 += "&";
+                  
+                      _url_vid_5 += "?";
+                  _url_vid_5 += "viid=1382514785_049547_1382560442";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+El p   mfstción prvcó  smr icil   princips dirigts l prd  Mdrid. L dircción ncinl,  r ún  hbí mfstd  psr ficil sbr  mrch   sdib cóm cudir,  vi bcd   jug  quilibris. D  d stán Ignci Gnzáz, prt   Cdd  Mdrid, principl brón l prd;  prt rginl   frmción, Esprnz Aguirr,   lcls   cpitl, An Bt. Ls trs  ntrn  ncirn  p   prtst  tr l critri  xtdid hst r. Mitrs,   cúpu  dudb   dd  cudir   vctri  sts crctríscs si rcm  rchz l fl   tribl urp ,  tnt, ir tr  .

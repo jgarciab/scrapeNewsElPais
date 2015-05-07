@@ -1,0 +1,33 @@
+“L figur l jf l Estd   indd   mntr  hst . L l jf l Estd”. L crtri grl l PP, Mrí Drs  Cspdl, h fijd  critri sbr  fur   Mnrquí   psib rfrm scinl  s   R,  jf l Estd, qui sig mnd  dición  imputb  ñ  rtícu 56   Cnsción: “L prsn l R s invib   stá jt  rspnsbilidd”.
+A  prgt  si s  mmt  brdr  tm   bdicción,  núr ds   ppurs h firmd,   prir cmprcci    ncinl l prd s  psd 25  fbrr,  s s  mmt  hbr “ cirts spcts”   Cs l R: Est s: “Es  mmt  rfrzr nustrs inscins,   inttr bilitrs”. A rchz “str  ts   Crn   culquir tr insción l Estd”. En  txt,   p bt sbr  fur  st insción, Cspdl h fdid   úc figur  b mntr  dición  indd s  l R. "Cr   b guir sid", h ñdid. 
+El PP,  tds frms, mn  culquir cmbi   sts   Mnrquí b pctr, l ms,   principl prd   psición,  PSOE. Cspdl h vrd   Crn v  str incluid   L  Trnsprci. "Si   publicr    ptrim prá l curd l  lgu l ms  ds prds mritris,  cr   hch   stén incluids    s  cd bu".
+En  cmprcci h vnzd  tr d    próxims dís vijrá  Chin   viccrtri  Esdis  Prgrms, Estbn Gnzáz Pns, pr mntr rins  dirigts l Prd Cst Chi.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1366027530_635299_1366029593";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+
+
+
+Cspdl  rfirm sbr  scrchs: "Es fscism"
+L crtri grl l PP  h rfirmd tmbién  s pbrs l sábd, cd,   ct pr ctr     rcuprr  prsgi   plíc, clificó  scrchs  prtsts dciliris  "nzism pur". H Cspdl  h rfirmd "cmptmt  s pbrs". "El ir  cs  lgui  cir sé dón vivs, inltr  vjr, cr  s  cd ttlitri cmprb     prduj   ñs trint   pís urp", h insisd Cspdl.
+"M prc  ir  cs  lgui  jrcr vilci físic  vrbl tr      fli s  ct  ttlitrism,  fscism   nzism,  ustd  quir lmr. L vilci s gr vilci", h ritrd Cspdl,  h trtd  smrcr   iciv nshucis   Jt  Andlucí  lgr  fijr critri sbr  psib rcurs nt  Tribl Cnscinl. "S hb tnt   did  h pust  mrch pustmt  Jt  Andlucí,  quí  Gbir h pust  mrch 6.000 vivids tds  ds finncirs pr prsns  hn frid shucis s 2008  prc  ndi quir hbr", h ñd.

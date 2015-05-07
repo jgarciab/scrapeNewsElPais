@@ -1,0 +1,34 @@
+L rbión nú   frtt tr  ds ctrs  brns l PP,   cumplirn  déficit    ,  grv. Ahr   dic   cr,   much durz,   nts  nzbn   cut s  dis  ccción. Mri Rj hbí vcd  s  tds  prts utnócs l PP   curd sbr  rprt l déficit. Pr trs hrs  lmurz cbrn   rtd frcs. Ls psicins  drn dn stbn  hub mmts mu tss.
+El  cmplicd  vivió l principi, gún rtn vris sistts. Abrió  rnd Jsé Ant Mng,  prt xtrñ,     crícs   déficit simétric,  rivindicó   pdín r prds   fxibilidd    hn cumplid  bjv. Est s   pnt  Gbir  bfici  cds  Ctluñ — ms  CiU—  trs l PP: Cdd Vlcin, Brs  Murci.
+Al cbr Mng hbló Albrt Fbr,  vitó trr l ch   xtrñ  sbr td  scó  st   finncición utnóc,   rivindicó  déficit simétric. L rión prcí  trnqui   prvist. Pr tncs lgó  murci,  vtr Rmón Luis Vlcárc,  h cidid  rpr  cndidt   rgión. Y  sptó  fr mu dur  Mng, lg impsb ntr   rión l PP hc s ñs   mustr  mbit intr. “Y   finncición hbrí cumplid. Murci,     sistm  finncición d  Extrmdur, hbrí cumplid   déficit”.
+
+Vlcárc brí   hrid insprd   PP: btl tr cds   finncición  cd . Mng  mstó muchísim   rbó  durz. El xtrñ pó   Cnsción, rcrdó  llí  hb l principi  slidridd —   Extrmdur  cds  prbms  jr finncición  trs—  cusó   cg  ulizr rgumts sirs   l ncinlism. “Es  '  s  '      hbrms s  sci l ncinlism”, rcurdn lgs sistts   sptó.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1369595773_729139_1369688893";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Vlcárc siguió hbnd visibmt mst. Otrs brns tmbién mnvirn  psición trri  fvrb l déficit simétric. Al finl  ssción  tín vris r   rión   hbí prprd   hbí sid mu pc úl.
+Rj   str  Hcid, Cristóbl Mntr, s grrn  pct  ms sbr  vinci: h  guir ngcind. D hch nts  trr   rión prcí   Cnj  Plíc Fiscl  Finncir  brá rmtr  fórmu  ib  vcr  brv  trs  rión  jó pr fins  ji   llá. L fórmu,  cmprrn Rj  Mntr, rá “bjv”   prjudicrá  s cds cumplidrs. Est s, hbrá cmpscins  ún   sb cuás.
+El Ejcuv ngcirá bitrlmt  prr   mn  vi   Gbirs utóms pr trtr  crdr   prcí impsib. L úc vtj l cutr, l   Rj  Mntr lvrn  prpust crt, gún lgs   sistts,  ró  prpi Mng. “L rión h rvid pr cirs   cr   s stábms dicid   dis”, vró.
+Y nts  trr,  vlci Fbr cí  ví “rmngd” pr fr  psr   xtrñ pb   Cnsción. Dtr  cs fu ún pr. Rj sigu find   curd  ng   vtrs rcurd  strl   PP tn mfist   frcs tn cr   cit   prt l Gbir.
+El úc curd lcnzd,  vísprs    UE rfi  ércs  rjción l déficit pr  ñ (hst  6,3% frt l 4,5% prvist icilmt), prvé   prr   mn  vi  Gbir mpic  rir  frm bitrl  s cds  vists l Cnj  Plíc Fiscl  Finncir   cbrrá tr fins  ji  principis  juli. L dircción ncinl l PP h stcd,   ccd, " fir cmprs"  tds "pr nur   c   slidción l déficit"  " fir cmprs  ltd scinl".
+Ants l lmurz, vcd    ncinl l prd  s ds   tr,  vicprt, Sr Sáz  Sntmrí, Mntr  Cspdl  hn rid   jrs  Prci  s uts l PP. Sbr  s, tr trs tms,  rfrm   Adstrción. El lcnc  st rfrm h grd  s úlms mns tr disput   s   frmción. Un ctr l prd, cbzd  Esprnz Aguirr, pidió birtmt  Rj  l str  Hcid  rcrts   ctr  cmbi  bjr impusts. Ant sts pntts, Sntmrí guró   Gbir  có  rducción l gst  xigió "rspt" pr    300.000 mpds públics   ñ psd prdirn  trbj.  

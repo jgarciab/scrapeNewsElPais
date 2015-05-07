@@ -1,0 +1,33 @@
+Bu prt l PP stá pdit    pud hcr Luis Bárcs spués  trr   cárc. Mri Rj,  h std   cúpu l prd  td  tp    xtsrr trb  dinr l PP,   fu qui  scdió, tmbién. Sin mbrg,  prt simpr h prd  inpnci,   cptr nc ngún p  prsión,   virns,   mnr, quis jr cr  st vz tmpc  hrá, qu   prcup   pud cir Bárcs. Es , ngó   h inttd chntjr lg vz    pud hcr s  cárc.
+El prt l Gbir guró    sit mzd   psibilidd    x tsrr r   mnt. L prgt r cr:
+
+—¿S sit ustd mzd  prcupd    pud stpr  ñr Bárcs  vz  stá   cárc?
+—Tg  cir  ,     ngún tr mmt s  h prducid.
+Est fu  rspust  rdnd   rud  prs  Brus trs  cumbr urp. Fu  úc cusón  tstó sbr  scánd  scu   prd. N quis rspnr si sigu crd   icci  Bárcs   2009 (cd dij  “ndi pdrá prbr    ict”)   siquir si pu gurr   PP   h finncid iglmt.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1372448186_609345_1372448387";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+El prt squivó tds s prgts   quis scvr  i  xtdid   mmt, tnt fur  ntr l PP  l Gbir, st s   xtsrr   v  dr quit trs  trd  prisión,     t,   v  mpzr  sltr  ción   pn  lvó   cl Gév  2009, cd pró nt vris dirigts  hbr scd nuv cjs  dcumts. L i   dñ hc   img  Rj s s   prt chntjd   xtsrr. Y  s quis scvr,  tn   mnr   siquir citó  mbr  Bárcs, lg   nuv br  fnc  tds s crícs  s hipótsis. Rj psó  fr  firz  utrizr    pgr  d l PP  pudir trr librmt     spch prpi  bvir  brrr  mbr.
+El prt nc h dich  m pbr  Bárcs, nc h hbd   “rpugnnci”  l “sc”   prduc s cis sbr  ricit,  hn hch trs dirigts,  h pntd nc  xplicción sbr  cs Bárcs,  h dich   PP b pdir prdón,  hiz  glg Albrt Núñz Fijó. Obvimt,  indignción l prt   xtsrr,    stán rts tds  puts, gún  tr, s bslut. Pr  prt  g  cir  públic. Y  i     hc pr vitr  ir  Bárcs stá mu xtdid   PP,   s insist    prt  b bjr  hbr   prsnj .
+Rj diñó  virns,  nuv  p   grn vdd  Bárcs   cárc,   s stb  tds s prirs págins spñs si  r st inclus   prs intrncinl,  sm strtgi  simpr. Y tmbién  siguió  Mdrid  m rch, Sr Sáz  Sntmrí. S trt  squivr tds s prgts   pridists, dr s s ruds  prs imprscindibs  jr  p  mp pr  bj  prsión infrmv. Si  scánd   hubir srprdid  Brus, dn s bligd l ms  rud  prs —tds   mndtris hc ds,  cd dí—  prt pdrí hbr std dís  dís  prcr.
+Fi   strtgi diñd,  sist  psr   rápid  trát  si s psib hcr  si  págin  Luis Bárcs  xisr, Rj  litó rlizr  brv crción,  trí prprd: “L úc  v  hcr s rsptr s rslucins judicis  cbrrms  td   s pid  jusci  sprms  ést c  cridd. Y  v  trr    tm   rt    h dich  prd”, znjó rfiriénd l ccd  17 pbrs  difdió  PP  juvs   ch.

@@ -1,0 +1,78 @@
+S cumpl  cinc ñs  l mñn l 6  fbrr  2009,    cs  plicís  spgrn   xclusiv urbzción gditn  Stgrn,  lgs cls l gnt brri  Smnc mdriñ   divrss pbcins   lrdrs   cpitl. El juz Bltsr Grzón hbí firmd s crrspndits órns  rgistr  tción    rdd crn, tr trs, Frncisc Crr  Pb Crsp,  grns jfs   trm  crrupción  implicb  rrib bj l Prd Ppur. Cmzb  circur  cs Gürt. Dic quis sb mán  crr  trduc Lin; Gürt rí cinrón. S mcs. Cinc ñs  tr, csi 200 imputds sprn juici   Audici Ncinl    Tribl Suprir  Jusci   Cdd Vlcin. L cus, gigntsc:   2.000 tms.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_10 = cn.hrf;
+                  if (/\?/.tst(_url_vid_10))
+                      _url_vid_10 += "&";
+                  
+                      _url_vid_10 += "?";
+                  _url_vid_10 += "viid=1390996340_253415_1391284848";
+                
+Envir ví
+
+
+
+
+//
+
+Rcrrid  s cvs l trmd crrupt  Frncisc Crr    rción   Prd Ppur. / VÍDEO: ELPAIS-LIVE! | ILUSTRACIÓN: AMANDA ESPUELA
+
+
+
+Cut  juz    hn intrvid   instrucción l cs      prir prximción prtb r cs  cutr guts  h vrd finlmt   cusción  dirct tr  trnsprci   finncición   trnd prd plíc. Un gd juz d  ps  llá,  rc  tds s pizs l rmpcbzs cjrn   si cd vi   frtb, nídmt,   mds  mnrs  s individus rgzds pr linquir. Ant  bnd  lincuts.
+N h tr  cs Gürt   cs Bárcs  prción níd,   cidd nc  líts prfctmt fids. El lmd cs Bárcs s — — tn s  piz prd l cs Gürt. El tsrr, l  ñló  pícr Crr, stá   cárc  s    princips imputds  Gürt. Pr s címs   prpi cs h lcnzd tl vlum  dinr  tridd públic   rc tr ri. L tdrá. Pr   srrl   Gürt,   grn tsrr,   .
+
+Pr quisirn hcrs crr s  Prd Ppur   cs Gürt ps si r  pripci —m,  tr prt—  cutr pícrs   hbín prvchd   bu f  ún jr mbr l prd. Lgó  cir,   pmpsidd dign  jr cus,  prpi Mri Rj,   cmprcci ilvidb   discurrir  st histri. Er  11  fbrr  2009 cd  lír l PP prcí nt  pión públic rd   pn mr   prd, incluids  lírs rgins,   ct ccv  tds     lír nrl,  prpi   dictdur bnnr    mcrci slidd. Pr db prfct cut   r prcupción.
+“Est  s  trm l PP, s  trm tr  PP”, cmó   intrvción  vdrí r  clm cinc ñs spués pr cmprr   hchs —hchs, rpms—   jusci h id prbnd   . Y  s prst trm  PP incluó  jucs, fiscs  plicís, tds  cusds  rvil st   vs   mlvds Rublcb  Zptr. ¡Cuánt mr l dí! Un rps  l ft  j  tr  intrés. Fnn l lír Drs  Cspdl  An Mt; trás, Frncisc Cmps;  ds trs, Jvir Ars  Esprnz Aguirr;  trs, Rit Brbrá,   cutr, Fric Tril,  qui crgó   sm ct,  td  md pud tr,  dirigir  btl tr  juz sd   hbí trvid  mvr s pctrs gus   cpis finncición l prd: Bltsr Grzón r  bjv,   prpi Rj jó dich  mbr  plid. Tds sts circspcts sclts irán slid,   frm u tr,  st histri  crrupción  ris. Pr  psr  s pbrs  Rj,  cs Gürt  s  trm l PP. Y  s l prd  tds s vs: ncinl —    Gév   ctr   tmpstd—, utnóc —Mdrid  Vlci,   s— ,  pust, cipl: Argnd, Mjdhnd, Pzu, Bdil…
+
+
+Gürt   dhir l PP   gd pi. H   70 crgs ppurs imputds
+
+Y s  Gürt — quip,  linción— s inprb l PP. S dhir     gd pi. N hbrí    tr. Sis: trm Crr-crgs l PP. Y  s,   s  histri l PP, h   70 xcrgs l prd imputds  s disnts cuss,   s  Udd Ctrl  Dincuci Eóc  Fiscl (UDEF),   prpi Mistri l Intrir,   infr fiv l 30  dicimbr  2013, ñ hst cinc vcs   Prd Ppur  h rvid durnt ñs  ñs   trm Gürt pr finncir, tr trs css, s cts ctrs. Allí stán s fcrs  llí stán  prvdrs. ¿Td r  mbr tr  ict PP?
+Es cirt   drm   pt  fug lg ridícu. Vrms prcr   ldd guidr  irs  gánstr   L Sc l   gust   lm dn Vit,   Mrn Brnd  El Pdri. Está tmbién El Bigts, prsnj  bi buf  prc scpd   pícu  Pjrs  Ests. Y prcismt  hí,  Pjrs, prvi. H, , lg mmchich. Y stán  Albndiguil,  Gfits,  Rt,  Pr,  Brbi  hst  tl Luis,  prc r  r  cbrón. Hbrá, tmbién, vijs  fnt  rjs  luj. Muchs, muchísims rjs  luj. Sin lvidrs   Crr   sci, El Bigts,  gstrn 481.000 urs   spctácu  —tts— Mr Mrru, Ml Grci  Rsnn Wlls. L br,   stró  Br  2005, duró xctmt trs dís. S b, h  vr, Ls crsris.
+Pr  s jms gñr,  tmbién h prsnjs  lt cpt. Pr jmp,  tds tsrr l prd, spch  diz trs l  Rj, prts  cds utóms, jrs utnócs, lcls, mnds l prd  dirigts  tds s uts  s  gbrnb  PP,  lugr stcd pr   fur crtri  rgzción l prpi prd  Glici. L nón  grd  fmnts mprsris, lgún vicprt  ptrr, xprts  finnzs intrncins  bdnts gs  flirs  l prt  gbrnó Espñ  1996  2004   lmb Jsé Mrí Aznr. H, tmbién, mplid ggráfic: Suiz, Mi, Nuv Yrk, Pnmá  Vzu. Pr tmbién mcinrms s iss Vírgs, Singpur   Plinsi. Y pusts, hst prcrá  st histri  pp, Bdict XVI, lluvi divin rápidmt trnsfrmd  urs pr s rcs  l trm. A  cuidd    nécdt s tp  fdmtl: stms nt  st gigntsc,  rb  m rmd  bis públics   bnd frmd  purs trcdrs   vci  srds nlibrs  chn ps   públic,   tnt gustn  chr s dinrs   fltrir,  tnt flt s hc pr grdr cuts  Suiz, lucir cchs  luj  lgr  vijs  vis  iss xócs  hts prdisics.
+L smn prición  Rj l dí    l PP prtdí jurr  pigr  td  PP vi lgr,   firm trrcil  Grzón. El juz,  Fisclí Ancrrupción   UDEF lvbn trbjnd  pr  ñs  mplmb,   vrms,  tr cs ntrir,   s cuts l BBVA-Privnz. Ls mrts hbíms scubirt s dís nts  hbí  ñr   lmb Frncisc Crr   prcí r  jf   cudril  lincutts, tl   pint Hllwd;  gd  lmb Pb Crsp  prtb  mr mp   figur. Prnt  vi  tnt   tr  s  svirn rcinds   PP, , s  stbn crnds  .
+
+
+
+Ls prs   plicís
+Est psd s  r,  jucs Pb Ruz (Mdrid)  Jsé Crs (Vlci) hn d  urgir  durz   plicí   cbr  infrs  s hn pdid pr  cbr  instrucción. El Mistri l Intrir  Jrg Frnánz Díz   Ignci Csidó  tm s css  clm,  xcsiv clm,  h rtrsd hst xsprr   jucs  brción  ss infrs, l prcr fdmts pr  crrr  cus. Y  hn lgd hst  mgistrds  s prs sbr  fcinris plicis  hc  trbj  rigr  hnsdd  s  hn csd, si   hn grvd gún  crcb  finl   instrucción. En ps 24 s, Frnánz  Csidó hn cmbid   jfs plicis cutr vcs,  vr si   trb  piz d  ctr rvilmt s órns prciss l str. Pr frtdmt,  plicís n   br  lit  invsgr  cir  vrdd.
+
+
+Sgún  tbilidd ficil l prd,  trm cmzó  trtr    1993. L prir fcr rgistrd  s librs ficis,   vr  25.191 pts, ps 150 urs, prc jt  s icis FCS, Frncisc Crr Sánchz. Ds tncs,   trvés  cs  mprss —Spcil Evts, Es Cncpt, Gd nd Bttr, tcétr—, lgó  fcrr l prd   50 lns. Un rg  jugs c. Empzó Crr rgznd vijs  cbó hciénd crg  s  cts ctrs  s 14 ccins —grs, utnócs, cs—   cbrrn  l 11 ñs, s 1993 hst 2004. Y siguió spués  trs cds,  Mdrid  Vlci  psición mu stcd. Entr dis,  fins   vt hbín birt tr ví  xpli. Ls bilts  vión,  vi  s sils rn pc btín pr  grup tn mbicis. Psrn   dinr  vrdd stb   bm inmbiliri   ví vir. Ls Atts,  dijrn. Ahí stá  pst. Dn  cmpbn  s rspts  cmpdrs  s nuvs grcins l prd  Crr frcutó durnt l ñs   g Ajndr Agg: Ginés Lópz, Guilrm Ortg, Gnzáz Pnr… Pr  ntms tcits.
+Lgró  dichrchr gt  vijs cr  tds  crgs  rvnts   dircción l prd durnt td  décd   vt. S crcb  frcuci l ssim Jsé Mrí Aznr. Chrb  ngcib   tds grt, Luis Bárcs, tnts ñs   smbr  quizá trs tnts   smbr. D  m hcí mngs  cpirts. O   crtris grs   épc, Frncisc Álvrz-Cscs  Jvir Ars. Chnb  tds  crgs  dicb tbs — crs— cuidds hci quis tín m  s cmpñs ctrs,  Jsús Spúlvd,  mrid  An Mt,   crtri l grn jf, Ant Cámr. Tmbién v mp pr frtrzr,  much,  Ajndr Agg,  prnt rí  r  Aznr  Bt, trs jrcr  tsg  l sfrd crm  El Escril  5  vimbr  2002, cd  dust  ustr prt l Gbir prdió s vrgüzs   trnsmutó  rumbs  pródig dirigt. Vlvrms   Blic  tr piz. S  rc.
+
+
+L prir fcr s  1993. Ds tncs,  trm lgó  fcrr l prd   50 lns
+
+Dcims   Fisclí Ancrrupción   plicí lvbn ds ñs trbjnd  invsgr st trm. Pr nts, l hi   invsgción l Juzgd núr 5   Audici Ncinl  tr  s cuts crts l BBVA-Privnz,  rgistrrn vris spchs  bgds xprts  b  dinr   svir cuts  príss fiscs. En   Luis  Migu  trrn pists sbr s cuts  mbr   tl Frncisc Crr. S brió piz prd. En pr,  Fisclí   plicí lvbn trbjnd ds ñs   cs    prcí  sm mbr. El 7  vimbr  2007,  xcjl l PP  Mjdhnd, Jsé Luis Pñs, cmpñd l bgd Áng Glind, prstó  xpiv nci nt  UDEF. N r culquir cs. S trtb   nci mu tld,  bdnts nxs dcumts  scitris sbr  md  prcr  Crr  s gts,  mnr mu spcil   Atts  Mdrid dnds   PP: Argnd, Bdil, Mjdhnd, Pzu… Y trgn lg :  CD  18 hrs  grbcins…   trnscripción. En mrz  2008, Pñs  Glind rficn  nci nt  Fisclí Ancrrupción.
+
+
+
+Us cts núrs
+-El cs Gürt s   vlus  tds cts  hn vist   Audici Ncinl, incluid  11-M,   Tribl Suprir  Jusci   Cdd Vlcin  birts trs is cuss.
+-S hn sbrpsd  2.000 tms.
+-S   Juzgd núr 5   Audici Ncinl  hn rgistrd   5.000 tcits, 1.000  ñ, 3  dí.
+-H lrdr  200 imputds.
+-El PP    70 crgs imputds.
+-S hn cursd 147 cs rgtris  21 pís. S  Suiz  hn vid 38, tnd s mplicins.
+
+
+Al tí dint. Ls dts rn brumdrs,  s vcs, mdrs. Pñs hbí std grbnd ds ñs s vrscins  Crr. Trribs  fnd  frm. Pr    tb  s   cóm  tb. L xtrsión,  chntj,  cmpr  plícs  fcinris  prt   chu  brri  pr      cpcidd  cmprr vlts. Td stb hí. Y ptb l ctr l Prd Ppur  s dñs. Sin sts pps  trn Pñs  Glind quizá h  tdríms cs Gürt. Pr cmptr  cción,   fltb prnt  tró. En  rgistr   ficin principl   trm,   mdriñ cl  Vázz, núr 40, prcirn  pts tbs  s crrspndits mbrs, s jrs  diputds   Cdd  Mdrid hst ls  fmss rfrcis  L. B.  L. Bárcs, jt  ctrs  prubs  sir imtnci. Jsé Luis Izquird,  tb  dstrdr,  tí grbds   p driv. Rjs  s  urs, cchs tdtrr, vijs  vis, trjs  mrc, dinr  fcv… Tds  chchs stbn dcumtds  bidmt tds   csil crrspndit. Cmprbn, vdín, spcubn, gñbn, rbbn. En s css r  ctr  t  lt v  nc  struó,   Bdil l Mnt. En trs,  Mjdhnd, ficins  infrmción l ciudd prflus  cstsims. Y  tds,  mñ  trts  fvr  quis tn grss rn pr pgr s cprichs. Er, tr trs css,  mstrción   spcución inmbiliri  limtó  crrupción  scrnd. Es  trrib cmplicidd  chbt  structrs  plíc. A tds  vs.
+En 2004, címs nts,  m fm   chics  Crr  s chnchul   Atts  h trscdid  Gév. Quizá  inscici  quizá  xcsiv vrici, hbín tcd pts nurálgics  brín hbr jd quits. Cm Mjdhnd, dn rinb  tds Ricrd Rr  Tjd, xlcl  crtri rginl l prd. Tmpc Luis Bárcs ncsitb  s rvicis,   tncs vb hci ss  stnciss   v mu prir. Y hbín hch tmbién s ngcis  AENA cd Álvrz-Cscs r str  Fmt. A   trm  ctr  furz   Cdd  Mdrid   Vlci. En  ri  Esprnz Aguirr  cut   insmb cbrción  Albrt Lópz Vij, jr  udnt  cmp   prt,  much  —,  dicimbr— insisr  lirs nt  juz   r  hmbr  finz. El Bigts splig td  btrí  cnts   Cdd Vlcin  rgz td  spctácu  brilnt crid: chlé  L Nucí (Alicnt)  pis  luj   cpitl, mts spctcurs, chts  chls  did, ms rgs pr  rg  frs dulzns pr  dución  cursis rdmds  ñrs ducdísims. S trfic  mrs  crps,  tmbién   pblón  Fir   visit l Pp  2006,  pr   cut   insmb cbrción   dircción  Cnl 9, h crrd, vícm  s muchs ris. Pr Orng Mrkt  dic, sbr td,  hcr    Mdrid hbín hch durnt ñs. Obrs vrdrs  flss,  fcrs vrdrs  flss. Más  gd   prir. Finncición igl l PP, dic s cuss  h birts  Vlci.
+
+
+S cut   insmb cbrción   dircción  Cnl 9, h crrd, vícm  s muchs ris
+
+Grzón hbí std  grn  ls órns  tción,   PP —pild in frgn—  pdí sr  tds   viérms s muchs vrgüzs. Dstds s dirigts  rtds  strtgs, cmzrn tncs tds s btls pr vitr  dñs. Ds s mrs rpds   tr vz hst s prs indisimuds  lgs jucs,    bilitd   dur frdd Ant Pdrir, mbr rstd   simpr dispust Fric Tril, incluids s cccins  mzs  tsgs cmprds. ¿S curdn  s visits l xstr   sstrrí  Jsé T,  gtó  pi fir  cnlsc prcución l PP   prs dict? Al  bí prsprr,  h  rcr   cl mbjdr  Lndrs bv lgún trif rvnt. H, cinc ñs spués  l ut  tción,  jusci s h rdctd  n:   Bltsr Grzón. Es vrgnznt xpulsión,   dición l cs, tn fvrb   cus, hn sid lgs  s trifs. Pr  psr     trtción judicil  PP inttó    stá scrit, impúdics tjmnjs incluids, nc grrn frr l td  ps impcb l Estd  rch.
+Pr   PP  tbn   inpnci  lgs  lgs fiscs ncrrupción,   Audici Ncinl   Vlci,    rrj  lgs jucs  hn guid nt   cs  Mdrid   Vlci —Grzón, Pdrir, Ruz, Frs, Crs—  psr  s dificults  s zncdils,   invsgción tn cmpj  st. S vnz rnd   rstrs,   vnz. Al sfurz  vr  qui cbms  citr bms grcérs. El sistm mcrác fcin grcis  .
+En  siguits cpí irms vid — tl— cóm cbn s  trs. Un vrgüz,  scr,  impudici. D  Crrs    crgs l PP. Pr Gürt s  cs  mbs.
+
+
+
+Mñn, cpí 2
+El rg  trs prcs   grrn frr  trpds l PP

@@ -1,0 +1,51 @@
+El ñ 2014 h sid pr  prt l Gbir, Mri Rj,  l brch  cirr   crisis óc,  2015 rá  “l spgu fiv”    spñ. A cinc s  s ccins cips  13 uts   nc s  s grs,  jf l Ejcuv fij   rcuprción óc  principl bz ctrl,   virns  vi   bnc nul s  Pci   Mnc. Rcuprción óc  stbilidd plíc sn  ds pts sbr   quir str Rj. L gd crctrísc s  pu trr PP  PSOE l frt l Gbir, dij. N mcinó  Pms,   quis jr cr  pr  bu mrch l pís s  pu fir  Ejcuv ctrl   prd  l scilist.
+El prt lgó js. “El PSOE s  grn prd,  tg invit  rcr,   cmprt muchs css  s  dic  hc,   tmpc rspct  ”, firmó. Ls css b r  simpr hn sid s  rcuprción   mcrci  1977, gún  tsis   virns xtdió Rj: “Uns vcs hn gbrnd , trs strs,  curr  EE UU,  Am,  Frnci,  Austrli...”. Allí  ltrnn  ctr-rch   ctr-izquird  sn lgs   pís    “ gt viv jr”, bró.
+
+Un fs tn rtd l biprdism nc  hbí scuchd l prt,  psr   s  principi   gisr trs furzs plícs hn tcd  trgu  PP  PSOE s  Prmt. “Espñ h std gbrnd s 1978  grns furzs plícs. Es tp  stbilidd fu mu psiv pr  spñs, fu  jr. Y  fid. Cd s j  psr rg trs css   úc  grn s instbilidd, flt  prgrs, rtrcs  pérdid  bistr”, bdó Rj. Y znjó: “Entrán  pr  pís simpr prfir  jr”.
+Ds st prspcv  hbrí  scrtr  Rj prpusir  pct  gbrnbilidd l PSOE spués  s próxims ccins. S  prgtó  ,   dij    . “Dtr   ñ, cd zcms  rltds ctrs,  mpzr  hbr  s. En  mmt tg trs pririds”, ñló  tr rspust inédit, l jr birt  purt   grn clición     lír l PSOE, Pdr Sánchz,  quir  ír hbr.
+Est virns dó cr  Mri Rj vcrá s ccins grs   mp rgmtri cud pr   cbr  úlms l s  vimbr  ntr   ñ,  sts sms dís, s furzs plícs strán inrss   frmción l Gbir. N rí  prt distrccins   bnc  2014, snd  prcmr  rcuprción óc.
+En 2014, dij,  hn crd 550.000 pusts  trbj  hst vimbr h hbid 338.000 prsns incrds   Sguridd Scil. “Ests sn s prirs nvids   rcuprción”, bró, pr pslr  “tds  indicdrs ñn   pr h psd”. Ls prgts sbr  scs trsd  s rcuprción   gt  hicirn  Rj bndnr  discurs    stán stnd bs sólids pr slir  st crisis,  rció  xtrmdmt dur. N sirvió    mcinr  h   cutr lns     pr;    trs lns   ngún bsidi;   bid l sri m rá  trs urs    s ps rá   0,25%. Tmpc  mstró bnt cd   rcrdó   ss indicn  scnt ttl   PP    gsón   Gbir. “Y  s cmtrist  custs, si  tg  dicr  trbjr”, rspndió.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1419629538_655198_1419629643";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Tn imbuid stb   tí  lvr nt  msj    bu nuv stá  pt  r  rlidd — “dn s cus   crisis”   s dids   hn dptd s 2012—,  trs sts furn rápidmt spchds. “El Gbir  Espñ v  guir vd   intrs     Ctluñ, pnd  s mprss, trbjnd pr  llí tmbién h  sólid rcuprción  nts psib , s lug, prpicind  crdi   tdit tr ctns”, ñló. Nd  rfrm   Cnsción. D st  hbló  psd mn,   visit l pci  L Mnc,  prt ndluz, Susn Díz. Est virns Rj svó cuál fu  rspust: “Qu   pr” [ rfrm]. Es s  tstción  Rj d tmbién  Pdr Sánchz.
+Sbr  crrupción, rcrdó s dids “mbiciss  intgrs”  sldrán l Prmt tr r  fbrr próxims. Pc  nd  svió  prt   guión,     prgt sbr   prc  psción  Esprnz Aguirr  cndidt   lcldí  Mdrid,  v rspust. “N stán ss sts sbr  s”, znjó.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1419629538_655198_1419630359";
+                
+Envir ví
+
+
+
+
+//

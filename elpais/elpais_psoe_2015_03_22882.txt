@@ -1,0 +1,36 @@
+Cd tré   curt l ht í  psd  crts  cugn l pm. "D t disrb"   d,   h trducid  si  fus  strr   cins spñs: " md pu sprr",  "p mk m rm",   spñl h rltd r " fvr, rrg  trz l md". Er  rm   cmpñ ndluz distribuid tr  rism. Ahí stb  dd ngjn,  ngún div,   cmpj mcinl spñl, sbrdd,    pícu  Cmrón, cd  pusirn  cblgr   p pr tr s prbms  s drgs. Pr pust, nt jnt msj   " md pu sprr"  mpd  limpiz tró dnd ptds   purt   rcibí pudid  pi   cm,  vsd  duchd,  s vrdd:  md  spr  ndi. El r,  cursirí   guiñ cómplic l clit pr trnr   inficci: tds  ms  Espñ clgds l pm   purt.
+
+ A vcs  grc  dirct. Al cgi ctrl  Ds Hrmns lgó  s nc   mñn  hmbr gnd vsd  frm impcb, ligrmt r,   zpts brilnts   trj  did,  lvb   sp  insig   Hrmndd   Esprnz Mcr  cnb  pris  rí lgr  mp l discurs  Lutgrd Grcí,  prgnr  Smn Snt. L slió l ps  custdr prgtánd  quién ib  vtr;   quitó   di scubriénd  s ms l grit : "Pr hmbr, ¿  stá vid?".
+
+Crc,   cgi Al Andlus,  d  IU  quitó j l d l PP,   pus  rr  s  s ppts. El d  IU cró   l PP stb  llí  rn, hciénd  trdiz, dnd chr   jubid   br. L cs  bió ir  mdr    IU  gtó     chó  cr:  cusó, nt td  s,  str "cmpñnd"  vt,  dirigir  rd,  Csils  disprs, hci  ppt l PP. El d ppur rspndió   ds trnrn cránd, frmánd  pñ rvut ppur    hst mpzó  slir gt  s cbins: "¡N  pu  vtr!". Fu td  pc vilt   sts dngs  rpit much  fist   mcrci  fts  mnjs,   tr  cmtt crrct,  pn cuánt s h cstd lgr hst quí   pub stá hbnd,   vcs  pub,   d l PP, hb bjit.
+
+
+L grit birt  Pms s imtnt  s  prir
+
+El ct sgrd  vtr  jmplificó jr  ndi Trs Rdríguz,   fu rch   cbin  cgr  ppt. N s  rspld    ndi ñ  xplic  cirt lirgi,  s   dr  ss nt  s ppts   cur nt  s hss. Andlucí  crc   Smn Snt, r di  prgón  ds hrs  médic Lutgrd Grcí    dij ps trmds,  blic   Mcr stb hst rrib pr vr  pss,  gt hcí c pr bsr  m   virg (    mujr psb  pñ trs cd bs),  sábd slió  prcsión  Crist Cuv  h  rcgit prcur mu prpi  sts dís. Ls ccins  hn cíd  muchs  xm  cici, rvisnd s cpts,   hn slvd   mrí   css l grit  "Pr hmbr, ¿  stá vid?". M st crdnd sts dís   cur mu mst  cí, pr xplicr lg: "Dis,  ir  js...".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1427058085_556162_1427065070";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Ds hc muchs ñs s fr  Andlucí  rfir   Dis, si l PSOE,    mmts  trribs  prd h guid gbrnnd  td  rrumb   rst  Espñ. El PSOE s  spci  trdición, lg   d  cíd l ci. Más   prd plíc s  hch l psd,  tnt, inmvib. L grit birt  Pms,  gr vntd   nd, s imtnt  s  prir,   vij diri h ind psiclógicmt l PP,  h tribuid  frm sntr  ms l md   brv  fur  pz sig sm trs str tds  mbts. D lg frm Andlucí rcmó   hici  hbitción   h rspndid   sm   md pu sprr.
+ 
+ 

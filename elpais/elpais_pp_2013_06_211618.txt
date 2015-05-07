@@ -1,0 +1,39 @@
+L Agci Tributri h rd l juz Jsé Cstr, instructr l cs Nós,  mn imputd l r l R, Iñki Urdngrin,  disnts lits  crrupción,  infr sbr  fcrción  dinr públic  mprss privds l mrid   infnt Crisn    sci, Dig Trrs.
+El infr gir  muchs  s fcrs cruzds tr s disnts mprss  Urdngrin  Trrs  crrspnn  rvicis rlizds ,  tnt, sn flss. “Entr s mprss  fcrbn  rvicis  prstds,  Agci Tributri ñ  Aizn,  mprs  Urdngrin   infnt Crisn”, ñ  dcumt.
+Ls téccs  Hcid ñn   infr  durnt 2005  2006, ñs     Inst Nós, pustmt  ám  lucr, gró  princips trts  d  Adstrcins públics ( Cdd Vlcin  Brs), prt l dinr públic fu svid   mprs Aizn.
+Es justmt  prr   Urdngrin bndn  Inst Nós,  rcmdción   Cs l R, cd  sví  fnds públics  Aizn  . Sin mbrg,  scidd  cmprtín  r   hij l R sigu ingrsnd fnds  mprss privds.
+
+El nálisis   Agci Tributri tmbién stp s práccs  sví  fnds públics  mprss privds  Urdngrin   sci Dig Trrs. P    Inst Nós  prstb nt s Adstrcins   dd  ám  lucr,  dinr  rcibín pr rgzr disnts vts   gstbn pustmt  trtr rvicis pr ss vts  mprss privds,  inms mrí   prpidd.
+D st mnr, gún  infr   Agci Tributri,  cutr ñs  cvidd  Nós (2004-2008)   csi 10 lns  urs grds pr prstr disnts rvicis, l ms 6,4 lns cbrn  s rcs  mprss privds  rn prpidd  Urdngrin,  Trrs   mbs.
+Hcid clu   grd  mprss sid  Urdngrin  Trrs  cruzb fcrs “bj cpts xtrmdmt gérics  imprciss”,  “imts rdnds”,   múlps duplicids rspct  prvdrs xtrs,   ingrucis, inxistci l rvici prtdidmt prstd  “  xtrm”  flsificción mtril   prpi fcr.
+Ls téccs stcn    prid cmprdid tr 2004  2006, Aizn,  mprs  Urdngrin   Infnt, gir fcrs  trs mprss l grup  prstción  rvicis p    l épc crcí  “strucr mprsril”.
+“El rst  ds [l grd mprsril mntd  Urdngrin  Trrs] vi rs instrumts pr drr  distribuir  rcurss bds  di   mrc Nós tr s ds prpitris  dirigts”, ñn  téccs  Hcid. “Er  pur ndj jurídic-frml  s ds  stnt rfrci   inxistci mprsril”, clu.
+El infr   Agci Tributri rfic td    juz Cstr h tribuid  Urdngrin  Trrs. Crrn  inst  ám  lucr    prstr nt s dstrcins públics   prici   dd béfic. El dinr  s djudicbn,  curs prvi, pr  rlizción  vts,  svibn mritrimt  s mprss privds,  ám  lucr,  fcrbn  cpts vgs,  cnds rdnds   rvicis    prstrn rlmt.
+
+
+
+El juz imput  Trrs tr lit fiscl
+El infr   Agci Tributri h vid l juz Cstr  v lit fiscl  s spss  Iñki Urdngrin  Dig Trrs. El dcumt ñ,   cs  An Mrí Tjir,  "si bi v mstrd  indiscud prcipción  s cvids srrlds  s ds Nós,  litó  cupr  spcts stricts  índ dstrv intrn,  simpr pdit  s cis   úlm instnci tmbn  cd csión principlmt  sps,  tmbién Urdngrin".
+En  sm lín,  scrit ñ   ngci fu "id, rgzd"  srrld  Trrs  Urdngrin. Tmpc prcin  inspctrs ng prcipción  tr prsn l mrg   ds scis,   ds, prcts, ngcicins, trtción  rgzción intrn  Nós.
+A  infr  mcin spcíficmt   infnt Crisn,  clu  " úcs  vrdrs scis sn,  discusión, Trrs  Urdngrin".
+
+
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1371814901_513364_1371844204";
+                
+Envir ví
+
+
+
+
+//

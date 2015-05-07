@@ -1,0 +1,108 @@
+22.00. Avnc  rltds. L prcipción  Ctluñ  s ccins l Prmt Eurp h sid l 47,44%,   pn 10 pts     ccis  2009, cd fu l 36,94%. Ctluñ s  trcr cdd   índic  lt  prcipción spués  L Rij, Cdd Vlcin  Csl  Lón,  49,83%, 49,42 %  48,57 %, rspcvmt, trs    jt l pís  h sid   45,58%.
+20:00. Cirrn  cgis. Ls prts  s ss hn dd rn l cirr   cgis ctrs  Espñ. Entr s úlms incincis, Primvr Eurp h ncid  s ppts   clición  Csl-L Mnch  hbín lgd   cgis  Cuc  Gudjr,    hn rprstd nuv rcurs   Jt pidid  rpción  s vtcins.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1401005027_413331_1401017955";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+18.16. Nuvs dts  prcipción. Ls dts hst s is   tr vnzn   prcipción  v l 34,06%   93,98%  s ss nlizds, gún  Mistri l Intrir. En 2009  prcipción   sm hr fu l 33,79%, ds décims   hc cinc ñs. En Ctluñ  vt  h incrmtd  nuv pts rspct l bnc frcid   sm hr   cit ctrl  2009,  l ñ  prcipción  st cdd fu ch pts  bj  rspct   di spñ.
+14:30. L prcipción, sir    2009. El dt  prcipción  s 14:00 s l 23,9% frt l 24,10% rgistrd  2009. En  prácc ttlidd  s cds utóms c, xcpt  Nvrr, Pís Vsc, Andlucí  Argón , sbr td  Ctluñ, dn  incrmtó s  19,35% l 25,26%. Ls prds  pn  lt ctn  inpnci hn insisd durnt  cmpñ   imtnci  prcipr  sts ccis. En trs cds,  Andlucí, Brs  Argón  mn  sms ctjs  vt. El Gbir h infrmd    jrnd  srrl  ps incints. 
+14:06. L imtnci  Eurp. El cbz  list l Prmt Eurp   clición Primvr Eurp, Jrdi Sbsà, h gurd, trs vtr  Burjsst (Vlci),  "práccmt  70% u 80%  s rmvs  bms rsptr  disfrutr  cin  Eurp". "El Prmt Eurp jrá cd vz  r  pc ms nustr si  gt  prcip     cr".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1401005027_413331_1401017839";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+13:08. Prbms  s ppts. L cndidt  Cht Argnsist (CHA)   clición Primvr Eurp, Áng Lbrt, h dvrd   xistci  'prbms  difrts cgis ctrs  flt  ppts'  s furzs plícs ritris, tr s  .
+12:45. "Mr vr"  Brs. Ciudds   ‘mr vr’  hn cudid  frmr prt  s ss ctrs  Mlrc, vsds   ct simbólic tr  rcrts   gir ducv l PP, hn sid invitds  pnr  prd l rvés, l sirr  intrfrci prpgndísc. En Sinu,  d fu bligd  cmbir  ct. Cits  vtnts  Brs c  s urns vsds  prds vrs  mnr slidri   prtst   x s hc   ds ñs. infrm Andru Mnrs.
+12:31. L mrí   cndidts h vtd. Migu Aris Cñt (PP), El Vlci (PSOE), Will Mr (IU), Frncisc Ss Wgnr (UPD), Pb Igsis (Pms),  Hrvé Flci (Prd X), hn vtd   rg   mñn. Mri Rj, prt l Gbir, h md   prcipción: "Srí bu pr tds   inms mrí   spñs vt".  "Ests ccins urps sn mu imtnts. Y s cis   tmn  Eurp cd vz fctn  l dí  dí   spñs,   vid diri", h dich   slid l cgi ctrl  Mnc-Arvc (Mdrid)  s nc  st mñn.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1401005027_413331_1401018141";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+11:40. El cndidt  IU l Prmt Eurp, Will Mr, h jrcid  rch l vt   Biblitc Micipl Rf  Pb  Snlúcr  Brrd (Cádiz). 
+11:23. L cndidt scilist, El Vlci h vtd   Ctr  Srvicis scis  Cmbrí (Mdrid). "H s  dí cv pr Espñ. Os m  vtr pr cmbir Eurp", h scrit   cut  Twittr. El cndidt  ERC, Jp Mri Trricbrs, h rcrdd trs vtr  "Eurp s     úlm pbr".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1401005027_413331_1401017873";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+11:04. En Crbjl   Lgu (Lón) h vtd  cbz  list  UPD, Frncisc Ss Wgnr. 
+10:40. Tds s ss  hn sid. El Gbir h infrmd   sción l 100%  s 50.000 ss  vtción  td  pís.9:00. El vt l cndidt l PP. El núr   list l PP l Prmt Eurp, Migu Aris Cñt, h fid   "Espñ sté   cbz   prcipción   Uón Eurp (UE)  sts ccins",   " spñs simpr hms d  st mu urpíst". En Jrz   Frntr (Cádiz), Aris Cñt,  h sid  prir cndidt spñl  jrcr  rch  vt  dng.
+10:30. El crtri grl  PSOE, Alfrd Pérz Rublcb, h vtd   cgi  Mjdhnd (Mdrid). "D   p h p  slid   crisis", h dich trs jrcr  rch. H hch  prpi  hdkri, Iñig Urkullu,  h rivindicd " Eurp difrt"   ,   úlms ñs, h pdid grr " sfcción".
+10:00. Ms  sid  Mdrid. Un s ctrl   cgi crrspndit l distrit  Mnc-Arvc r  úc    hbí sid nts  s 10.00  Mdrid,   ttl  5.669 ss ctrs, gún  dts frcids   págin wb l Mistri l Intrir pr  guit  sts ccis. A s 10:15  prbm  h slvtd.
+9:00. Prbms   cgis. L purt  ccs l cgi ctrl  Gz (Gipuzk) h prcid  dng  cvs, pgmt   crrdur  lg pintd  fvr   prss.L impsibilidd  brir  cgi, h bligd  lmr   crrjr , pc spués, slvtd  prbms  impdín  prr l cgi, gún h infrmd  Ertzintz. En Lj (Grnd)  h cmprcid ngún mbr   s   h d  sir  s prirs prsns  hn cudid  vtr.
+9:00. Prir cndidt  vtr. El núr   list l PP l Prmt Eurp, Migu Aris Cñt, fí   "Espñ sté   cbz   prcipción   Uón Eurp (UE)  sts ccins. Ls spñs simpr hms d  st mu urpíst". En Jrz   Frntr (Cádiz), Aris Cñt,  h sid  prir cndidt spñl  jrcr  rch  vt  dng.

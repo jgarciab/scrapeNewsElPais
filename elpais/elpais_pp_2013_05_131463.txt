@@ -1,0 +1,78 @@
+Ls ds grns prds spñs, PP  PSOE,  úcs   hn ltrnd l frt l jcuv —   Gbirs   mrí  s cds utóms  Atts—  s úlms trs décds, lgrn  mr  s ccins grs  2008  83,8%   vts válids. Fu  mmt cumbr l  s prbbmt    sistms  biprdists  Eurp, si   mr. Pr  ctj sir  hbí mnd s 1982:  m PP-PSOE nc bjó l 65%   sió csi simpr  tr l 75%. En 2011 ún prb  73%.
+
+Es   h lvd  nt  crisis, gún s custs publicds   CIS   disnts dis   úlms s. Ls ds grns prds —sbr td  PP— c  pus  s smcins  vt: mn s tr  45%   60%; s dirccins  sb   m   cst “lógic”  s dids  Gbir, s l ntrir  s l cl. H prcupción   quip  Mri Rj     Alfrd Pérz Rublcb. Sin mbrg, mbs jrn cr  s   v  ft cl   sig  cmbi  cic, l “fin l biprdism”  prds  IU  UPD —   b— ugurn.
+Es l fin l biprdism s  clusión “prmr”, dij  lír l PSOE, Alfrd Pérz Rublcb. “Ls juicis h  r l finl”, ptó   vz  prt l Gbir, Mri Rj. Es cir, nd  trr  pác : dn ún ds ñs pr s ccins grs. Futs  mbs prds intrprtn   prbm s circstncil,  durrá   dur  crisis  ,  gurmt nc vuvn  mr  80%   vts,  sistm guirá sid   s: s ds prds  pcins  Gbir. Ant s crucijd, Rj pi “mp” pr plicr s plícs; Rublcb, pcts  Estd.
+“El Gbir stá tmnd cis difícis. N v  psr  ss cis  trduzcn   umt  intción  vt”, firmó  jf l Ejcuv   cmprcci trs  rión  mnv   prir str  Prgl, Pdr Psss Ch.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1368475066_628197_1368475268";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Rj  mstró vcid    jt  dids dptds   Gbir “  sd”;  s plíc, igul  curr   UE, rá   lv   slid   crisis,   s currirá “ prnt  tr”. Srá tncs, girió, cd pud dir  vrdr puls l biprdism. Rj  Psss stán hdids  s custs. Ambs  n mumt  n   lid indiscub:  mp. “Sbms   rltds trdn   c  rfrms s    pub spñl ncsit, Rj   drción”, dij Psss. “Sms slidris  s dids  stá dptnd Prgl”, rmtó Rj.
+“Es vrdd   ds grns prds stms pgnd  durmt  crisis”, firmó,   prt, Rublcb, brnd   PP bj  s custs “much    PSOE”. “Pr  custs  s  ms l 50% dic   sb   vtrá... hbr    h cíd  biprdism  prc  pc prmr”, ñdió. L mn psd, prgtd   sm, hbí rspndid igul: ugurr  fin l biprdism s “prcipitd”.
+El crtri grl l PSOE  quis pinr   pérdid  p   prd , gún , s custs s cincin   “grn sfinz”   ciuddní hci  prds,  grl,  hci    pcins  gbrnr  prcur".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1368475066_628197_1368475202";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+"Ti lógic. L gt stá psánd mu ml,  v slid. Es prfctmt cmprsib   scidd sprnzd sfí  s inscins   s plícs. Es dic s custs. Y  tr  dic s    rcmn  curd   prds pr slir   crisis”, rmrcó,  dí    vib  Rj  frt  “pct  Estd”.
+
+“Es prbb  PP  PSOE  vlvms  mr nc  80%   vts;   strs  lcncms  45%;   much ms stms   22%  dic lgs custs. Es  s rl  psib,  tmpc  s  h  bstción l 50%”, ss futs   dircción scilist,   sprn, , cd vz   bt sbr  lirzg l prd  s primris tp s prpusts  fnd  stán inttnd trsdr  s vtnts.
+Un dirigt próxim  Rublcb  r : “Qu  ds grns prms p, . Qu v  hbr  srpss [ IU  UPD], . Qu  ds prds grns  v  psr  cutr dis, tmpc. N cr  ms  s f”.
+L núr ds l PP, Mrí Drs  Cspdl, tmbién zó  prt sgst l m biprdist, infrm Frncsc Mntt. En  pión,  h nd nuv. Prgtd l rspct, Cspdl guró   Espñ  h lgs cds utóms  s  prds ncinlists  CiU   PNV rprstn s pcins mritris. Y stcó  pp  mpñ IU,  jmp,  Andlucí, dn gbirn   PSOE. Pr  PP,  fiv, “ biprdism  Espñ s lg rv”. “Si  scidd spñ cr     trnr  primcí   ds grns prds ncins, pus  cidirá  rá   hn cidid  spñs”, grgó.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1368475066_628197_1368475156";
+                
+Envir ví
+
+
+
+
+//

@@ -1,0 +1,40 @@
+“Pms tr pins divrss  trs css,  h  bjv   s ngcib:  l Gbir”. L crtri grl l PP, Mrí Drs  Cspdl, h nzd h s Smnc  msj   prts utnócs l PP  p puls tr Mri Rj  vris brns  cut l pléc rprt l déficit,  lmd déficit   crt.
+“Es vrdd  cd lugr   idicrsi    cd cdd tms nustrs bjvs    cd cdd hms hch s css   mnr   psd,   mnr   pr  rms hcrs  tr mnr   fur”, h rznd  núr ds l prd mritri nts  rfrir,  mcinr, l rprt l déficit tr    hn prncid públicmt prts ppurs  Albrt Núñz-Fijó, Ignci Gnzáz, Jsé Ant Mng  Pdr Snz.
+
+
+L 'núr ds' l PP lm  s brns  digr, p  s difrcis sbr  déficit
+
+Cspdl h bdd   discurs hid r  Mri Rj,  fió  lcnzr “ curd sst”. “Cd  pu tr  pión disnt”, h cdid  crtri grl, “ muchs css  pu hbr  lgr   curd pr cumplir  grnzr  rcuprción”. “Td  hb  td  ngci, s s  rt   plíc”, h grgd nts  dvrrs: “Pr h  bjv  s inngcib,  s  crción  mp  Espñ. Pms tr pins divrss  trs cusns,     rcuprción óc    l Gbir”. “Es  s ngcib”, h fzd.
+En p bt   déficit,  muchs brns tm  cb bficind l Gbir  Arr Ms  Ctluñ  rzns plícs,  prt xtrñ,     bigrnt, h fdid h   prt  divrsidd  pins. "El PP  s  ct", h mfstd,      pión pu hbr "discrpncis". El viccrtri  Plíc Trritril l prd, Jvir Ars, h mdud   prt s fifí l ñr s Smnc  " s  sm idd  ifrdd", girid  pu hbr discusión  bt. 
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1368748791_573268_1368806098";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Cn st cit  dirigts ncins,  prir s  ión intrcipl  Alrí, cbrd  r cincidid   stllid l scánd l xtsrr Luis Bárcs,  prd prt nlizr s rfrms l Gbir  Rj  br  tr  “ xigib slidridd, chsión  ltd inscinl   mps  crisis óc”. Al igul  mfstó  s  jf l Ejcuv,  dircción ncinl   ppurs sir ncsri   lírs utnócs rm   sm dircción.
+Y,  dí spués   Rj fir  lgr   “curd sst”,  mbrs   cúpu l PP  mprán h  mñn, nts   intrvción l prt,  vrr “ scrificis      sfurz  s Adstrcins Públics pr grr  rigr   ustridd”. Trs  inugurción   crtri grl, crtri  Plíc Autnóc, J Jsé Mtrí   núr ds l PP  Csl  Lón, Alfns Frnánz Mñuc,  tvcs prmtris l PP   Cngrs,  Sd   Prmt Eurp, Alfns Ans, Jsé Mnu Brrir  Ji Mr Orj, drán pi  disnts ss  trbj. El vtr dirigt Jvir Ars brá sbr  rts l Estd utnóc   prt l PP ndluz, J Ignci Zid,  lír   ppurs  Ctluñ, Alici Sánchz-Cmch  Arntz Quirg,  rcién mbrd prt l PP vsc trs  rci  Bsgi.
+
+
+Ars mz  " s  sm idd l prd  ifrdd"  pins
+
+Pr  tr  str  Emp, Fám Báñz hbrá  s ds  trbj   jóvs,   Espñ fr  mp  cim l 50%,   núr trs l prd mritri, Cr Fri, tr trs.
+El r  Agriculr, Migu Aris Cñt, Estbn Gnzáz Pns  trs dirigts rgins brdrán  fur l ctr grlimtri, trs   str  Sdd, An Mt,   jr l rm  Csl-L Mnch, Jsé Ignci Ecház, brán sbr  rcrts  sdd   scidd  bistr.
+Ls justs   déficit  s Adstrcins públics rán    tms   s mrd   núr ds l PP   Cngrs, Jsé Ant Brmúz  Cstr,     intrvdrá  str  Hcid, Cristóbl Mntr, cusnd  Aguirr  s úlms mns  fr  bid  impusts.

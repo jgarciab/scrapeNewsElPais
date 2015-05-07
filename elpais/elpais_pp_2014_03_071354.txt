@@ -1,0 +1,34 @@
+El cirr   trvrsi sbr si  PSN prstb    mción  cr tr  prt nvrr, Ynd Brcin (UPN),  pn   sb  prm plíc   cdd frl. El vt   jcuv frl   intción   scilists nvrrs  buscr  slid frzs   prt,  ncsitb  sit vts  Bildu, h trsdd   crisis intrn l PSN. Ls puts tr rginlists  scilists sigu tn rts  hc trs mns, cd stlló  trvrsi sbr gsón   Hcid nvrr, génsis  st pléc inscinl.
+
+Ynd Brcin gbirn  s 19   50 scñs l Prmt frl s ji  2012, cd xpulsó   scilists l Gbir  clición pctd  ñ nts. Brcin ñ  l rupr  bió   Rbrt Jiménz,  lír l PSN, hcí "psición ntr l Gbir",   mustr dispust  vlvr  lgr  curds   scilists. "Cn  pc  mp  ridd  pu vlvr   curd", h ptd Brcin  crcins  EL PAÍS.
+L prt ñ   prbbilidd   pud hbr ccins ncipds s "bj"  gur    mrc pzs crts pr sdir  psibs curds  prtn trnr  gisr,    dn 14 s. Brcin sir  " b jr trás prsnlisms"   mustr dispust  str  Jiménz  hcr  trvés  trs mbrs  s quips. L lír  UPN rc  durnt st úlm crisis lmó l crtri grl l PSOE, Alfrd Pérz Rublcb,     cgió  téf,   h mnd intrcución "indirct"   PSOE.
+L finz tr UPN  PSN stá rt s 2012, trs  trmts ñ  Gbir  clición,  Ynd Brcin insist  mstrr   sci fib. "H crdd muchs vcs   PSN  cr   fórmu  Gbir  clición  ", vr  prt nvrr,  pn  jmp   cbr frció " sm curd óc   PSE prbó   PNV  Euskdi". Añ   ngún mmt  pntó dir durnt  crisis  tr  s cuscins sbr  Hcid frl,  "ss cuscins  hn mstrd flss  bí fr  bu mbr l Gbir"  cr  qui psr   prsión  tr   mción  cr  lvrí  dislvr  Prmt  “c mu pc”.
+
+
+El lír l PSN firm   lgs mmts brjó dir
+
+Trs mns spués l ici  st crisis,  prbm  trsd l PSN, dn  psd juvs  vivió  dur bt sbr  ctt l vt l PSOE   mción  cr. En  cté rginl,  lír scilist Rbrt Jiménz fu cusnd   gsón  st crisis. Est virns, trs, cudí  mstrr  stt l prd nvrr  Pérz Rublcb   vrdict.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1394223138_432695_1394232918";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+En  trvist   Cn SER, Jiménz h rcid  brjó dir " lgs mmts",    hiz  cr  b dr  cr   mmt difícil   sir "kfki"   PSN  qui pgu  crisis inscinl prvcd,   juici,  Brcin. Sbr  ncsidd   vts  Bildu   mción  cr, Jiménz h firmd  "Bildu, l Ebr pr bj,   v igul  quí". Sin mbrg, h mtd  tnt    diputd J Mscs virn  r scltds   slid l cté rginl l juvs  " cs  prsns   tr", lg , h dich, "mustr  tnt  ".

@@ -1,0 +1,49 @@
+Er  25  r  2012, cd  jurd ppur frmd  is hmbrs  trs mujrs crb  culpb  Frncisc Cmps, xprt   Grlitt Vlcin,   Ricrd Cst, x crtri grl  Prd Ppur vlci, l lit  chch imprpi, l  str prbd, gún cinc  s nuv mbrs,  rcibirn rg — fmss trjs  lgs csils —   cbcils   trm Gürt.
+Cr  stán   rch mbs plícs  irr  vrdict  icci, rficd spués   S l Suprm  bril  2013, nt culquir cusción. Fltrí . Pr  lns    siguirn  juici,  s cámrs  tvisión  dirct, tmbién sn mu duñs  rcrdr s gsts —sbr td  Cmps—  s trdiccins,    firz  tds  cd    tsgs  crrn   tr,  mción spcil pr Jsé T,  fms sstr. A   sgrirán crgds  rzón  pp,    rvivirms   íms —trmd—  vims —ps—. Pr fu imbrrb.
+
+L histri   trjs  s,  psr l sprci   trtó  tm  prpi Rj —“fct   ingci psr  lgui  v  vr  trs trjs”, dij   trvist  TV3  23  bril  2009-  st mr. Y   s,  prir lugr,   prácc  cmpr  vlts  rg s tn prpi  Crr  s crclil,   fct  vris lts crgs l Gbir. A sbr: Frncisc Cmps (prt), 8 trjs, 5 chts, 6 pntns  trs prs  zpts,   smquin  chc ngr ( bnc)  mnd  prtc pr vr l Pp   Vc; Víctr Cmps (vicprt): 6 trjs, 4 ricns, 6 pntns   ch; Ricrd Cst (crtri grl l PP), 4 trjs, 3 ricns  6 pntns; Rf Btrt, (x jf  gbint   Agci Vlcin  Turism (AVT)  m rch   xjr  Turism, Migrs Mrtínz), 8 trjs, 6 chts, 6 pntns  3 brigs. Y  Pdr Grcí,  dirctr grl  Cnl 9, 7 trjs, 5 chts  6 pntns.
+H  rcrdr  Btrt  Cmps drn  culp;  prir vlvió  rp   gd pgó  imt. O ,   trjs  rn  sbr “pr gnr  fvr”   dición  crgs públics,  dictó  stci crrspndit. Difícil tr   llí, ,  quí -Cmps  Cst, -,   fu  rslución l jurd. Al ridícu ir  vir  Jsé T tmnd dids l prt   ht Ritz,   Cst   spch l prd, buscnd  trbil itlin pr  Cmps  trr  sbt,  ls jusficcins l dinr   cj   frmci   mujr  Cmps, Isb Bs,  inclus  sbz l chófr, chscrril clizbs  culquir hrtc,  pu cultr, p   pt  fulidd,  imtnt:  grn  strch std  tbrn  prt   Cdd   Vlcin, rgd tncs  bdnci  sfr   r divi,   guidr  trs l curt, xprt  rñr trts  s rcs públics scsmt prtgids.
+Rcrms s vrscins tfócs —incluid “ guit l lm”—  tmbién  vij jt l Vc,   prxidd  csi tds  ns l prt,  l csión   Ricrd Cst,  máxim crg l prd,  pi  Álvr Pérz  hb  Cmps pr   t   Gbir. Tn imtnts   xtrm prxidd  El Bigts   prpi Ricrd Cst, Ric  lmb,  qui hiz lgún rg  — curs  inglés, gsns  cchs  luj— l mp  trtb sbr  trts   prd   Gbir,  pu ír  muchs  s vrscins grbds   plicí   slpicn td  mri.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1392221252_025063_1392241649";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Pr  grv s  trs  dbn ss trñbs sts tr  intrdiri   plícs, l ms diz jrís   Grlitt firmrn 85 trts  vr    13 lns  urs  s mprss   trm, prfrtmt Orng Mrkt. Otrs futs b  trts,  clc  imt  16 lns. L ptrción  Gürt   Cdd Vlcin nc   irrdi s  std  Álvr Pérz, El Bigts,  Frncisc Cmps,  plíc  gró zfr   pgjs mri  Edurd Zpn hst vrr  fir  indiscud lír. Ls purts   brirn l rprstnt  Orng Mrkt s  mmt  hbí rcibid  t mágic l d l máxim lír.
+D md   Gbir vlci  brió  cnl nt El Bigts,    rín s s lrs. Tms tsms. Cm jmp, bst  cmprcci, hc ps ds mns, l xjr  Sdd, Luis Rsd, nt  juz Jsé Crs. Él, vi  cir,  litó  ctr  rn “ Prci”  firmr trts  Orng Mrkt  Diñ Asimétric. Est strtgi s  sm  sigu  imputds    s is pizs,  lmd  “ctís mrs”,   trt    70 trts  vris jrís cdids  d    pdín psr  12.000 urs,  bi rn spics  trs trts mrs   dividín pr srtr  trs gs. L hcín “ rn  Prci”, dic ,  csi ng  ss imputds cí  Álvr Pérz  s, l ms, s   crrn nt  juz.
+
+
+
+ infrmciónEl ‘cs Gürt’,   s  cs PP
+L strtgi  s cus drds
+El rg  trs prcs  ngún trpd gró frr
+Crr,  ldd pburi   cb   grns
+Cn tds usts, El Bigts
+Lópz Vij pní s sils. Pr  r brt
+El ri  ‘El Albndiguil’  s fss cbrdrs
+Mjdhnd,  ici l fin
+Un visit ppl prvchs pr  lm  pr lgs blsil
+
+
+
+Rf Btrt,  jmp,   cí  El Bigts,  bi, h gid  sm ví  fs. Qu  prgt  Cmps, vi  cir,  s rnb tr  Pérz  si  trtr   j ctrí  hubir lgd l rpurt  Cstlón pr frcr invrs mullnris. Ls rcrdms  Btrt tdví stá imputd   cs Fir. Rcid  culp   trjs,  gd n, l tr ntcts, pdí r mrtl pr … ¿Y hms dich ,  cirt,   jf  gbint  Frncisc Cmps r An Michvi, hrmn l xstr  quí s trpzms cd ds  trs,  inclus fichó pr  buft mdriñ, Eius, l jf   bgcí   Grlitt, Jsé Mrí.
+Pr h  hbr  plíc,   plícs hbms. A psr  td st, scánd  cls  pzs, Mri Rj rfirmó  Frncisc Cmps  cndidt l PP   Grlitt  2011,   s lists l prd pr s ccins utnócs prstrn  nuv implicds   trm (Cmps tr )  trs css  crrupción   lmd cs Brugl,  fct l PP  Alicnt. El p  Cmps hbí sid épic. ¿Rcurdn  “ simpr stré trás  , nt  l d,  d igul”,   pz  trs  Vlci l 3  ji  2009? Quizá s cu  djudicr st fr   utr, Ji Mr Orj, sm dí, sm pz: “Pc Cmps,   hrb  tds  spñs”.
+El ditril  EL PAÍS l dí siguit   bslución   jurd   ds dirigts vlcis tí  párrf sbrcgdr: “L bslución  Cmps  Cst   jurd ppur pdrí r intrprtd   gst   cmpcci ciuddn   plícs crrupts;   vt  s urns  fvr  ”. Es vrdd   vt msiv  s urns   fvr,  hbí currid  22  m  2011, cd  tm   trjs lvb ds ñs  dnz   tribs. ¿H  crr  nd  td  hbí hch m   sliz l PP  Vlci? ¿Qu  trm Gürt  ib  tr ng incinci? Prnt  vi  r s  spjism: Cmps finlmt dió  20  juli   sm ñ,   csr, Albrt Fbr,  muv s tncs srtnd  pu  cdd trs tr. Ric Cst stá imputd  trs cuss. A  spr  juici.

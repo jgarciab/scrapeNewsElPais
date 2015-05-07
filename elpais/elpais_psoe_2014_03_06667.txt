@@ -1,0 +1,37 @@
+El Prd Scilist  Nvrr (PSN) h cptd st ch,  sirbs rccis,  vt   dircción frl l PSOE   prstción   mción  cr pr scr l Gbir   prt nvrr, Ynd Brcin (UPN),  vcr ccins ncipds  25  m. L jcuv  dirig Rbrt Jiménz prstó l Cté Rginl,  máxim órg tr grss,  txt  rc  cráctr frl l PSOE   tnt cpt  cisión mrcd  dí nts   crtri grl, Alfrd Pérz Rublcb .Ls scilists nvrrs mustrn  "disfrdd"   cisión   jcuv frl l PSOE  impdir prstr  mción  cr  vtr culquir tr,   pndrí    vts  Bildu. Es prpust fu rspldd  80 vts, frt  7  tr  45 bstcins.
+
+En crt,  txt rficd   Cté rc   prt l PSOE,  PSN “ct sttrimt s cis l prd,  mfist  disfrdd   cisión tmd   Csión Ejcuv Frl   prstr  mción  cr   s fcts  vcr ccins  próxim 25  m”, hciénds cincidir  s urps. L prpust sd  bt incluí  pción   jcuv frl   "rsir  pción  cr  prstr  mción  cr". Sin mbrg,   txt finl prbd  h ind  pción   Frrz rsir  vt.
+N bstnt,  pzs  mrc  gisción nvrr hc csi impsib   prstción   mción  cr pr ntr s ccins. H,   mu tr  próxim s, sn  úlms dís pr rgistrr  iciv  rmción pr mbrr  nuv Gbir  pud vcr s ccins nts l 31  mrz. El Ajrt l Fur,  stt nvrr,  prt   nt s ccins   úlm ñ  gisr.
+En  cté, l  sisrn    ctr  s cmpnts   duró ms  cutr hrs,  zcrn s intrvcins crícs   vt   dircción ncinl l PSOE   intción l prd  Nvrr,  tmbién  scuchrn vcs  crrn  prmur l crtri grl, Rbrt Jiménz,  ncir  did   mción  cr  tr   vl   jcuv  cbz Pérz Rublcb.
+
+
+
+ infrmciónBrcin   spntj  ETA
+Dim  F.
+EH Bildu: "L cisión l PSOE s  inlt pr  nvrrs"
+
+
+
+El ctr críc,  grup  tr l 40%   litnci, prstó  prpust   , mnd  pust   Brcin slg l Gbir rginl, pdí  disión l crtri grl, Jiménz,   gsón   mción  cr ncid “  vs ncsris”. Añdí tmbién crícs l grup prmtri    rnd  tcts vcd   rst  prds plícs,  clificbn  “ttrl”,  sbr  ntm   tí  rspld   cúpu l PSOE pr  prpust  rlizbn   grups.
+Ls crícs slicitbn   dcumt  sción   jcuv   signción   csión gstr  dirij  cción   nuv dircción,    vctri  ccins primris pr signr l cndidt   ccis frs. Sin mbrg, st prpust  siquir pud r bd,    jcuv,  s qui   cmptci pr cptr dcumts pr vtr, rchzó  bt. S  pud br,  tnt,  prpust   dircción.
+El Cté Rginl   juvs s  úlm cpí   crisis birt  Nvrr spués    x dirctr  Hcid, Idi Nivs, cusr   jr  E, Lurs Gicch,  “grvs injrcis  grd  ttv”   Hcid tributri. Trs s nci,  lír l PSN, Jiménz, nció  si  csión  invsgción sbr  st firmb s ncis,  prt Brcin brí ir  rí “chd”   scilists.
+Sin mbrg, pr   mción  cr trif   Prmt nvrr s ncsri   p tds  diputds   psición  Brcin,  m s 19 scñs   4 l PP. Frt   stán 9 prmtris l PSN, 6  Arr, 3  Izquird-Ezkrr, 2  Gr Bi  7  Bildu. P    scilists nvrrs xclurn  Bildu   rnd  tcts,   p  s psib grr  mrí ncsri pr  slg nt s iciv.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1394117803_489963_1394141278";
+                
+Envir ví
+
+
+
+
+//

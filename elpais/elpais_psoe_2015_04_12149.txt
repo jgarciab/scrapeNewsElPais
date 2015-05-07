@@ -1,0 +1,75 @@
+El xprt l Gbir Fip Gnzáz  rg   dición  "jrrón chi"  gur   tm "mu  ri" r  figur     pn grn vr  ndi sb dón ccr. Est dng  h ritrd nt   trs l litnts scilists, muchs   cndidts  s lcldís pr s ccins l próxim 24  m, mmts nts  pdir crcidmt  td  PSOE  p  Pdr Sánchz  lír indiscub l prd.
+El t h sid fác   rspust l uditri h mstrd  prdicmt   influci l  fur máxim lír l PSOE durnt   20 ñs:  prs  hn pust  pi  hn pudid  intsidd durnt    nut. S h tdid   st  muchs scilists   pción  Gnzáz. Su mnd h std vut   fsión   firió  dsis mr  crdibilidd. "En primris   vté  ,  st   dispsición, s  crtri grl    v   td   pud. Es   pid  culr  prd".
+
+El tr  Gnzáz h rcid   s ccins primris l psd s  ji pr  crtrí grl l PSOE,  xprt vtó  Edurd Mdin  qui hbí d trt,  tnt   rción  Pdr Sánchz r csi inxistt. El tr spirnt fu Jsé Ant Pérz Tpis, rprstnt  Izquird Scilist.
+El mp  hc td   sts s  xprt h strchd rcins   nuv crtri grl   intrcución s tn fluid  frcut, gún ñn  mbs trs. Sbr  librd crción   dng —ndi cr  Gnzáz imprvisr  simpr    dic—,  quip  Sánchz  lgs dirigts trritris ltds intrprtn   xprt quir str s bs pr   h flicts intrs pr  cción l cndidt   prci l Gbir  Espñ.
+Un vz  Pdr Sánchz h mfstd  vltd  r cndidt  prstr  s primris scilists l s  juli,  Gnzáz  prc   prd b . Su pión sbr  lirzg l PSOE  xprsó  psd s  mrz   trvist  EL PAÍS    frció " infrmción",   pión,    prt  fcins  Andlucí, Susn Díz, ib  dr   rgión  jrcr  br  gbir. El msj   mmt pr  prd  pr  scidd fu níd: Pdr Sánchz  Mdrid,  cndidt   prci l Gbir  Espñ  Susn Díz,  Andlucí.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1428834344_495405_1428843283";
+                
+Envir ví
+
+
+
+
+//
+
+Intrvción  Áng Gbind. / ts
+
+
+
+L cirt s   dircción scilist tí m intrés   Gnzáz, spués  muchs s  prcipr   ct  prd, svir   cur   frci cipl   dng  rdr.
+L rgzción invitó igulmt   ds ntrirs crtris grs, Jsé Luis Rdríguz Zptr  Alfrd Pérz Rublcb. El prir cudió    Rublcb,   trb  Prís   ct  hmj pósm   ctdrác  invsgdr  Ggí Crn Virgili
+El prtgsm,  mbrg, h sid csi ttl pr Fip Gnzáz, sición   h indd  bslut  Pdr Sánchz, gún futs   tr. S trtb   nt  cndidts  s lcldís  Espñ,   prsci  muchs spirnts utnócs,  xprt stbcir  prlism tr 1979, prirs ccins cs  Espñ trs  rcuprción   librtd,  s cs. "N stms pr   tncs,  s circstncis n difrts", h mpzd Gnzáz   fán  infdir ám.
+
+
+
+
+
+
+
+puls   ft
+
+Viñt  Pridis l 13  bril. / Pridis
+
+
+
+Est cmpñ   m "Gbrnr pr  mrí",   bjv    rpit  histril   scilists trs s ccins cips  1979  grs  1982, bj  lirzg  Gnzáz.
+N s frcut scuchr l xprt nzr ditribs tr  Gbir   dng   h hch  pcs frirs   much tnci. "Os tc  vstrs rcmpnr s fls   sistm prvcds   rch,   sirs   spci tr  inmvilists   liquidcists", h dich  rfrci l PP   Pms. "H  rstruir   strs struims   rch h struid", h cmd Gnzáz pr rfrir  nución   ducción,   sdd  s plícs scis. El xprt   h cdid mérit lg l cl Gbir   "frágil  tíd" rcuprción óc  cr Espñ. "Ning   fctrs   hc psib   vr   Gbir     prct pr Espñ".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1428834344_495405_1428849325";
+                
+Envir ví
+
+
+
+
+//
+
+Ats
+
+
+
+D  ciudd  spci públic  vivci dn  gbrnnts   vlcr h hbd Gnzáz  s ntcsrs   pbr. El indit h sid Áng Gbind, cndidt   Cdd  Mdrid,   discurs éc  rgrcist  h sid scuchd   máxim tción  trs cits  cndidts cips. "Ncsitms slucins,   culquir slución,   culquir prci,   difrts vícms. Slucins  jusci", h dich.
+L rvnci  Pdr Sánchz d   cmpñ  Mdrid s máxim,    rfj  invitción  Gbind  crrr     Gnzáz  frci  citnd l cndidt   lcldí  Mdrid, Ant Migu Crmn,  tr xpnt l cmbi. Mdrid  Vlci sn pr  scilists s pzs  ds. Pr   fin  mn hn d prtgsm spirnts  lcldís  tds  tmñs crgds  xplicr individulmt dids  pu rvir pr tds  Atts.
+L prsci  Fip Gnzáz h hch   discurss trscidn  Espñ. Pdr Sánchz h mstrd  rgul   xprt fur  fr  prss plícs vzs. "S mócrt   imt   librtd l   pis     l  pis  ", h xplicd  quis " xtrñn"   fid  plícs  igí rvdr. Si  Gbir vz  v  bus js  Gnzáz, tmpc    grd   v. "En Vzu h crls  rcint trs h spilfrrd s  xtcins  ptró 800.000 lns  dórs", h mtd.

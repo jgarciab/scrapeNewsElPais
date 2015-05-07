@@ -1,0 +1,46 @@
+¿Vtó ustd  dng? ¿Hbrí vtd si hubirn sid s ccins grs? Pr muchs ,  rspust  s prgt s ,   gd, . L r difrci  prcipción tr s ccins urps  s prmtris s s , quizá  principl, slvdd   hr  trducir  rltds  s ccins urps   dng  hiptécs scñs   Cngrs   Diputds. Pr s, td   vi  nución s s  simución,  jrcici  plíc ficción. Cn ss cuts  lgs ,  cálcu fcds  EL PAÍS mustrn  s vtcins   dng drín,  cs  rprducir  s grs,  Cngrs much  frgmtd   cl, hst  pt  rltr csi ingbrnb,  mrís fins psibs. El PP frirí  vrp l prr csi di ctr  diputds,  PSOE crí lg   trr  s furzs ritris gnrín ps.
+
+
+
+
+
+
+
+puls   ft
+
+
+
+
+Cd cción s difrt  tr,  s cndidts,  finlidd, s tms  cmpñ, s rgs,  txt plíc  óc   prcipción. En st xtrpción,  cómput  h fcd prcsnd  rltds l scru   dng prvinci  prvinci  plicnd   D'Hndt, tl    hc  s ccins grs. S h rsptd  núr  diputds signd  cd circscripción  s úlms ccins prmtris, s  2011.
+El rltd   simución d  gir rdicl   hiptéc cmpsición l Cngrs   Diputds. Cn  vts   dng, tnt  Prd Ppur (PP)  Mri Rj   PSOE  Alfrd Pérz Rublcb prrín diputds. En cmbi, vnzrín  prds plícs ritris, dnd lugr   Cámr Bj   mrí prmtri cr,    rí difícil frmr  Gbir stb slv   imprbb hipótsis   curd tr  ds grns prds.
+
+El PP nurí   furz  mr núr  scñs,  rí tmbién    prrí. Psrí   cómd mrí bslut  186 diputds  r  rí mritri,  137 scñs. Un pérdid  49 diputds     drí  39   176  mrcn  listón   mrí bslut. N lcnzrí s cifr  siquir mnd  ps  UPD, Ciudds, Vx, Clición Cnri, PNV  CiU jts. Tds  —csi impsibs  r   sm clición,  tr prt—  drín  175 diputds.
+D tr d,  PSOE prrí 3  s 110 diputds. Izquird Ud drí  slt  13 scñs hst 24  Pms rgrí   grn str scnt  19. Ls trs prds  izquird ( nuv, difícis  jugr) mrín 150 diputds   mnd  2  Cmprs   15  ERC  inclus  8  Bildu ( nuv  tr hipótsis xtrm), tmpc psrín  listón   mrí bslut.
+El úc Gbir stb psib  prcrí   hriznt trs s ccins grs  s rltds     dng rí    grn clición PP-PSOE,  mrí 244 diputds, lg   ds trcis l Cngrs. Pr rí  clición  s  ds furzs rivs difícis  cilir, si ,   ds prds  csgds,   hn mprd s rltds. L r mción   psibilidd   grn clición,  tr prt,  h grd rccins  tr durnt  rcit cmpñ ctrl. Ls cifrs  sts ccins pu rvivr  bt.
+El PP frirí s mrs pérdids  diputds  Andlucí (12), Ctluñ (7), Mdrid (6),  Cdd Vlcin (6)  Cnris (4). El PSOE,   prt,  vrí mu csgd  Ctluñ, dn prrí 8 scñs,  rcuprrí 4  Andlucí.
+L prcción   rltds mustr   ds prds ncinlists  rdics, ERC  Bildu, prrín   ds  mrds, CiU  PNV,   diputd  cd cs. CiU, , psrí  r  trcr furz plíc l Cngrs  núr  diputds  r  sépm.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1401062826_893393_1401063325";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+UPD duplicrí  rprstción prmtri cl l gnr diputds  Zrgz, Svil, Murci, Mág  Alicnt  slidr   Vlci   4  Mdrid. Pr  vnc  v clipsd   irrupción  Pms,  grrí rprstción  15 prvincis. En 13  s lcnzrí  diputd, trs   Mdrid tdrí 4   Br, 2.
+Ls prds plícs   ctrd  mvilizd sl bficids  s ccins  bj prcipción. Es blig  rvizr culquir nálisis. Ls ccis urps, , sn  frcuci ulizds   ctrs pr  vt  prtst, trs   s grs prim  frcuci  vt úl,  prds  pu frmr gbir    v ms plizds   sistm ctrl. Cn td,  r disprsión  frgmtción l vt   h vist  sts ccins urps   prngón  s ntrirs  h muchs sigs    pérdid  ps   grns prds  s  cráctr rmt pisódic.

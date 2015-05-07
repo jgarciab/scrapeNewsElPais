@@ -1,0 +1,43 @@
+El Prd Ppur,  principl prd  Espñ  núr  filids, rcibió tr 2002  2011  ms  628,9 lns  urs  bvcins públics,  frmn tr  85%   90%  s ingrss. Entr 1995  2002,  frmción rvdr bv   fnds l Estd pr  fcint  gsts rdinris  ctrs  ttl  60.601 lns  pts (364,2 lns  urs). Aprt,  prd cptó dnvs — mr prt nóms—   ms  67,18 lns  urs, s 1995 hst 2011. D crr  ds   crtris grs  l ñs, Frncisc Álvrz-Cscs  Jvir Ars, st r cndd  dinr públic scpb l trl   máxims rspnsbs l fcint intr l prd  ctr-rch.
+Álvrz-Cscs,  grl crtri  cmndó  PP  m  hirr   smbr  Jsé Mrí Aznr tr 1989  1999,  Ars,   cdió hst  ñ 2003, crrn  mrts  tsgs nt  juz   Audici Ncinl Pb Ruz. Ambs tín  rspnr  s prgts sbr  pps  Bárcs,  tbilidd crt l xtsrr l PP    prc  pusts prcptrs  sbrds tristrs  dinr ngr.
+
+
+Ls rspusts  frcuts furn "  st"  "  curd"
+
+Sgún  tbilidd  Bárcs publicd  EL PAÍS  psd 31  r, Cscs prcibió 421.693 urs tr 1990  2004;  Ars bv 234.320 urs  ngr tr 1990  2011. Ls ds ngrn  frm   ms tjnt  cbr  dinr b, gurn futs prs   intrrgtri. Sin mbrg,  cmbi, virn  cr  durnt s mndts scuidrn  gsón   fnds l prd. Cscs  Ars grn  mnr bslut st rspnsbilidd   tsrr  tncs, Álvr Lpurt,  h  86 ñs  stá impdid pr prstr crción judicil trs frir ds grvs cíds   dcili,  úlm  s cus  mnv  cm durnt vris dís.
+Ambs dirigts —Cscs  fur l prd  Ars ún ntr  plícmt mtd   scánd   tbilidd b— jrn stnci, gún futs jurídics,   usci  csms  trl  s dncins. En  crción    s ngcins  ltrnrn  pisdis  usci  mri, tnt Ars  Cscs rcirn   prd crcí   prtc pr grnzr   dnvs rsptbn  líts  dicins   L  Finncición  Prds    L Orgác  Régim Ectrl Grl. Ls ds ngus rspnsbs l fcint rgác l PP tmbién rcirn   ngún mmt  di   tsrrs  grts ng instrucción  dirctriz scrit u rl sbr cóm mnjr  fnds, infrmrn vris bgds prs   crción. Cscs lgó  scudr   prpis stts l PP pr gurr   crtris grs crc  cmptci sbr spcts  grci l prd.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1376408310_857061_1376416206";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+El strl   dnvs, piz cv   tbilidd l prd, fu crrbrd prvimt   mpd  cj l PP Ant Orz, citd tmbién  tsg. Est rció  cd  mprsri trgb dinr l prd  frm nóm,  frmción  rgistrb  siquir  DNI l dnnt, lg    stb bligd   .
+Rspct   pts   tbilidd crt  Bárcs  s fctn dirctmt, s rspusts  Cscs  Ars só vrirn  s frms. El plíc sri, lír l mvit prsnlist Fr Asris, prtgzó  crción áspr  ts, gún lgs bgds prs. Prtrchd   grus tfli    lvb divrs dcumtción fiscl pr  lt   s, Cscs  mnv frrd   mntr: “S rzc  ingrss   figurn  s crcins   rt”. En l ms  csión,  juz Ruz  rvi spués   trtr  ntr  s rspusts  s prgts   trds   cusción ppur.
+Pr  prt, Ars,  fb, tmbién fu  tjnt   ngción   pgs. “J h rcibid dinr ngr”, ñló, gún futs jurídics. El cl viccrtri  Plíc Autnóc l PP rció  prsci   rión  mrz  2010  Rj, Bárcs   sps Rslí Igsis,  s rcurd   hbló    xtsrr mnvir s  mmt  spch      cl  Gév   cch l prd. Sgún cró Bárcs  psd 15  juli nt  juz Ruz,  dich rión  pidió   dijr   cl crtri grl, Mrí Drs  Cspdl  jr  intxicr sbr    prs. Ars dij  rcrdr   hbr  dinr pr  x tsrr    csión igl cbrd   prd  Csl-L Mnch  cut   djudicción   trt  limpiz   Att  Td, gún  trd cdr l intrrgtri.
+Sbr  rst  pgs  tls   tbilidd l prd, tnt  ficil   pr  Bárcs,  crtris grs vntrn  “mnumt   smri”,  pbrs   bgd pr. Ls rspusts  hbis ibn l “  st” l “ rcurd”. Cscs rchzó hbr cd  rcuddr l prd,  rció  jrció s brs  tsrr jt  s  crtri grl tr 1990  1992, trs  disión  Rsd Nir  hst  fu mbrd Álvr Lpurt.
+
+
+Est ércs prstrá crción  núr ds l PP, Drs  Cspdl
+
+Cscs fu prgtd   cusción ppur cbzd  Izquird Ud,  prir  pdir  citción  tsg, crc   cción l frt l Mistri  Fmt,   invrsr l Gbir   mn rcins  crcns  s mprss  br públic. Ests figurn  princips dnnts   tbilidd b  Bárcs p     impi  s scids  mn trts   Adstrción dr fnds  s frmcins plícs.
+El juz Ruz pró  Cscs  tstr  s prgts sbr  ri  djudiccins  brs  mprss pustmt dnnts l PP durnt  prid  str, tr 2000  2004, ,    cup  crg, tdrí rch  rspnrs  scrit. N bstnt, Cscs tstó   ss ñs mnjb  prpust  60.000 lns  urs      crgb  s djudiccins  pñ mntnt, pr s  hbí cs spcífics   prtmt stril.
+Sí rció  plíc sri  xistci   PP   csión  infrstrucrs dicd  srr sbr s brs públics   ibn  incrr   prgrms ctrs. D st csión,   gurdb cts  s rins, hbló  prir vz  mprsri filid l PP  pust dnnt Ant Vi, l grup Rubu, qui cró nt  juz  m psd.
+L lgd   ds plícs   Audici Ncinl,   cl  Prim, sv cmpñd   grits  inlts  di ctr  fctds  s prcipcins prfrts  Bnki. H stá prvist  cr, tmbién  tsg,  cl crtri grl l PP, Mrí Drs  Cspdl.

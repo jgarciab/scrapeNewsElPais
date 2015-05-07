@@ -1,0 +1,57 @@
+Ls crrs  Migu Bs vió  rcibió tr 2007  2009,  úlms trs ñs   mndt l frt  Cj Mdrid, rv hst  pt  dirigts l PP impusirn cis strtégics, invrs lnris inncsris  pidirn trnds trts  fvr pr gs  cids. El juz Elpidi Silv,  dictó prisión pr Bs   gsón l frt  Cj Mdrid  rción   cmpr   bnc  Frid   csión   préstm l xprt   CEOE, Grrd Díz Frrán, rquisó s crrs ctrócs. Ess cccins —  8.000 crrs prsns  prfs—,  s  h d ccs EL PAÍS, prubn  btl     Cj Mdrid  librrn  2009 ds ctrs l PP frtds. U  dirigí Esprnz Aguirr,  prtdí sir  Bs  Ignci Gnzáz, h prt utnóc. El tr  cbzb s  Att  tncs lcl, Albrt Ruiz-Glrdón, prdri  Bs.
+Ls crrs rv tmbién cóm Jsé Mrí Aznr,  ccó  Bs l mnd  Cj Mdrid,  grí invrs mullnris  brs  rt; cóm dirigts l PP pdín fvrs hiptcris pr s cids;  cóm  Gbir utnóc rnb ccr  trnds prsns  js  dstrción  dquirir  rchs  rtrnssión   prds l Rl Mdrid.
+Cj Mdrid frió   tñ  2009  btl plíc  scrnd     td  histri. Esprnz Aguirr, tncs prt   Cdd  Mdrid, diñó s mbrs pr sbncr  Migu Bs, l  hbí ccd Jsé Mrí Aznr l frt   dd finncir  1996. El g l xprt hbí cíd  sgrci  Aguirr trbjó intsmt pr sir  Ignci Gnzáz, tncs vicprt   Cdd  Mdrid. Aguirr  tró   psición   prt   izquird plíc rprstd   órgs  Cj Mdrid , sbr td,   ctr l PP dirigid   tncs lcl, Albrt Ruiz-Glrdón,  tí  vris rprstnts   j  dstrción   trs órgs  trl   dd finncir.
+
+L btl trnó   tribs  Migu Bs, principl vícm  l órdg   mndt,  vivió  spcil intsidd,  crficn  crrs ctrócs  vió  rcibió l dís.
+En   , fchd  2  cbr  2009, Mtís Amt, dirctr grl  prir lugrt  Bs, cbr   prt  Cj Mdrid  cisión   tribs  spr  prcs ctrl  Aguirr rí pnr  mrch. “Es  ésim vz  Nch Gnzáz   rubi [Esprnz Aguirr]  lvn  rvlcón. Aprrán? A  l pct  s h vut  dr cr  gili... Ficids¡¡¡”. Bs  tst: “Prts  s  trif”.
+Al dís, Bs rcib ficitcins  trs cbrdrs. A     rspn: “Es  btl,    gurr. Pr  bftón   rubi. Lg  mmt   td t prduc ssfcción. Att   próxims dís. Un brz”.
+Bs cbó jnd  pust s s s spués. Pr Aguirr  pud impnr   cndidt. Mri Rj, lír  l PP, igió pr  pust strtégic   md finncir spñl l x vicprt óc Rdrig Rt,  rtrnó   tp l frt l Fnd Mntri Intrncinl.
+Ls crrs ctrócs  st tp crditn tmbién cóm Bs ulizó tds  rcurss   lcnc,   trtción   jrs bgds, pr frr  intt  Aguirr  tmr  trl  Cj Mdrid rrbtánd  prci. A  buscr  jrs srs jurídics pr pntr btl l Gbir rginl, Bs vib nurss crrs   princips cbrdrs  Albrt Ruiz-Glrdón,     mtb  s mbrs  Aguirr pr sbncr.
+Ant  scánd std   cit públic  tds sts tjmnjs  mbrs,  PSOE pidió  ércs  intrvción indit l fiscl grl l Estd, Edurd Trrs-Dulc,  sir  h pdid prducir tráfic  influcis tr  fli l xprt Jsé Mrí Aznr   prpi Bs.
+Invrs inncsris
+Ls rchs l fútbl. El Gbir  Esprnz Aguirr invlucró  Cj Mdrid   btl   rchs l fútbl, pr    prt utnóc visó  sms  Bs: “Nch [Gnzáz] t hbrá   st imtnt. Hz cs”.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1387403931_559022_1387406646";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+El st imtnt r rnr  Cj Mdrid  finnci  frt  Tmdrid pr cmprr s rchs  tvisión l Rl Mdrid. Ignci Gnzáz, tncs vicprt   Cdd  Mdrid  m rch  Aguirr, scribió ds sms  Bs: “Migu, ncsit urgtmt  mñn  prir hr firs  frt jt  Tmdrid, tl  dms, pr  [Rmón] Clrón, [prt l Rl Mdrid]  tg nts l didí. N h  ñdir  cmbir nd, tn s  firm jt    Sri [dirctr grl  Tmdrid]”. L frt r  120 lns  urs  sit tmds. Pr Mdipr  dó l finl   rchs  rtrnssión   prds l Rl Mdrid.
+Enchufism
+Cm Cj Mdrid r    princips ccists  Ibri,  crrspndín ds pusts   j  dstrción   cmpñí. Ignci Gnzáz scribió  Bs  sms  18  dicimbr  2007 rnánd  quién tí  gir pr    ds pusts: “M dic  jf  si s  pnr ds jrs   cj  Ibri,   s jcuv   cj,   tr  Mrcs Rj Izquird”.
+Ls mérits pr cupr   trs pusts  Mrcs Rj rn hbr sid sr  Esprnz Aguirr. Rj cró   Audici Ncinl  crcí  cits finncirs, p   cul frmó prt   Csión  Auditrí  BFA/Bnki.
+Bs, gún xplicn s prpis crrs, v  rción rnt  Esprnz Aguirr   úlms s   mndt. En gst  2009, cd  rptín s cis sbr fus tr cjs,  prt  Cj Mdrid hb  Aguirr. En  crr ctróc  dirig    s cbrdrs, cut   currid: “Hb  Esprnz pr firmr  ,  st trtnd  hcr  fusión,  lv ñs psnd  s  bu pción pr  Cj    mmt  rstrucrción l ctr  sir  bligción  rspnsbilidd. Pr   h nd,  sn  tnts icis,    sbrá cd h lg  crt”. Bs  j    Esprnz Aguirr   trnquilizó  xplicción: “Tmpc  trnquilizó   gurr     prtd prlizr  prcs ctrl. Qu j  cltr  prs s dbrmns  simpr. ¿Quién Btt? N,   sé qui  s imt . S  t crs   t dig. Y ,  pc  cbó  vrsción. L dich, nd nuv”.
+
+
+
+
+
+
+
+mplir ft
+
+
+
+
+Flirs  jrs l Gbir  Aguirr, spss  hrms, frmbn prt  js  dstrción  disnts ds  Cj Mdrid. En  crrs ctrócs l xprt  Cj Mdrid tmbién  pu cmprbr cóm Bs inttb gnr filids ntr l j  dstrción frcid disnts pusts, lgs  mprss privds prcipds   dd finncir.
+Fvrs prsns
+Ls crrs  rcibí Migu Bs tín  vr,  lgs cs,  lgún fvr  pdín dirigts plícs  td sig,  bdn   prc  dirigts l PP. Esprnz Aguirr  prcupb  prbms hiptcris  lgún g  cid,  Bs rnb invsgr  currid. Cm jmp sirv  crr  mnd    princips jcuvs  Cj Mdrid  Bs,     infrm    h rfinncid  hiptc   prsn “ qui  intrsó  lcl [Jsé Mrí Álvrz l Mnz]”.
+En trs,  prcins mullnris jds   g   hbí rgd  pust. Jsé Mrí Aznr  pidió mbrcr  Cj Mdrid n  cusnd cmpr   ccción   rst g, Grrd Rud. Bs hiz tds s gsns ncsris, rnó ngcir  sv  pt  mr  prción   hubir cstd   dd finncir   100 lns  urs. Al finl   hiz, fdmtlmt   psición l cl jf   Cs l R, Rf Spttr.
+L tncs prt utnóc tmpc fu j   pción  fvrs   rspnsbs  Cj Mdrid  rción  dificults  cids  rción  disnts préstms   dd finncir. En   ,  dirctr grl  Cj Mdrid, Mtís Amt, infrmó  Bs: “Clit rfrid  Esprnz Aguirr  cí    tdíms. N prc  fur cirt. Clit  dificults”. Jt l msj, Amt rt  infr intr  Bs  s incincis l préstm crrspndit l rcmdd  Esprnz Aguirr.

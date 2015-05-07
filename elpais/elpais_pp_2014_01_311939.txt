@@ -1,0 +1,36 @@
+Oficilmt,   PP  ps nd. Ni vulsión,  btl intrn. Td s prfct   prd stá id. Sin mbrg, s  prir nut l rrn   vción plíc  virns  Vldlid, td prcí rspnr   prcupción, instd   PP,   ss ts intrns vn  . L dircción tí prvist bvir  prbms,   pusirn cim   s s  prir mmt.
+
+L idd l prd prcup. Es  st ctrl l prir dí   vción,  lg spués   mn durísim,   tz  Ji Mr Orj   pntón  Jsé Mrí Aznr, ds rfrts   histri l PP. Y s inquid stb  s   psil, tmbién   discurss.
+Rmpió  hi J Vict Hrrr, prt  Csl  Lón. Hbló   “bchrss css  crrupción”, ss     dircción   quir cir  pbr, sbr td l cs Bárcs, pr scr   gd. Pntó inclus  psib rfrm scinl, ntm pr  dircción. Rspndió  Aj Vidl Qudrs, tr l  Mri Rj  h rid  mbrr   h id  Vx. “N j  srprr   dig    prd sms  vjs lvds  pstrs, sbr td si qui  dic h sid durnt much ñs  pstr”,  nzó,  rfrci   prtci l urdiputd   cúpu durnt 20 ñs. Pr sbr td pus  d   lg:  PP t  frcr   pn ms   br pr hutr  fntsm. “Es  lásm,  tr  ruids  st mn, hn cultd  crción imtnt  Ji Mr: quis struims  ctr rch s  82   str h  prcss  rupr”.
+
+
+
+
+El fntsm   70  sbr td  80, cd  división   rch spñ fvrció s mrís bsluts l PSOE, stb    Auditri Migu Dibs. Pr  si  svir cr, bió   trib Cr Args, fddr  Mnu Frg  Alinz Ppur, históric m rch l xstr frnquist  xprt   Xt  Glici. Args, filid núr ds  AP, rcrdó  scrrnrí  rltds sstrss  btí  rch cd stb dividid   80. Y  lg mnr, lvó  spíri l flcid Frg l uditri pr nzr  vis: “Pc nts  mrir, dn Mnu  dij: ‘Di  Mri [Rj]  b prrvr  cim  td ds css:  idd l prd   idd  Espñ”. El pus trnó cd vz   mbró  Frg.
+Entncs bió l scri Mrí Drs  Cspdl,  crtri grl. Y  quis dulcificr  sición, td  discurs stb struid  tr   i   idd,  pbr “jts”,   msj “tds cbms   PP”. Es idd l PP  rivindicó   pr  s  úc prd  fi  idd  Espñ,    mmt  ts inpnsts vi  sté furt. “Es  PP   nd”, lgó  cir. En  prir fi l uditri  scuchb  mrid, Ignci Lópz l Hirr.
+El fntsm   usci  Aznr  Mr stb  tds prts. Cspdl trtó  trnsr rmlidd,   fórmu gid pr hbr  Aznr fu mu cmtd. “Quir rcrdr  nustr prt  hr,  h  h pdid cmpñrs  s h mndd  slud  tds”. El pus fu much  v   Frg.
+Muchs dirigts cmtrn    psil  tctb much mstr  Aznr,  psr    públic ndi  m  cricr. L ssción   h instd s   xprt,   mmt  grv dificultd pr  prd — dirigts rgins  cs  prn  tr nécdts sbr  prsión dirct  hn frid   plíc  rcrts—, h dd  spntd.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1391185912_039821_1391191997";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Oficilmt Rj  Cspdl trsdn rmlidd  Aznr   tr. Tnt   prt  crcó l stnd  FAES   diputd Ctn Álvrz  Td  trgó  dcumt sbr Ctluñ  cst  ctlán. L cmtrn nt s cámrs  Rj mstró   hbí íd  tlló    intrsnt s  pt 10,  ñ   úc cuc pr  lt ps  rfrmr  Cnsción, l trri    dic  Grlitt.

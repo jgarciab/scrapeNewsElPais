@@ -1,0 +1,31 @@
+En  Cngrs h  b,  rprst l 86%   diputds,  rchz rdiclmt  lt sbrst  Ctluñ. Enfrt stá  rst   Cámr,  mn  b rcr  rch  cidir. N h ng dud   cd  fins  mrz  bt  vt  prpsición    CiU, ERC  ICV pr   gu  Ctluñ  cmptci  vcr  lt  uttrnción,  86% vtrá . Pr   b,    stán PP, PSOE  UPD, h divrgcis sbr cóm hcr frt l sfí sbrst.
+A dó cr   bt sbr  std   nción,  cluó  juvs   vt dividid  ss trs prds  s mcins tr  sfí. Cd  vtó  prpi prpust  rslución,   s s slió nt  l PP,  hb   fs   Cnsción. Cn s flt  ss  cmptó    bts l std   nción  ms curds  s rslucins fins. “El Cngrs rspld l Gbir pr  sig tmnd, s  principis   fs l intrés grl,  rspnsbilidd,  stbilidd   mrción    jrcici   dispsición l diág, cts dids  prt  rnt jurídic pr prrvr  idd  Espñ   nción   librs  igus sds úcmt l impri   ”, rz  txt prbd s   PP.
+Básicmt,  PP ss   s psib  diág   Grlitt bj  mz  lt,  tmpc sdir rfrmr  Cnsción,   brirí  prcs  incrdumbr  sbr  finl. L  urgt s sprr, vi  r  strtgi  Mri Rj,  llá   tnt rtóric tr  lt. “El PP stá dispust  hbr sbr cóm jrr rvicis scis   finncición utnóc,   pu  v  ngcir  cumplit   ,   idd l Estd”, xplicó  diputd l PP Jsé Ant Brmúz  Cstr.
+UPD stá tmbién crmt  tr l sfí sbrst,    Rj brí r much  prcv; s cir,  sprr   hchs mds     v frmlmt  lt  sir igl,  mpzr  cr. En Rs Díz  Arr Ms  stá fur   glidd   s ccins incump  spsión   Tribl Cnscinl crtó trs  crción sbrst l Prmt  Ctluñ. Su tsis s   Gbir pu  cr tr  Grlitt  prbr prds vincuds l rfréndum,  jmp. Pr Rs Díz, Rj s  bi.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1393530765_787196_1393532294";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+El PSOE,   prt, s ttlmt trri   lt. A  mn públicmt    h dich  múlps vrscins rrvds Alfrd Pérz Rublcb  Rj. A, h grd trr  s psición l PSC, p    scilists ctns lvbn   prgrm ctrl  rch  cidir. Rublcb  s diputds vtrán tr  lt cd  pnt   Cngrs,  sir  b buscr  slid “l r prbm  tdit   grn tsión  xist tr Ctluñ   rst  Espñ”, gún xplicó r  tvz scilist, Sr Rdríguz,   trib.
+L slid, gún  PSOE, s  rfrm scinl   lín prbd   prd   frci plíc  vimbr, vnznd hci  m frl. El instrumt rí crr  bcsión prmtri,    cmprcrín xprts  rprstnts  cds pr nlizr  rrrs  fcint l Estd  psibs rfrms. Pr  PP rchzó r st psibilidd.
+A,   scilists  quir rmpr  difícil quilibri  hn grd   PSC, hn tmd  cisión   vtr ng rslución  sd prvimt. “Vtrms  l rfréndum  uttrnción,   stms dispusts   s trign   tr vz mcins  prpusts,  stms dispusts  prcipr   jug  cumur s, pr lvr  Ctluñ  grvi ”, xplicó Rdríguz.
+En  tr d, CiU  h prd  pdir diág pr buscr  slid   trs dís  bt. Tmbién  prccr,  Jp Sánchz Llibr, núr ds l grup, cid  s dts pr  ngcición   inficd  s psicins  sbrsts, h sid vist ritrdmt  mds chrs   hcic  difrts mbrs l Gbir. Ar,  Sr Sénz  Sntmrí, nts  mpzr  p. CiU, ICV, ERC, Aur  BNG,  prd, pntrn prpusts  rslución sbr  rch  cidir,  uttrnción  s lts sbrsts,  disnt v  intsidd. Tds furn rchzds.

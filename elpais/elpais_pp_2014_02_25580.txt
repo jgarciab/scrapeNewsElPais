@@ -1,0 +1,89 @@
+Empiz  nuv tp, trás d  mp smbrí l risg  rsct  cps   ici    sprnz    h lugr pr uds  s mprss  rduccins  impusts. E s  msj   prt l Gbir rí nzr  mrts   trib   rrn l bt sbr  std   nción. Mri Rj cr lgd  mmt  s bus cis  d  cbd  crisis.
+En  cudr   gisr,  diputds   dn rspld prmtri bndnrn  img cmpgid  hc  ñ, cd  discurs r ún    scrificis,  rcrts   risg  intrvción   dicrn crrds vcins. Csi 30 intrrupcins  puss  hr  di  discurs    prcmó simbólicmt: “Hms cruzd  Cb  Hrs”. Su rm pr dr  grí  sstr  psm furn  dts mcrócs , gún dij, mustrn  rcuprción   fin   crisis. Es  di pr ncir dids psivs,  prir vz s  lgó   Mnc,  frm   ún incrt rfrm fiscl   dids  stímu   trtción. Pr  mmt,  trt   “ trbjdrs  gnn ms  12.000 urs l ñ  pgrán  Impust sbr  Rt  s Prsns Físics". Pr   prt   trib   Gbir durnt td  dí furn cpcs  stbcr  cuánts prsns fctrá,   stán xts   gnn 11.162 urs nus. Td   rfrm fiscl stá ún pc trbjd   h nd crtd, slv  sttción   trrá  vigr  2015,  vísprs  s ccins utnócs, cips  grs   ncirá nts  s urps  m.
+
+Al  str mdur  rfrm,  h stnci  s pbrs  si   rducción  impusts rvrrá  bid   h prducid durnt  mndt  l mrg   prgrm ctrl, tl    cmpró  ntrirs bts.
+Much  crt fu  nci   drásc rbj  s czcins scis, hst  trif pn  100 urs l s, pr  crción  nuv mp fij. El nci v   lín  s pcins   mprsris,   dicins  litn  lcnc,   prmnci l pust  trbj.
+“Espñ, crc l bism“, rzb  tí   priódic urp  hc  ñ  Rj ó   discurs icil,    h vitd  rsct. “H ms prds  hc  ñ”, xplicó  prt pr sstr  fin   tp ngr   principi  s rcuprción. Sgún  intrvción,  principl cv s hbr slvd  Espñ   intrvción  s imt  ficci,  xplicó  “hbms  rltds”.
+Pr  nd  mpñr  fist, Rj rilló  prbms. S quitó  cim  murt  15 ingrnts  Cut, pr   párrf rfrir  s gsns nt  Uón Eurp pr “rgur  flujs grtris”  mción xprs   flcids;  crrupción  slvtó ritrnd tds s dids  rfrm gl   nció hc  ñ   ún  stán prbds   rfrm l brt   mcinó. El psd indit   gsón  pultó   silci   s dids gérics pr  fur,  s rí bus cis.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1393356844_748721_1393357277";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Pr  clipsr  triflism hiz cs s  s ritrds rfrcis  Alfrd Pérz Rublcb   rcrts  librts   pción  rrd   rfrm    l brt. Ni  mstó  fr  ntprct  tnt divi   prd  tnt distr   msj  rcuprción.
+El lír scilist hiz réplics mu durs    s jrs bts  lír   psición,  sté nt  prdj   pud r  úlm  tl. Prtrchd s  lgs ts inttó bjr  blón l   hbr  “s dicins  vid”, trs rrncr   sigficv prgt dirigid l prt: “¿En  pís viv ustd?”.
+Rprchó  Rj   grr   prim  risg  t “ vid   spñs”   crt  dts   rcrts  uds,  prstcins,  pnci,  sdd   ducción.
+Ritrdmt,  lír   psición  rfirió  s sigulds , gún , h grd  Gbir. “L ptsis   siguldd”, dij pr fir  gsón,   discurs mu iógic    guró  “ PP crí   trbjdrs tín muchs rchs, s mujrs much librtd   spñs much iguldd  hn id   . L crisis s  crtd   rch pr hcr   simpr hn rid hcr”.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1393356844_748721_1393357346";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Su tsis s   s Rj, si Mri Drghi (prt l Bnc Ctrl Eurp)   cmbi  pririds   UE   h tríd  rcuprción  td Eurp, incluid Espñ p  s cis quivcds l prt l Gbir.
+“Su plíc s cru”,  dij Rublcb  Rj. “N h vist   prt  tg tnt frit bj   sté tn pgd   sm”,  rmchó, pr ñdir  “ hrci s    35 ñs  mcrci,   sdd   ducción públic   sistm  ps”.
+El lír scilist pus  cusón  did  rducir czcins ncid  Rj,  h 300.000 trts fijs ms  “ v pr nd   100 urs  cmpsn hbid tl cndd  trts prcris pr gir”.
+L hbló l cs Gürt   dij  "cd mn lgn s  Audici Ncinl cis  mustrn  ustd s nó  st cámr”, pr cluir  “ h finncid iglmt durnt 20 ñs”. Pr  prt ró pr tr d  udió trr   trp,  si  crrupción  fct   prd   prcs judicil   Audici Ncinl   xisr   hubir brrd  jr   prim  risg.
+En  discurs sbr s sigulds,  lír scilist dicó grn prt   mp tmbién  s librts, rcrtds gún dij   brt,    guridd ciuddn  ccins    Cut. “¿Pr  hc st? Ls imágs  Cut  sn fdibs”, guró Rublcb.
+Pr Rj  tstó   vut  s mps  lír   psición l Gbir  Jsé Luis Rdríguz Zptr    xist  hst   lmd “ Crcur”   úlm décd l sig psd.
+El rm  Rj vlvió  r  psd  Rublcb   s  rspndió   murts  Cut  Mil cd gbrnb  PSOE , sbr td,   dts mcrócs  tncs. L hrci rcibid  sirv  burr ds ñs  di spués: “Su discurs pclípc   crrspn   rlidd. Usts jrn hdids s bs    tr 2008  2009. Y  mr g   rchs scis s qui gr mp”.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1393356844_748721_1393357396";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+S Ctluñ  s circstncis furn cptds  Rj   pt ngr ntr  s discurs triflist. El prt l Gbir mnv  discurs tnt tr  lt  prmuv Arr Ms. “Est  curd   diág,    s gbirn s     prt l Gbir  pu cptr   v  rfréndum itrl”, guró   intrvción icil  n  dur rspust l tvz  CiU, Jp Ant Durn Lid. “S  pus sbr  s  trt  dhsión   pud cptr  ng mnr”, rspndió  Durn. El tvz  CiU fdió  ncsidd  brir  prcs  diág tr L Mnc   Grlitt,  “ inpnsm ctlán  limt  s trpzs   Gbir”. El rltd vlvió  r  diág  srds   slid,   b trs  mntg sbr  s  vctri   lt  vimbr. N rspndió Rj   prpust  Rublcb pr crr  bcsión  sdi  prbms l m trritril ,   cs, nlic psibs rfrms scins.
+El úlm trm l bt h d  strmbt l md tn gri   Rj h tstd  vris tvcs. A Jn Cscubi (ICV)  h spchd   "pás ustd bi"   Rs Díz (UPD) h vut  mstrr Rj hst  pt  irrit  diputd. Y s  h mpzd tdid  m l prt,  td h trnd   ás intrcmbi,   sprci l prt   clificvs  Díz hci : "Es ustd sbrbi  prptt".

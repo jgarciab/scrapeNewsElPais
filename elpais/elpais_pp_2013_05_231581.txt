@@ -1,0 +1,28 @@
+El PP chcó   “rrr” burcrác  rgistr   tbilidd  pgs  mn 594.000 urs l xprt  Cj Mdrid Migu Bs. Ess ingrss  hbrí prcibid tr 1999  2006, cd stb l frt   dd, gún publicó  diri digitl Inflibr.
+ “En  tbilidd l Prd Ppur úcmt figur  pg  Bs   trbj  srí prfl   ñ 1994   imt crc  9.000 urs”, guró  dircción ncinl   ppurs   ccd. E ñ, gún  PP,  cró  pt tb núr 410069, dn  rspnsbs  s cuts furn tnd slds  disnts crdrs  tds s s l PP.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1369305465_179542_1369318077";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+El prd pus  jmp  xplicó   2005  prd bj  núr inclu fcrs   prcur l PP  Vlci;  pt l prd  Smnc   lquir    cl   cipi  Vigudi; trs crdrs  Sgvi  Vizc;   Áv   prvdr  gu (Srvirrinr);  prcur crdr l Grup Ppur  Argón   mprs AFIM pr  PP  Murci. El ttl  ss pgs mó  ñ 70.942 urs,  sms   tn  Migu Bs.
+En  infrmción rd l Tribl  Cuts, firm  dircción ncinl, figurn tds  prvdrs  s prd , “ rrr  hn imputd  Bs,  r  prir”   list. El xprt  Cj Mdrid,  crcins  EL PAÍS, guró   spch  srt fiscl psó úcmt  fcr  1994  1,5 lns  pts (9.000 urs). Dij  s tncs  h rlizd ngún trbj pr  PP  h psd  fcrs.
+ 

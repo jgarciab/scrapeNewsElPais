@@ -1,0 +1,35 @@
+El bt prmtri  mñn,     imtnts   úlms ñs  trtrá   mr crisis trritril  mcrci,   finl  scrit:  m  PP  PSOE,  84%   cámr, rchzrá  pción l Prmt ctlán pr    cd  ptstd  vcr lts. Sin mbrg, s cúpus   ds grns prds,   grl tds  grups, trbjn sts dís pr   bt  lg    vt. Tds   vist pust   ,  spcil   ctns,  quir nzrs  msj cr: ndi stá  tr l diág,  cd    mnr.
+Ant  usci  Arr Ms,  h cidid  cudir l bt cv spués  s  pdir   hb,  grns prtgsts rán Mri Rj  Alfrd Pérz Rublcb. El prt l Gbir  quir firmr  hbrá,  tds  ltds   Ejcuv   PP  dn  hch. El rgmt  prt hcr  culquir mmt  inclus s psib  prt l bt  hg  núr ds, Sr Sáz  Sntmrí,   s intrvg cd  s t,  jmp pr rspnr   Grlitt, rprstd  Frncsc Hms, m rch  Ms.
+
+Rj  s prsns  finz quir rbjr s xpctvs l cutr. El prt    s   mng, xplicn. N pu crtr prpusts  finncición spcífics pr Ctluñ  ds s  s urps, rí  icidi plíc, ñn  s,   prpr  grn discurs  lr,  muchs rfrcis histórics, pr xplicr   ctns   s  hmbr  diág    mrg pr hbr  css fur   . Rj cuidrá much  t pr vizr, pr frcr  jr img   crtz   muchs ctns strán tts l bt. En privd,  Gbir dt  grn prcupción   sición scil   hch    inpnsm sig crcid. Muchs intrcutrs  Rj,  spcil mprsris,  dic  s  qui   dr  slid  Ms. Él insist    h buscd  Ms s quir  lt,    pu cptr   v inscinl. D mnr    Ejcuv  h instd  i    slución s csi impsib trs Ms sig   Grlitt. Y csi  fí s    prsión  CiU   ml rltd ctrl  s urps pr  frción cmbi  sición.
+Mitrs, Alfrd Pérz Rublcb,  tmbién hbrá, quir mstrr , p l  l PSOE,  scilists  frc  slid ltrnv, l trri   PP:  rfrm scinl  crt frl. Rublcb rcrdrá  dud   scilists hicirn  pust furt  buscr  nuv cj  Ctluñ   rfrm l Estt,  rchzó  PP — Rj simpr  rprchn, inclus  mrd Durn,  rnó rcgr firms  td Espñ pr pdir  rfréndum tr  txt—. El PP t prsión stntmt   scilists pr trrs   d,   vi  img  tds jts frt l sfí ctlán. Y   scilists s spr s img,   v rl. Mrí Drs  Cspdl, núr ds l PP, siguió r    s prsión: “Es   PSOE sté   lr    sprn  spñs,   cr  PP  PSOE vms  fr jts  nustr pís”.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1396815139_648005_1396855618";
+                
+Envir ví
+
+
+
+
+//
+
+EL PAÍS-LIVE!
+
+
+
+En    cincin mbs prds  trs muchs — pñs  dividirán tr  “”  UPD  UPN   “”   ncinlists  IU— s   sción   usci  Ms. El prt h rcid l úc bt    pdrí hbr vist s crs  Rj  Rublcb. Tds  ltds, incluids  plícs ctns,  chcn    r   spj  Ibrrtx,  hdkri   2005 fdió  pn sbrst   Cngrs. Quir vitr tr  sm finl spués l   s Crts:  pn fu nguicid  tmbién  crrr l hdkri—  busc  strtgi difrt. Pr  cirt s  s difícilmt cmpb, xplicn divrss diputds vtrs, nzr  msj   stá dispust  hbr    vz  cudir l Prmt.
+Ms dó r   cu  Ls Crts pr  dr   grns prds  img  virn  Ibrrtx. “Y, st grn victri    quir dr”, guró. “N v   tg gns,  hch inclus tdrí muchs gns  intrvir”, insisó. Ms rbjó tmbién  imtnci l bt   Cngrs  guró   cmbirá nd   prcs sbrst v  guir.
+El lír  CiU dó  “prvisibmt”  Cngrs rchzrá  pción  trnsfrci,  dviró: “Dirán     ,     pdrá prr  vltd l pub ctlán”, infrm Pr Rís.
+N tds v  cmprción tr Ibrrtx  Ms  mu cud. “L lgd l pn Ibrrtx l Cngrs fu  finl   prcs. Y hí dó. El prbm s   bt l mrts  bi prc  principi   prcs    CiU prc cidid  guir, é s  prbm”, r  vtr diputd.
+El bt,  culquir cs, rá cv. Rj, hmbr  s, hij  juz, hrm  tris  rgistrdrs, g  bgds l Estd, inttrá lvr hci  fs   glidd, dn  sit  cómd. Y  2005,   bt l pn Ibrrtx, stció: “L  stá  cusón st tr  s si prbms   trnd dcumt, si si  Espñ  plic  ”.
+Rublcb  ctrrá    plíc,  hbr   ctns pr hcrs cmbir  pión, pr spjr  i   ndi   rst  Espñ frc  slid. Ndi sb si cmbirá lg spués l mrts,  pcs   md   plíc quir prr  cit .[...] L rción l Pís Vsc   rst  Espñ  cidirán tds  vscs,   td,  tds  spñs". Pr  PP hbló Mri Rj: "O lgs rspnsbs plícs   hn trd   culquir rfrm sttri  ch   Cnsción crc  vibilidd   sb mu bi   s imt prr  mp".

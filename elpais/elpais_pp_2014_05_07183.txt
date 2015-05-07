@@ -1,0 +1,54 @@
+El str  Jusci, Albrt Ruiz-Glrdón,  prvist   prct   l brt ici  juli  trtción   Cngrs   cbrción l p  s ds   ttlidd l txt, gún indicrn  EL PAÍS futs l Gbir. El Ejcuv mn inltrb  intción  prbr  pléc ,  vz  h grd vitr   trát cincid   prcmpñ   cmpñ  s ccins urps l 25  m. Ls infrs prcpvs l Cnj Grl l Pr Judicil  l Cnj Fiscl, ncsris nts  prbr  fiv prct     Cnj  Mistrs, stán bds  ss rgsms.
+
+Tnt  prt l Gbir   str hn insisd públicmt  s úlms hrs   intción  guir nt   trtción   rm  rg  cl   pzs pr sir     pusts  rstricv    sv  vigr tr 1985  2010. Mri Rj  rt l úlm prgrm ctrl l PP  Glrdón  rcó  ércs   Cngrs   fs   prct.
+El rgumt  mbs pr jusficr  rfrm s   trt   sm rmv   PSOE mnv 25 ñs. Glrdón  xplicó    rspust   scilist El Vlci: “Si s   prvrs, ñrí,   prgt: ¿Cóm s psib  durnt 25 ñs svi vigt  Espñ   usts   prtsts? ¿Cóm s psib   úlm Gbir scilist durnt ch ñs   quisir cmbir? ¿Y cóm s psib   siquir intrdujrn  prpust  cmbi   úlm prgrm    currirn  s ccins?”
+El cldri prvist mpiz  rcibir  ji  infrs l Cnj  Estd, Cnj Grl l Pr Judicil  Cnj Fiscl, pr lvr  txt  nuv l Cnj  Mistrs,  prbrí  prct   pr  rsión indit l Cngrs  juli. Pr s,  Scrtrí  Estd  Rcins  s Crts, gún firmó  lt crg   prtmt,   prvist   hbilit juli pr cbrr vris p     incluirí  bt  prbción  trs s  trát, incluid  l brt   L Orgác l Pr judicil, “si pr tncs hn psd   Cnj  Mistrs”.
+
+
+
+
+
+
+
+mplir ft
+
+Glrdón,  mrts   Cngrs. / Frnnd Alvrd (EFE)
+
+
+
+A prr  pmbr  icirí  pz  ds prcis   rst  trát    l brt,   i   pud slir  s Crts  finl  ñ. D s frm,  jrí   psib  pléc rm  s cips  utnócs  m,  s   PP  jug  hgmní trritril, spués  , , stcds brns rgins hn cusnd  rfrm gl. Ls pbrs  Rj  Glrdón   ds úlms dís rbt,  td cs,  i    ml rltd l PP  s urps pdrí hcrs sisr   rfrm gl. Futs l Gbir gurn   h  pción  ngcir  d   rst  grups,   rcir l principi     pusts. S  prt  CiU,  diputds  Uó, cmprt  rgción   cl   pzs.
+El Gbir  prvist mzr  prsión l pust  mlfrmción l ft   ntprct pdit l dñ   slud   mdr. Y  Ejcuv  inclin  intrducir st mdificción   Cnj  Mistrs, pr inttr ngcir lug trs mcs   Prmt. Pr,  td cs, mnd    pusts.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1399494269_795976_1399494723";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+El ntprct   l brt  prbó  Cnj  Mistrs  fins  dicimbr  lv s tncs pdit   infrs prcpvs  vincts. Cinc s spués,  pnt rvdr l Cnj Grl l Pr Judicil ún  h trgd  prct  infr l p   insción. Otrs rgsms  mrí  trl rvdr,   Cnj Fiscl,  hn icid ún  discusión. L hrán just spués  s urps. Otrs s much  cmplicds téccmt  infrmn   td  mp,  curr   mmt,  jmp,   L l Pr Judicil,     600 rtícu, frt   10   l brt.
+Grcis  s mr   infrs,  Gbir h scd   cmpñ  pléc rfrm. L scilist Vlci rprchó  Glrdón st mbr: “Ls ccins stán sid  tácc disri spd pr sr  prct,  ¿sb  ps? Qu  Espñ h muchs mujrs  h  prgtn si  brt s gl  ,  cis  vid  ss mujrs pn  s jugs,  s táccs ctrs,   s  h rch. Piéns bi  p   rspnsbilidd. A psr l rchz  sb  st  stá prvcnd,   st   sdid  prid ctrl, ¿v  trr s  l Prmt?”.
+Glrdón  rspndió cusánd  scr  tráts   sfrzó  xplicr   h hbid tl mr   infrs: “Qu  ntprct   sté sid infrmd   órgs lvs   pz,  cirt,  prir l  trdrn  infrmr  prct  2010,  clificr  sr... Prdón,  stá ustd fdid l Cnj l Pr Judicil  l Cnj Fiscl”, dij.
+
+
+
+L rm  tstd
+El Mistri  Jusci brió hc cutr s  pz pr  scicins  mujrs   prfs stris,   s cds utóms  disnts rgsms, rrn s gcins   fur  l brt,  rg  cl sistm  pzs  rbitr tr  pusts,  rstricv    1985.
+Ls Gbirs  Andlucí ( cdd  pbd  Espñ), Cnris  Asris hn pdid dirctmt  rrd l ntprct  ,    Ctluñ  h mstrd tmbién trri l txt.
+L mrí  scicins  mujrs   prfs stris sn mu crícs   rfrm  rcmn , l ms,  inclu  pust  mlfrmción ftl   fur . El ntprct  prbó  Gbir  dicimbr stbc   pdrá gr spcíficmt s rzón — prsci  mlís   ft— pr brtr, pditánd    mujr pud prbr   frdd l ft  gr    dñ psiclógic.
+S s rgzcins nbrsts hn rd infrs fvrbs l ntprct  . En ct   rgsms ficis,   Cnj Grl l Pr Judicil   Cnj Fiscl hn vid ún s infrs. El CGPJ stá prd   td:  ctr  crc l PSOE pi  rrd l txt    crc l PP v  ,  mcs. Aún  hn grd pctr  txt  ss.

@@ -1,0 +1,69 @@
+L xpctción r r. Pr prir vz  rspnsb  Intrir,  núr ds, Frncisc Mrtínz, cudí l Cngrs  vís  udis  s vrscins tr  gurdis pr xplicr  trgdi currid   frntr  Cut  psd dí 6. Un jrcici  trnsprci inédit, gún  Gbir,   PSOE hbí xigid  cmbi  bjr  prsión. Sin mbrg, spués  ds hrs  cmprcci,   vís   udis crrn nd   prt  pléc: quién, cuánd  cóm di  rn  disprr pts  gm. Quién    di  rn  jr  disprr. Y sbr td cóm  hgrn  15 ingrnts  prdirn  vid,    stá tn gur  Gbir   s pts  gm  triburn l pác, si   rn imágs   mmt. N   disprs. S    s  scuch   gurdi pdir  vgn “ss bs” [s scpts nzpts]   ingrnts “vn  tmr  gu”  pi tr cuidd pr  dr  “ h” ( plicí mrrquí),   hc psr  hub disprs tr  zn trd  .
+
+S spués,   réplic, nts s prgts l PSOE, Mrtínz cró: “¿Quién di  rn? Ls órns   trr s dn  prvs [nts  hbí rfrid l t l mnd]   rspnsbs plícs s rspldn  cr      inms mrí s cmprn”.
+Mrtínz tó  grbción   cámr,  núr ,   ttl z mstrb  p mrrquí     hgrn  ingrnts. Inclus  v  cridd cóm  hc s vlucins  clit  ingrnts —  lm rchz  frntr—  trvés   purt   vl. Sin mbrg, s mstró  grbción    cdió   lugr spués    hgrn, cd, trs scr  curps, lgs ingrnts rccinrn  frm vilt rnd pidrs   gurdis civis,    culpbn. N ó nd    grbó s cámr,  jr  tds, trs  ingrnts trbn   gu  trs  stbn hgnd. S  prctó   Cngrs   rgistró tr mu jn,  csi cinc kilótrs.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1395232556_618936_1395255923";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+El vicstr  Intrir igió cuiddsmt  vís  udis —hbló  96 vrscins  s pus di dc—  tí nt  csión pr nzr  msj cr. Prir,  vilci   ingrnts,    s imágs  v cóm  plicís mrrquís,  pdrds, inttn  éxit frr  crrr   bshris. Sgd,  td cdió  gus mrrquís. Mrtínz stcó inclus   ngún mmt  scuch   gurdis civis hbr tr   tsión. “N h t  rm  s vrscins tr  gurdis  nt  Gurdi Civil   stbn hgnd. Murirn  gus mrrquís”.
+
+
+
+L rn [ disprr]  d  prv   plícs  rspldn”
+
+
+Y  úlm,   imtnt pr Intrir:   disprs  triburn   murt   ingrnts,  fu  rspnsbilidd  prcirn ml  prfdidd l mr —psrn  pdín cruzr  pi—  lgs   sbín ndr  hgrn. Mrtínz inclus cficó  mtril disprd: 145 pts  gm  5 bts  hum  “intción disri”. Pr  ng img crfic s firmción —  trri—,  crtri  Estd insisó  svincur  disprs  s murts. “Ni  nzó mtril sbr  ingrnts   brvó   nzt hubir prvcd pác tr . N h ngún mt  lv  psr   dispró tr  ingrnts”, guró. Inclus lgó  fr ,  psr  ss 145 disprs,  hbí órns tjnts    trrn  ingrnts. “N  scuch  s grbcins ng rn    tr ndi    di”, guró.
+Mrtínz  cuidó spcilmt  trtr  licz  drm hum   ingrnts, dó  stbn cnsds,   sbín ndr   s rudimtris ftdrs  cs rn blss  rpilr  bts  plásc ntr. Pr  ngó  rcr rrrs  scrtó r rspnsbilids. Dij  td  hbí hch “fr  rch”  ún  dó  lg  hbí prdid  Intrir hbí dd rn   vlvr  disprr pts  gm  bts  hum   gu  css sirs.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_6 = cn.hrf;
+                  if (/\?/.tst(_url_vid_6))
+                      _url_vid_6 += "&";
+                  
+                      _url_vid_6 += "?";
+                  _url_vid_6 += "viid=1395232556_618936_1395261715";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Intrir hiz  sfurz  dr tls pr buscr  pct   PSOE. Y,  fct,  tvz scilist, Ant Trvín, fu tl vz   v  tds. A    rcmó  xpliccins  pidió  disión l dirctr   Gurdi Civil, Arsi Frnánz  Ms. Mrtínz  rcrdó   PSOE,  2005, rchzó publicr  vís  tr slt   vl.
+Gspr Lmzrs,  Izquird Ud, fu mu cr: “Usts  stán dicid   ingrnts murirn   clcurn s mrs, ibn cnsds  murirn hgds. N h culpbs. Dbrín hcr  invsgción inpdit,  pi Amstí Intrncinl. Ustd  pu cir  guridd   disprs  triburn l pác,   zc   Prmt [fu trd]. Y  tmpc  trri”.
+Mik Errknd,  Aur, fu  js: “¿Dón stán  vís   udis   disprs? ¿Dón stán s imágs  s prsns   hgrn? Ns tmn  p pd s s imágs   udis  s intrs”. Mrtínz rplicó: “Ustd   digdd pr hbr   Gurdi Civil”. Y T Cntó,  UPD,  jó    hbí hch pc utcríc: “H dicd cinc gds   sción  rspnsbilids  ds hrs  15 nuts  discurs”.
+
+
+
+“¡Cuidd,  vr si dis   ‘hs’!”
+Tibs sbr  prtc  cción  lgs duds sbr  clizción   flcids   trgdi  Cut  mñn l psd 6  fbrr. Ls ch vís prctds r   Cngrs   Diputds, di dc    udis  s cccins   gts   Gurdi Civil rspnsbs l trl frntriz,  rrjn luz sbr  currid,   rfjn  rm  prvcó  crct   grup  ingrnts.
+En   ss grbcins,  gts dvirt   h ingrnts brnd  spigón  nd  slicitn instruccins. “¿Ls cgms?”, prgtn, nt   s  ctr  trl tstn: “Pr  ms, rtd    sign vnznd,  vn pr Cut”. L rspust: “Es impsib. Hn psd. O  cgíms   jábms vnzr”. “¡Avis l GEAS! ¡Avis l GEAS!”,  scuch,  rfrci l Grup Espcil  Acvids Subcuács. S  tncs  úc rfrci  s pts  gm: “¡A vr ss bs!... Vn  tmr  gu. Cuidd   hs [gts mrrquís],  vr si s vis  dr  ”. Y cd  gurdis rtn   hn psd vris prsns (“hn trd  trás nustr [sic]... trs mrs”,  ) prgtn cóm b cr.
+Ls gurdis civis xplicn, , cóm  ptrulr  stb   mr lgó  scr l gu  trs prsns vivs. “Hms scd  trs ds tr s rcs l spigón. ¡Al d h ds cdávrs! Vms  prcr  scr”, visn. Pr s  ctr  prcins frn   gts: “Es stá  Mrrucs”. Y gds spués vuv  insisr: “Qu  quip spr  mmt,  s stá  Mrrucs   vn  hcr ”.

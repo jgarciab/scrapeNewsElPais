@@ -1,0 +1,32 @@
+El prt l Gbir, Mri Rj, h ncipd   rá  grn lín rgumtl   discurs   bt sbr  std   nción   próxim mn:  crción  mp. En  úlm sión  trl l Gbir   Cngrs nts  s cit prmtri, Rj h rspndid  s crícs   psición gurnd   crción  mp s " jr grntí tr  siguldd".
+
+"Trs is ñs  strucción  mp,  ñ psd  crrn 400.000 pusts  trbj", h gurd  prt l Gbir, mnd s cifr   bjd  impusts prbd    rducción   infción.
+Pr  psición,  bstnt, ss cis hn prvcd siguldd tr  ,  rzón   génr  discrin  s mujrs,   brch sril    usci  iguldd  ds. A   hn dich  lírs  UPD, Rs Díz,  l PSOE, Pdr Sánchz,  tmbién nciprn  dón irán s intrvcins  próxim mn   bnc  gisr. L pbr siguldd fu  ctr   sión  rá  l úlm bt   p  st gisr.
+Díz nzó durs cuscins  Rj,  xprs  "¿cóm pu ustd drr trnqui?", " ulic   núrs   pbrrí huc  scrtés pr tpr  rlidd", "¿  d vrgüz  s mujrs tgn  trbjr 79 dís    hmbrs pr tr s sms dicins sris?", "ustd crc  mptí    fr   prst tción l frit   "  " hg  dñ   spñs".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1424246393_684418_1424250077";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+L tvz  UPD h dd s cifrs  siguldd, includ      pr cltr s vivids,  Rj  h tstd   bnc  s prbds, incluids s  ducción,  gurnd   st gisr  hn bjd  índics  siguldd. El prt  h trd  rbr s durs cuscins.
+Lug  scilist Sánchz  h ctrd   siguldd sril tr hmbrs  mujrs pr gurr  h crcid   psividd l Gbir,  Rj  h rspndid    hiz  Ejcuv  Jsé Luis Rdríguz Zptr.
+"Ustd gis  mtlidd  hc 30 ñs  tr s mujrs spñs", h gurd Sánchz nts  rfrir  162.000 pusts  trbj struids  mujrs,  rcrts  rvicis scis,  pnci,  70.000 mujrs ms trbjnd    24% ms  sri   hmbrs. Rj  h rspndid  " mr umt  siguldd s   prvc  pr"  "crr mp s  jr ntídt tr  siguldd".
+Al scilist  h chd  cr   hiz Zptr  h xplicd  s  Gbir   pctn  sris, si  s  crn dicins   crción  mp   bjd  impusts.

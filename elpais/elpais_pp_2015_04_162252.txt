@@ -1,0 +1,76 @@
+El str  Jusci, Rf Ctlá, sir   rgistr   dcili l xvicprt l Gbir Rdrig Rt   mrc   invsgción   Agci Tributri mustr    s "igul pr tds". En crcins   psil l Cngrs, Ctlá h gurd  tr  infrmción   td   dis  ccción   cr  st cción s  prub    Estd  rch fcin    jucs  fiscs invsgn. En  sm sd,  crtri  Estd  Rcins  s Crts, Jsé Luis Allón, h insisd    Ejcuv s "impcb"  "imprcil"   luch tr  fru  ,   tnt, " cusón  s quién, si ". Sgún h bdd,  c nt "culquir ilícit"  "indici  incumplit   rm"  s s     "trnquilizr"   .
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1429201822_629530_1429205860";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+"Es  sttción    sistm fcin,  jucs  fiscs invsgn   fcint l sistm  rch   s inscins   grntí     s igul pr tds", h firmd. Fcinris   Agci Tributri stán rgistrnd  dcili mdriñ l xstr  E  xprt  Bnki, Rdrig Rt,  pción l juzgd  instrucción núr 35  Mdrid   ríz   nci intrpust h   Fisclí. Futs judicis hn firmd  Ef   rn  rgistr s "tr Rt  trs". L rn  rgistr  prduc spués   prr   invsgción  Rt   prst b  cpits trs cgr   mstí fiscl prbd   Gbir  2012.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1429201822_629530_1429205901";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+El crtri grl l PSOE, Pdr Sánchz, h pdid h  disión l str  Hcid, Cristóbl Mntr,    crción   csión  invsgción sbr  cs Rt, trs cr  "scánd"     juici pn  rgistr   vivid l xvicprt.
+Ants  dirigir   rión   grupción scilist  Rus (Trrgn), Sánchz h gurd    prt l Gbir, Mri Rj,   dr xpliccins sbr  st. "Mntr b dir   grup prmtri l PP   prr   br  csión  invsgción sbr  mstí fiscl   PP prbó,   scilists ncims   h prd   cjn prsns  Bárcs  Rt", h brd Sánchz.
+
+
+
+Pus nd, Rdrig Rt d   plicí. Pr  lug dign    Bárcs r  xcpción ppr. Y   flt.
+— Albrt Grzón (@grzn) bril 16, 2015
+
+
+El lír l PSOE cr  "  b r s rspnsbilidd  prir prsn s Mntr,  h sid  xct pupi  Rt   rcind  s mstís fiscs". Asism, Sánchz    "Gbir  pu dr ng cción   luch tr  fru fiscl",  " mstís fiscs, tds", h brd Sánchz,  cr   Ejcuv " s jmpr".
+Jsé B, xstr l PSOE  xprt l Cngrs,  h crd "srprdid"   tción. "M srpr much,   srpr  Espñ tr", h dich. "L  Rt h rltd   cism xtrrdinri. Algui  h sid prt l Fnd Mntri Intrncinl  vicprt óc l Gbir, tr trs css, s mu srprnt   cutr  st sición; s tnt  si   bisp  scubrir  s  prpitri   burl".
+
+
+
+L prsión ciuddn hc fcinr  mcrci. A cb  rtífic l m  s lvó   ruin: Rdrig Rt d.
+— Pb Igsis (@Pb_Igsis_) bril 16, 2015
+
+
+El tvz  IU   Cngrs, Jsé Luis Ct, cr   Gbir " pu sr "  b r  str  Hcid, Cristóbl Mntr,   cmprzc nt  Cámr Bj pr xplicr  "scánd"   mstí fiscl     hbrí cgid  xvicprt Rdrig Rt. En crcins   psil l Cngrs, Ct cmtb   ci l rgistr   dcili  Rt  crg  fcinris   Agci Tributri,  ríz   prr   invsgción   prst b  cpits.
+L tvz  UPD   Cngrs, Rs Díz, h xigid    prt l Gbir, Mri Rj, qui cmprzc   prmtri pr infrmr sbr  invsgción birt  prst b  cpits tr  xvicprt Rdrig Rt, cu dcili  Mdrid h sid rgistrd  juvs  inspctrs   Agci Tributri. "Est s  cd  br  bt l gi:  vz  quit  crch s td   h qui  vuv  tr", h nud Díz,  cr    fur  crá "muchs  css" rcinds  "crrupts, crrupts  prtctrs  crrupts".
+
+
+
+N s  Rt  qui scn d, si  td  m óc pd   crrupción. En m czn  ir.
+— Íñig Errjón (@irrjn) bril 16, 2015
+
+
+El crtri  Plíc  Pms, Íñig Errjón, h dich h   xvicprt Rdrig Rt  cgió   mstí fiscl    tributó s  3%, s cir,  pgó "ms" impusts   ciudd "  brr  pn",   pn, h pind,  hch "xtrrdinrimt grv". Errjón h cricd   figur  Rt, cd fu str  E  vicprt l Gbir,  mstrr  "prdigm"  "grn gstr"   m óc  prpus  PP "durnt much mp"   , prdójicmt,  Plicí sté rgistrnd  dcili   pust b  cpits.

@@ -1,0 +1,36 @@
+El Gbir sir   divulgción  vris msjs  txt tfócs tr Mri Rj  Luis Bárcs rspn   strtgi l xtsrr l PP pr svir  tción  s prbms   jusci  mustrn   siguió nd    pdí l prt l Gbir. Futs l Gbir ltds  Ef hn intrprtd  st frm  publicción   diri El Md,   ri  msjs  pusts diágs stss  Bárcs   sps, Rslí Igsis,  Rj  difrts fchs   úlms ñs. Ndi,    Gbir    PP, h smd h  vrcidd   SMS.   
+El viccrtri  Orgzción l prd, Cr Fri, h firmd st mñn  l prd  "prcup cr"  cs Bárcs. Pc nts,  lír   scilists, Alfrd Pérz Rublcb, hbí ncid  rupr   ppurs  xigid  disión l prt.
+Futs  L Mnc brn  divulgr  ss msjs hc ptt  xistci   cr strtgi pr , nt s prbms   Jusci  s xpliccins    dr sbr  48 lns  urs  tí  Suiz,  hb  trs sts.  En s lín,  Gbir xprs  srprs   hch   Bárcs h gurdd msjs  txt   p durnt vris ñs,   cr  crfic  hbí  strtgi prfid pr usr nt s prbms judicis.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1373795957_304178_1373808862";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Insist s futs ltds    cr  ss msjs s lv   clusión: N h guid nd    slicitb l prt l Gbir. Asism, brn   hch    xtsrr l PP sté  prisión s  cr mstrción    h d ngún p  prtcción  prt l Gbir. Entr  msjs publicds h, Rj rspn pustmt  trs vids  Bárcs   sps, s pi trnquilidd  firm: "hcms   ".
+Rj pdrá xprsr mñn  públic  pión nt sts msjs   rud  prs  frcrá   Pci   Mnc jt l prir str pc, Dnld Tusk, l tér   IX cumbr bitrl.
+Srá   rnd  prgts cd  pridists pdrán pdir l jf l Gbir  pión sbr ss msjs  sbr trs cuscins  Bárcs  tr l pust cbr  sbrds igs   finncición igl l PP.
+L úlm vz  Rj hbló públicmt sbr  cs Bárcs fu  psd 3  juli,  Brlín, cd dij   rí hcr cmtris sbr  st  sbr trs,   cs   ERE  Andlucí, pr  dicinr s cis judicis. "Cr   s bu  prtdms dicinr, hbr  cmtr sbr tms    lvr  tribs     tds bms rspt", ñló tncs Rj.
+
+Est mn,   ct   pnt  Grl Mtrs  Figurus (Zrgz)  mv l nci   fbricción  sts instcins   nuv m  vhícu, Rj hiz  frm géric  rfxión   rcinó   cs l xtsrr l PP.
+Rj stcó  lirzg  Espñ   ctr  utmóvil  bró ,  vz  cd, h  hbr  "s css  sn imtnts",   nci   fbricción   nuv vhícu, frt   tnci  "tr s css   sn s jrs".
+Tmbién st mn,  grup ppur h rchzd   Diputción Prmnt l Cngrs  pción   psición   Rj cmprcir   Cámr pr dr cut  s cuscins  Bárcs tr   tr  PP.
+L vicprt l Gbir, Sr Sáz  Sntmrí,   frci  prs pstrir   rión l Cnj  Mistrs l virns jusficó  rchz rclcnd  Rj lv s r "dnd xpliccins" sbr infrmcins  " vuv  rprducir  s prpis térs".
+El viccrtri  Orgzción l  prd vlvió  rpr  rgumts   úlms dís   cmprcci trs cr  difusión   SMS. Fri h firmd   tm l xtsrr prcup "cr"   prd  cusó l lír   psición  "vci"    fur durnt   20 ñs grt  tsrr l PP.

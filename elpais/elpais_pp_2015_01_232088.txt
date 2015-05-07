@@ -1,0 +1,32 @@
+L psición h frzd  bt   Cngrs sbr Gürt,  scrit  cusción l fiscl   cj B l PP. Srá  mrts   Diputción Prmnt  dn  brá  vtrá  pción  PSOE, Izquird Plurl  Grup Mixt pr  cmprzc  prt l Gbir, Mri Rj. Quir  xpli s “ccins  rspnsbilids”  rción   finncición igl   prd, “  vist l d  úlm scrit  cusción   Fisclí Ancrrupción   cs Gürt n    crdit  xistci   cj b  pr   cut  si  h tmd lg did.
+
+El cs Bárcs vlvrá  prguir l PP   r  ctr   gd plíc   Cngrs  vísprs   Rj v  bt sbr  std   nción,  úlm   gisr, prvisibmt pr  s  fbrr. Y crc   csión  ccins prvists pr td  ñ prmtri.
+Futs l Grup Ppur xplicn , slv cmbi  prvist,  mrí bslut brá  iciv   psición. El 1  gst  2013, Rj grnzó   Cngrs    PP  hbí cj b  st firmción, gún  psición, h dd  smd   fiscl  hst   bgd l Estd  p l str  Jusci ,  tnt, l prt l Gbir.
+Ls ppurs hn ptd   silci -Rj  litó  prncir  “bus trs”   vción l PP-   tmr distnci   xtsrr  crgr tr , tribuénd  xclusiv  utrí  s ducts scrits   juz instructr,  fiscl   bgd l Estd.
+El tvz l PP   Cngrs, Rf Hrnnd, cusó  Bárcs  mr ritrdmt  guró    intrs   pud cir  xtsrr   prd. A  prgt sbr s cuscins tr Rj, Hrnnd rspndió gráficmt: “Qu dig s".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1422040358_352961_1422041167";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+“Est  lv dicid s hc much mp,  sé   usts  hc cs   ñr  h md  td  md”, dij   vción ncinl l PP. Much  cr  gráfic fu  vicprt l Cngrs  diputd l PP, Ci Vilbs, qui pidió  Bárcs  “ j  chr rd    cd  rd   ”.
+L psición crgó tr Rj  sirr  s  rspnsb máxim. El crtri  Plíc Frl l PSOE, Ant Prds, siró  virns   prt l Gbir “h vid  dd lit   lincut”. Pr  prt,  crdindr frl  IU, C Lr, xigió  Rj  dé xpliccins indits   Cngrs   rcmó  dit si sts xpliccins  sn vincts. “Es  vrgüz   bur    pís   s    h did ndi   Gbir”, dij Lr.
+El urdiputd  Pms Pb Echi dij  Bárcs s “   mb  fgrnts   crrupción sistéc  s gbirn”.

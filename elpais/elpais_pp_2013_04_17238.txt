@@ -1,0 +1,36 @@
+Hst   tribs  dign  úlm pbr,  frm  stci,  PP rspn sbr  cs Bárcs   t l PSOE. “Aquí  úc prd   Histri  Espñ nd  finncición igl h sid  PSOE   ñs 1998  1999”. Est rspust l str  Jusci, Albrt Ruiz-Glrdón, l diputd scilist Gbri Echávrri,  just   vrdd jurídic  judicil. Entr tnt,  sit  ncsidd  rspnr  infrmcins  sttcins sbr  finncición   prd   h rrid  diputd scilist. Nd h rspndid l str sbr  prácc  Bárcs, publicd  EL PAÍS;  trcr s dncins pr  sltr  tps gs. El rcrdtri  Echávrri   hub  cs Nir,  prst finncición irrgur l PP,  rchivd  fcts  frm,  h inmutd l str: “Usts quir hcr   cs Bárcs   hicirn   cs Nir ,  trd, sclificr l juz  lv l cs”. En s csión  cl str  Jusci, Albrt Ruiz Glrdón, fu crgd  Alinz Ppur,  tncs mbr l PP, pr hcr  infr intr sbr s cuts l prd  cbó   dictm  Glrdón   td stb  rn.
+
+“Simpr  h  prbm  lgún tsrr l PP stá ustd  di”,  h sptd  diputd scilist pr rcrdr lg vincución flir  tnt jn  lgui   stri   xtsrr Álvr Lpurt,   h vntd  sr murmul   bncd ppur. Pr  str   h inmutd. Aquí  úcs nds  finncición irrgur sn  scilists, h rcrdd: “M tr ustd sts  hc 20 ñs  rslvirn  tribs  Jusci. Y d  ustd inv sts sts  ustd frm prt l úc prd  h sid nd  finncición igl  Espñ”.
+L prgt  rlidd  rfrí   ncsidd    juzgds tgn  dis pr invsgr  crrupción,  hn mndd  jucs cs. L stán hcid,  stá incrmtd, h rspndid  str. Pr td s inficit, h ñd  diputd scilist, simpr  Bárcs  p  s pcins. “Sñr str si  pr ustd st sición   ud   jucs tr  crrupción st mcrci jrá  r pr vrr   cptcrci”, h brd.
+Pr tr prt,  lcl  Svil, J Ant Zid, h dd   cs Bárcs stá sgstnd l PP. "El prt l prd   crtri grl sn  prirs intrsds  crr   Bárcs  tmr dids dráscs", h psld   trvist   cn SER.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1366186000_463711_1366190550";
+                
+Envir ví
+
+
+
+
+//
+
+VÍDEO: EL PAÍS-LIVE
+
+
+
+
+
+
+Rs Díz:“¿D  hbló  Ms  Urkullu? Es s  intrés grl”
+Durnt  intrvción   sión  trl, Rs Díz (UPD) h hch  rps   frm  gbrnr  Mri Rj. “Ct  hbn usts  trnsprci,  pcidd h”, h rprchd Díz l prt. Est h sid  prgt:
+"Sñr prt l Gbir, ct  hbn usts  trnsprci,  pcidd h   frm  gbrnr; cmprc ustd s cd  bligción gl  hcr, cd   d tr rdi; gbirn  crt   vt, ustd   grup, tds s pcins  cmprcci  ustd   strs  hc tds  grups prmtris; s tst   prs cd  hc fur  Espñ  cd stá  Espñ,  rid  lgún lír xtrnjr; mn rins crts  distr  istr, s ngcir   Crn sts  intrés grl hst rins  Arr Ms, Iñig Urkullu   mgnt bbst rtric   industri l cin,  cd s rins sn públics, cids nts    cbr,   úlm visit  ustd hiz l Pp, s dic   d   vrsción s privd, s crt,   s  vn  tr. Alg , slv   crt  fsión, tmpc sig tr. Díg, ustd cr, prt,  st frm  gbrnr   p si   cmpr   stándrs mcrács   trnsprci   gbirs urps?"
+Rj h rspndid ludid  s bnds     trnsprci  stá trtnd  Cngrs, “  vnzd  td Eurp”. El prt h rcid  h mnd cutrs   rspnsbs utnócs,   h dich cuás sn  tms  trtrn. "Si lgui quir tr  rión discrt g,  tg. L discrción   ssig,  vcs, sn bus jrs   tnt  xhibicism   tridd", h rplicd Rj, qui h crd   plíc fiscl  trn   Cnj  Plíc Fiscl”.

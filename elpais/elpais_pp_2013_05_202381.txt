@@ -1,0 +1,29 @@
+El diputd l PP Eugi Nsrr crficó  s nt  juz Pb Ruz  pgs  70.000 urs  figurn  mbr   fdción    r ptr   pps  Bárcs,  tbilidd crt l PP  stpó EL PAÍS  psd 31  r. Nsrr brió  rnd  intrrgtris     mgistrd   Audici Ncinl v  str   plícs   frmción rvdr  hn dd lgs   pgs rcgids  Luis Bárcs   tbilidd pr. Nsrr cró  prir hr   tr      Audici Ncinl. Trs tmr tsm durnt  hr,  juz Ruz  trsdó l Sd pr intrrgr l prt   Cámr lt, Pí Grcí-Escur,  dó hbr rcibid  préstm  24.000 urs l PP   ñ 2000  sbrds  4.200 urs l s tr 1999  2003,  ngó  ds pts   tbilidd  Bárcs sbr .
+Nsrr  rció   crción nt Ruz hbr rcibid  tálic  pgs  30.000 urs  40.000 urs pr  Fdción Humsm  Dmcrci,    r ptr,  figurn   pps  Bárcs. L prir cndd,  cbr  2003,  rcibió   prsn   sbr   spch l tncs tsrr, Álvr Lpurt,   prsci l grt l PP, Luis Bárcs, gún futs judicis. L gd cndd, gún rció Nsrr,  fu trgd  Jsé Rmón Pin, xcjl l PP  Mdrid  tmbién ptr   fdción. Sgún trds prs   intrrgtri, Nsrr dó   dinr  cbró  tálic   ingrsó   cj furt   fdción hcid figurr   tbilidd   sm  “dnv nóm”.
+En  cs  Grcí-Escur,  rció  préstm   hiz  PP pr rprr  dcili spués    frir grvs dñs   cch-bmb  ETA  s indicins. En  pps  Bárcs st  trg  6.000 urs  dicimbr  2001  cpt  “vlución l ncip Attd”. Trs  publicción   tbilidd pr l xtsrr ppur, Grcí-Escur xplicó  EL PAÍS   prd  cdió  crédit,  cifró tncs  30.000 urs. Est s, Grcí-Escur rbjó  cndd  24.000 urs  dij   furn trgds “ intrs   fch  vlución”, gún futs judicis.
+En  tbilidd mnuscrit  Bárcs stn ds pts rfrids  Grcí-Escur  6.000 urs cd . El prir s  dicimbr  2001, sbr  ncip   ttd,   gd  juli  2003,   pust “15ª pg”. En  crción nt  juz, ngó tjntmt tr lg  vr  ss tcins.
+En s crcins tmbién slirn  rucir  sbrds  prcibín  lts mnds ppurs l mrg   crg públic. Sgún futs cdrs l intrrgtri   cbró   Sd, Grcí-Escur rció  tr 1999  2003 prcibió,    d  sdr, 700.000 pts (4.200 urs) ms l prd. Est dinr,   bnb  14 pgs nus,  dividí  ds b. El prir,  s 550.000 pts (3.300 urs),   bnb  grup prmtri l PP   Cámr lt  signción  crdindr  rgzción ctrl. El gd,  150.000 pts (900 urs), crrí  crg  Gév 13 ( ctrl l PP)  “gsts  rprstción”. Tnt  grup   prd tín  sm códig  inficción fiscl.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1369057781_329820_1369074702";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Tnt Grcí-Escur  Nsrr,  cbrb tncs 1.800 urs ms  sbrd  crtri  sdis  prgrms l prd, ñrn  hbín ngcid ss pgs   crtri grl l PP, Jvir Ars. Nsrr firmó   xistci  “pgs cmpmtris  rspnsbilidd intrn r  prcdit “stndrizd”  “grlizd”. Grcí-Escur rció  sbrd,  mzó    stb si trs mbrs   prd hn prcibid  p  mlumts.

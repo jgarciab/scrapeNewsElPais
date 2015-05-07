@@ -1,0 +1,33 @@
+Mri Rj prbó  d l ntprct   l brt   mmt    bí icir  trtción,  h cidid jr   str  Jusci, Albrt Ruiz-Glrdón,  br  fr públicmt. Tmbién  j  sgst  pn.
+A  hiz  ércs   Cngrs,   discurs cilidr    ó  psibilidd  cmbir “pts  dud trvrds”,  scrt rrr  prct. Mitrs,  str, fi   s  hcr plíc,  nzó  fr  vhmci  txt.
+
+Pr jmp, Glrdón mpzó   diputds   izquird  fr l  ncid  fdí   scvs, s lmó “individulists  gísts”  jó   ir  dur prsción l gurr  t   PSOE lgu  gisr tr   ncids.
+“En  sig XXI  izquird,     rfir l brt, tdrá  cut   pntt históric h sid simpr fr    débis,  c   ft. En  psd, cd hbí flict tr trbjdr  mprsri,  fdí l trbjdr; cd r  xptd frt l xptdr,  fdí l xptd; cd r  scv frt l duñ,  fdí l scv”, dij. Tmbién firmó  “  tr  psr prfdmt gíst sistt   s vl s rchs,  si ustd ‘ s  ’  jrc frt   cbid   ncid, ¿quién  dic  spués  tr gisción   v  inttr jrcr frt   prsn  fcvmt h ncid?”, rmchó. El str fdió  txt   sm vhmci    l principi   gisr clificó   Cngrs  inscinl  cción prmtri l Cnj Grl l Pr Judicil pr trnr cptánd  pctnd  rvción  s Crts  idénc sism.
+El Gbir   PP dn  tr    Cnj  Mistrs    trát prmtri rtcrán  txt,   ngún cs tmpn  psibilidd  rcir l cmbi gl   mntr  pzs prbds  2010   vt  sit prds. Tds  grups, slv  PP  is diputds  Uó, rchzn   s  cl   pzs    pusts    1985 ,  tnt,  cptrán  rfrm   rtn pts crts,   rfrids   mlfrmción l ft. Ls cutr mbrs l Gbir  rspndirn  ércs invcrn  prgrm l PP   stci l Tribl Cnscinl,   hn sprd   prncit sbr  cl . Pr s Rj,  gtr siquir  mp, guró: “Estms dispusts  hbr   scuchr  td  md. H  ntprct  stá  f  trtción   órgs lvs  stms dispusts  hbr   psición pr vitr   rmp itrlmt  ss  durb s 1985”.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1390416078_800577_1390416601";
+                
+Envir ví
+
+
+
+
+//
+
+ELPAÍS-LIVE!
+
+
+
+Tmpc  vicprt, Sr Sénz  Sntmrí,  mjó   fs l ntprct,   prbó   Cnj  Mistrs bj  prci. S litó  rrtr tr  PSOE   rsptr pins disnts   xigir  cmprccis   pidirn  2010.
+El Gbir  frtó   p   fsiv   psición tr  ntprct. Trs diputds scilists,   IU  tr l BNG prgtrn l prt,   vicprt    strs  Jusci  Sdd, Glrdón  An Mt, rspcvmt.
+El ntprct s “invlucist”  rtrtr  mps    s “pdín brtr  grntís quis tín dis ócs;  rst pnín  risg s vids”, dij Oi Frnánz Dávi (BNG). “Ns trtn  s mujrs  incpcs”, dij Sr Rdríguz. “¿Qué ncsidd tí ustd  ñdir frit  s mujrs?”, prgtó El Vlci. “Aplicn sgi gisv”, cusó Crm Mntón.

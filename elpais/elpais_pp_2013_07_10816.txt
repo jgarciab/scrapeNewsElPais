@@ -1,0 +1,28 @@
+Esprnz Aguirr  rfirm. L lír l PP  Mdrid h gurd h   litnts ppurs rspldn s rcmcins sbr  ncsidd  rgrción, "Y   sit s   PP", h mfstd st tr,  dí spués  xigir  Mri Rj   nt   jusci pr "purr rspnsbilids"    dircción pid disculps. "Tds  litnts stán g', h grgd Aguirr
+A  h mfstd  xprt   Cdd  Mdrid spués    viccrtri  Esdis  Prgrms   frmción, Estbn Gnzáz Pns, gurr  s cmtris sbr  strtgi l PP   cs Bárcs, xprsn  'st'   'ppurs' mdriñs.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1373482604_542100_1373525405";
+                
+Envir ví
+
+
+
+
+//
+
+ATLAS
+
+
+
+El tvz djt l Grup Ppur   Cngrs, Rf Hrnnd, h firmd  igrr    rfir Aguirr, cd rcm   PP b rcr s irrgurids   finncición si hubirn xisd. "N sé    rfir,   jr s lg    vr   Prd Ppur  Mdrid,   tg ng ci", h indicd Hrnnd l r prgtd  s crcins   x-prt   Cdd  Mdrid.
+Aguirr hbí sird r  "Espñ   spñs ncsitn  nustr prd sté limpi,   dig    mustr". Y grgó: "Y si h hbid crrupts, tms  scubrir  ncir   furz    pud mpr  Jusci".

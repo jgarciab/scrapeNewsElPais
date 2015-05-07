@@ -1,0 +1,36 @@
+L núr    cndidr l PSOE  s ccins urps, El Vlci, h cricd s crcins   trincnt   PP, Migu Aris Cñt, h hch  virns   prgrm  Ant 3 Espj Públic. Pr Vlci, sts hn pust  mfist  "si gnn  ppurs, pirn s mujrs   hmbrs  cr  s".
+Cd fu prgtd   pión sbr  bt tvisd l juvs   ch tr mbs lírs, Aris Cñt h rspndid  fu bév  Vlci pr  prcr mchist. El cbz  list ppur h rgumtd  br   mujr s "mu cmplicd",  si  hmbr mustr "priridd intcl    " d  imprsión "mchist" nt  "mujr infs".
+
+En  ct   Escu  Músic  Dnz Isc Albéz  Pr (Mdrid), nt s 200 prsns, Vlci h cricd   pnt   crrr l Prmt Eurp: "H vid  cir   jó gnr   s  mujr". L tmbién viccrtri grl l PSOE h prvchd pr rprbr l PP  "hcr td p  trucs" pr   vir lugr  bt l juvs   ch.
+C Lr (IU): "Cñt h rind fur l st"
+El crdindr  Izquird Ud, C Lr, h mtd " cpt mchist"  ct   rción   mujr l cndidt Aris Cñt, qui,   pión, "h rind fur l st".
+Lr, cmpñd   cbz  list  IU  s ccins urps, Will Mr,  Bilb, h dich   prt "hcr  gt  fvr   mujr",  h ñdid  " tds s psicins   stán hcid sn s mujrs s  stán scnd ts  di  lts, tl vz    currn , tl vz    dificults   trbj, tl vz   difrcis sris imtnts  Espñ".
+Rs Díz (UPD): "Qud cr  s  mchist"
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1400240083_330086_1400244941";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+L tvz  UPD, Rs Díz, h clificd  "imprstbs" s crcins  Aris Cñt. Cn s pbrs, h gurd, "d cr  s  mchist".
+En  ct ctrl tmbién  Bilb, Díz  h ñd: "Si tí d    cd  fdir   mchism,   h dich hc   s fdms,  s  cr  s  mchist".
+ERC: "Es hrrib, prpi l sig XIV"
+El núr    cndidr  s ccins urps L'srr p drt  cidir, dn  rgrup ERC  trs frmcins,  inpdit Jp Mri Trricbrs h cricd  s "hrrib, imprstb  prpi l sig XVI"  cmtri l cndidt ppur.
+Trricbrs h firmd  Aris Cñt spir  r csri urp    cmtri brí tr rprcus ngvs sbr sts spircins: "Es litrlmt incmprsib  lgui pud tr  cd    h mstrd".

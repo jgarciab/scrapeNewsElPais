@@ -1,0 +1,55 @@
+Un pbr l prt l Gbir  lír l PP bstb hst hc bi pc pr clmr s gus intrns. S trt   prd mu prcilist   cumu   mr    histri. Pr s css hn cmbid,  brns buscn difrcir l prt, hdid  s custs,   mrts, ms  24 hrs spués   Mri Rj pidir   s “grsidd  lr  rs” pr cptr  pléc déficit   crt —st s  lgs uts, prcismt s  incumplirn  bjvs  déficit  2012, tgn  mrg  trs— hst cinc cds utóms,  disnts ts  durz, rchzrn birtmt  cricrn  pn l Gbir: Mdrid, Extrmdur, Glici, Argón  L Rij. H l ms trs ds l PP   hbrn r  rchzn ss pns: Csl  Lón  Cntbri. Otrs l PP incumplidrs   cptn  sprn  s bfici: Cdd Vlcin, Murci  Brs.
+
+Ls rgumts sn ócs  tmbién plícs. Sbr td Extrmdur  Mdrid,  ctrn  btl   pt   rmuv s gus l PP:  pust trt  fvr  Ctluñ. Muchs dirigts m  Rj h cptd  déficit   crt,  simpr rchzó,  mvs strictmt plícs: pr vizr  prsión inpnst. Ignci Gnzáz, prt  Mdrid, ssv  mrts  Arr Ms,  hmóg ctlán, stá inttnd rcibir dinr  cmbi  vizr s pns inpnsts. “Cr  cmbir dinr  inpnci s indsib”, ñló   Cn COPE, dn rchzó  h déficit difrcids.
+Más tjnt fu Extrmdur. En  ccd ficil   Jt,  di  rspust dirct l prt l Gbir, uliznd inclus s prpis pbrs,  dvrtcis mu crs: “El Gbir  Extrmdur dvirt l Gbir  Espñ    prrá   bfici  Ctluñ  cst  s cds utóms cumplidrs   bjvs  déficit”. El txt sigu ún  dur, uliznd s pbrs  Rj  pntnd  fnd plíc: “Extrmdur crá,  simpr,  grsidd, sstz, sd cmún  lr  rs,  simpr ntr   Cnsción. Ahr Hcid quir fxibilizr  qui dic    Cnsción  tmbién   Hcid. El Gbir crá ntr    dict  s xtrñ”. Y ún rmt  ccd,   j  cric  plíc óc l Ejcuv  Rj. “El Gbir  Extrmdur j l Gbir  Espñ   cim   fxibilizción l déficit priric s plícs  crcit”.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1368566104_809091_1368566325";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Extrmdur lv mns  st btl,  st vz  stá s. En  PP   Gbir jusficn s psicins xtrñs   sición plíc,    Jsé Ant Mng p l ms   bstción  IU pr scr nt s prcts. Pr st vz  Mng  cmpñn trs brns,   hc prsgir   curd  pdí Rj  s, cd rcrdó  si   Gbir pdrí impnr  slución      prt,  ntj mu cmplicd.
+El prt glg, Albrt Núñz Fijó, simpr mu influt, ptó  tr ví  rchz   pns l Gbir. Dij  stá dispust  cptr s “grsidd”   pin  s cds   hn cumplid simpr  h  “discrinción psiv” pr s    hn hch. Su jr  Hcid, El Muñz, dij  Glici rchzó  “rprt simétric”  rcmó “critris bjvs”. Fijó dij  si  Gbir pi grsidd tmbién b mstrr pr  “ trnds fnds stts tgn priridd” s cds cumplidrs,  Glici.
+Futs  Hcid ñn    pntn s cmpsción. Pr  inttn trnquilizr   brns,  stá hcid  str  Hcid, Cristóbl Mntr,  s vrscins privds,   i: hbrá déficit   crt   culquir cs s cds incumplidrs hrán  sfurz  s  hn cumplid. Est s, Ctluñ,  cv plíc  td, tdrá  bjr l 2%    crró. Y tdrá  rcrtr   Mdrid,   cumplió. A, Hcid xplic   brns dísc   stán d  cmpsción  cumplir: pu cudir   rcds, pu finncir, l trri  Ctluñ  trs  stán  ms l FLA — fnd  rsct utnóc—   tnt trds  Hcid. Es  s    pr, xplicn futs l stri.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1368566104_809091_1368566377";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Est rgumt,  mbrg,  prc ficit pr  brns l PP. El jr  Prci  Argón, Rbrt Brmúz  Cstr, rcmó  sm déficit pr tds. “Es  lín rj”, rmtó. Y  prt  L Rij, Pdr Snz, dij   prcup much    rprt  fnds l fur sistm  finncición utnóc pudn rcibir  dinr s cds   déficit, pus “tdrí  r   invrs”.
+Jvir Ars, hmbr furt l PP, próxim  Mntr  hbil crgd  vizr s ts tr  brns, ró  sición: “N s fácil,  Hcid stá buscnd  fórmu  pud cptr td  md”. D mmt h mp:  Cnj  Plíc Fiscl  brí rmtr  curd  stá prvist nts  ji, tl vz juli. Pr s psicins  pu str  jds.

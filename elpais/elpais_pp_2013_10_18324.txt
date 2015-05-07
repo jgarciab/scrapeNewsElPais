@@ -1,0 +1,31 @@
+L tsión tr  Gbir ctrl   Grlitt  pr  bir. Pr  Ejcuv, td gir  tr  Arr Ms. Él s pr L Mnc  rig l principl prbm   fsiv sbrst. Si sisr, td pdrí rducir, inclus  mbit scil  Ctluñ, ss   tr  Mri Rj. Pr s  Gbir stá cd vz  mst  Ms   virns  vicprt, Sr Sáz  Sntmrí,  ó  prsión. Pidió “sstz”  lgó  cir  Ms h “birt  prcs” c   inpnci “  sb cóm crrr”.
+El Gbir stá d prsión   mprsris ctns pr    vz intt vcr  Ms   rcfi. El Ejcuv gur   privd tds  mprsris  dic   strs   inpnci s impsib   st sición instb  duc  ng prt. Sntmrí guró   juvs,  Br, dn prcipó   ct  mprsris, tctó  “ndi quir  prcs”   prbm stá  Ms,   sb cóm slir   sición plíc     h d.
+“Ls gbrnnts stms pr trr slucins. Un Gbir   cumplir  ,    pu pdir  j  hcr”, rmtó pr scrtr   Ejcuv v  cptr ngún p  lt. L vicprt  siquir quis pntr  psibilidd   h  crción itrl  inpnci  Ctluñ.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1382100150_038672_1382117365";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Sáz  Sntmrí hbb spués    prt ctlán  jr pntd   ct   trg  prs   ptrnl Fmt l Trbj  Br   cusón  prtc,    rí prsidir  ct   stb llí  prt  fcins.
+L próxim mn rá Rj qui cud  Br,  prir vz s  muldinri Did, pr inugurr  prir Fr Eóc l Mditrrán Occintl. Su discurs rá nlizd  tl. Está  vr si Ms cudirá   crá tr mbs,   Grlitt  infrm   gd l prt.
+Ms fdió  virns  cisión  pntr   vicprt   gst pr “prrvr  prsgi   insción   Grlitt”. “L Grlitt,  máxim insción l pís  pdí dr  gd rn”, rgumtó Ms,  siró  hbr cdid  prci l ct  Sáz  Sntmrí hubir crd  ml prct. Sicins sirs,  mbrg,  prdujrn  Jrdi Pujl  Psqul Mrgll   Prci   Grlitt.
+El puls   Gbir  s  úc brr  cbz  Ms,  v cóm  prcs sbrst stá pd  prub s csrs  CiU. Dspués    lír  Uó, Jp Ant Durn Lid, rtr  juvs   psib rupr   frción,  prpi Durn   jr  Prci, Frncsc Hms, vincirn  virns  división, irnd s discrpncis  públic. Sgún Durn,   list  grvis prstd   jr  xgrbn lgs cifrs.
+Hms, mst  r scrditd, rspndió dudnd   ltd l mcris  CiU. El lír  Uó,   prt, trtcó ví Twittr, insisd   cifr  mtnd   Grlitt   hubir vid  infr nts  dr   prs. Ms inttó pnr pz  trtó  buscr  pt intrdi: “H uds  sn  inditmt xigibs  trs   pu xigir quizás   pc   pz,  td sn uds,   frm u tr”, cluó.

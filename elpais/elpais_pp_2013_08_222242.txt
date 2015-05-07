@@ -1,0 +1,39 @@
+El tvz djt l PP   Cngrs, Rf Hrnnd, h ptd  juvs   juz  instru  cus   ccint  tr  Angris brá trnr si "v lg  vr"   istr " hch    prcs icil  mdificr pr cbr nts  crtr  cint". El trm  vcidd lt tr Our  Sng fu inugurd   xstr  Fmt Jsé Bnc (tncs  fcins)  10  dicimbr  2011, cd  PP  hbí gnd s ccins grs.
+Hrs spués, Hrnnd mzb s pbrs: "Y  hg cuscins prsns. Y insist    prdujrn mdificcins   diñ,    dij   csión  Fmt l Cngrs. Est s   h rid cir   ritr. Y  dirn s xpliccins sbr  cmbis   prdujrn   mmt. Qu h hbid  cmbi   trzd s vint".
+L lín  lt vcidd  Glici   s  sd strict. Un ñ nts   inugurción,  bril  2010,  Gbir scilist cidió  struir ds intrcmbidrs  ví  pnr nch vcinl   lín  "trviss plivlts"  prt slvr  difrci  nchur  s vís  lt vcidd (nch intrncinl  urp)  vcinl (nch Rf  ibéric). El nch vcinl dt sistms  guridd ASFA,   ulizn  sistms  rfurz  s líns  lt vcidd. En  ví tr Our  Sng stá instd  sistm ERTMS,  fr utmácmt  tr  circu   vcidd   prd. Pr  sistm,  b str instd   ví   vhícu,  fcin  prbms  cmpbilidd. Tmpc  plic  s trds  slids  Our  Sng. 
+"El ñr Hrnnd brí r  prt", guró  rspust Tridd Jiménz, crtri  plíc Scil l PSOE. "Qu  hg  rspt  s vícms    jusci. Rcmdrí l ñr Hrnnd     ut l juz,  ñ  mnr cr   prct h sid cbid  diñd  frm gur". Jiménz rclcó   lín  prctó "siguid tds  prtc".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1377158724_894192_1377191363";
+                
+Envir ví
+
+
+
+
+//
+
+ELPAÍS-LIVE
+
+
+
+En crcins   Cn Cp st mñn,  diputd hbí rclcd    prcs judicil birt "'   sdir,    stá hcid, tds s cis   hn id tmnd   rg l mp". A Hrnnd guró   cr  ndi tm "ng cisión  pudir fctr   guridd l tr    uris", h ptd   juz tdrá  trnr si v lgún fct " hch  mdificr  trzd   ntr  prr   trm".
+Al r prgtd crc  si sir  b dir  prts  Rf   Adif, Juli Góz-Pmr  Gnz Frr,   ércs xigió  diputd l PP   Asmb  Mdrid Mrí Trs Góz-Limón,  rltó hrid   ccint, Hrnnd  h xplicd ,   "rspt",  cmprt st pión. Cnsir  Góz-Pmr  Frr " sn rspnsbs  s ccins  lvrn    trm dn  prduj  ccint vir s dids  guridd  tí   mnv hst  mmt l ccint". Pr rfrzr st i Hrnnd rclc   cl prt  Adif "lv ps trs s  di   crg,    inttr rspnsbilizr  st prsn l ccint   prc just  rznb".
+Hrnnd h rcrdd  mbs cmprcirn   Cngrs   Diputds pr xplicr  gsón  "'ngún grup" h pdid  disión. "N cmprt s pión,    pión  mn  prsn  h sid vícm", h ptd. Izquird Ud  pidió   csión prmtri  Fmt  nlizó  ccint  disión l rspnsb  Adif, Gnz Frr.
+Hrnnd h hch hincpié   Fmt h cd"' frm cud", Espñ s ' jmp  srrl  mrzción'   trnst  frrcrril  td    hg  pr grnzr   vuv  cr s psiv".
+"D dinr b  PP  rcibió nd  nd  nd"
+En  rg d plíc vrg pstrir   cmprcci nt  Cngrs l prt l Gbir Mri Rj sbr  cs Bárcs l psd 1  gst,  Prd Ppur muv fich  tc l Prd Scilist. Trs crr rtdmt  “ dinr b  PP  h vist nd  nd  nd”,  tvz djt l prd l Ejcuv, Rf Hrnnd, h mtd   PSOE “insist  cuscins  sn flss”. “Y stá bi  ptrñs  mrs”, h ñdid.
+En  rud  prs    l PP, Hrnnd h inttd jr  smbr  Luis Bárcs prct s  cárc  St l Rl sbr  prd l  fu xtsrr: “Bárcs  cutr  l si cusd  cinc lits    nd  vr   finncición l PP. L jusci pndrá  cd    si   prd   ngún d    pud invtr Bárcs”, h ñdid.
+El tvz djt  h rid prfdizr  cusón   mnd   prd quir prstr tr  crtri  Orgzción l PSOE, Óscr Lópz,  s crcins sbr  ds  ngr   ppurs hbrín cbrd,  si  vn  mplir  trs mbrs  l frmción (“ stms sdind”,  h litd  cir). Asism, h indicd  “pintrsc, frut l cr”,  bt sbr  psib impchmt   PSOE pdrí prstr   Prmt tr Rj. “Cd virn mrí,  scilists hubirn pdid prbr  rfrm l rgmt   sd    hicirn. L  stán dicid  s mu pc ri”, h dich.
+Hrnnd h cusd xplícitmt l PSOE  prvchr hst sts  Estd pr cdr  “bsión  scrditr  Rj”  h tchd  “ngbir”   "c quivcd"  psr   xstr  Extrirs l Gbir Zptr, Tridd Jiménz,  hbr crd   cción l Gbir  Gibrltr h sid  “trpz dipmác”.
+“L  stá psnd   Pñón s  grsión fgrnt  Picrd  gus  disput   strs crms  sn spñs,     Gbir h tstd bi”, h znjd Hrnnd, l   cisión l Ejcuv  prhibir  trd  Gibrltr  cns  r  prc crrct,  "sirv pr gnr trr l mr  frm igl".
+Ahndnd   t tr  psición,  mndtri ppur h pdid   PSOE  Andlucí   tdví prt   Jt, Ant Griñán, xplin “ ulizción  fnds snds   crción  mp  prds  prt   dict [ UGT] pr fins bslutmt spuris,  nd   vr  s cvidd”. Ant sts hchs, Hrnnd h crd  cd l biprt  gbirn l Cdd utóm, “  ‘psr págin’,  tnt gust  Izquird Ud”. “Qu  ulic drms  prbms scis  fins spuris  Andlucí s sgrcidmt lg  mu rcurrt. H lgd  mmt  pnr fin”, h insisd.

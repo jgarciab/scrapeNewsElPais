@@ -1,0 +1,29 @@
+El PP umt  vtj  rspct l PSOE hst 8,8 pts  Pms irrump  trcr furz l prm plíc spñl. A  rfj  brótr l Ctr  Invsgcins Scilógics (CIS) crrspndit l s  juli. L cust dibuj  scri  smción  vt   , p   cíd,  ppurs  mntdrín  prir furz   30%,  principl prd   psición grrí  21,2%   iciv  Pb Igsis,  gró cinc urdiputds  1,2 lns  vts  s ccins urps l 25  m, lcnzrí  15,3%, csi  db  Izquird Ud (8,2%). UPD btdrí  5,9%   frgis. En culquir cs,  sdi,  rfj  ml rltd pr  scilists,  rlizó  principis  juli, nts    litnci igir  Pdr Sánchz  nuv crtri grl     prdujr  rv l frt   dircción.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1407147470_033406_1407155342";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+A psr l txt  prfd crisis l biprdism, PP   PSOE  mn   prds      inficn  ctrs,  simptí   fidd ilógic. A ,  intción dirct  vt, nt  rspust spntán,  12,8%    í l PP,  10,6% l principl prd   psición, trs   11,9% ptrí  vtr   frmción  Igsis. El s rfj  cíd   smción  vt   disnts prds plícs,   slvdd  Esrr Rpublicn  Ctl (ERC),  psrí l 2,5%   vts  bril l 3,3.
+En  úlm cust l CIS  intción  vt, publicd ds mns nts  s ccins urps,  sdi d  vtj  2,7 pts l PP sbr  PSOE. Es difrci  ptb   mpt técc tr  ds princips prds,  grrn, rspcvmt, 16  14 scñs   Prmt Eurp     jt prdirn   cinc lns  vts.
+
+Ests rltds  prduc, ,   txt     67%   ctrs cr   gsón rlizd hst    Gbir l PP stá sid “m  mu m”,   l 70% vr  ss sms térs s plícs fdids   PSOE s  psición. D  sm mnr, si Mri Rj inspir “pc  ng” finz   l 85%  , csi  90% ví   sms js  Alfrd Pérz Rublcb,  lír   scilists rvd  Sánchz durnt  grs cbrd  úlm fin  mn  juli.
+Cn rspct   prbms   inquitn   ctrs,  pr sigu sid  principl prcupción    l r mcind   77 %   spñs  sir ds décims  cim    ntrir sdi, trs   crrupción tmbién  mn  gd lugr,   cirt distnci,  s mcind   41,5 %, s trs pts    ji.

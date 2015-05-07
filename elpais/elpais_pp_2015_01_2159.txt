@@ -1,0 +1,28 @@
+Prir fu Pdr Sánchz   mtó  Luis Bárcs   Cngrs, prtmt  vir  cut   prgt sbr . "Vist  vist r [  mrts], pr scánd  tds  spñs,   msj  Bárcs  'Luis sé furt', ustd  cvó". L vist r r  impsición   finz  200.000 urs l xtsrr l PP  prt   tribl   Audici Ncinl. El msj r  cid sms   prt l Gbir vió l xtsrr l PP cd sltó   luz  cs Bárcs.
+El prt,   inmutó. N dij  pbr   xtsrr trs sv   intrir l Hcic. S quis hbr  Bárcs cd slió   psil. Cm simpr,  citr   mbr: "Est prsn  stá s hc mp   PP. Es s  psición l prd    s gustrí s   st   lv birt   is ñs  pudir crrr   mr cridd psib", h grgd.
+L vicprt l Gbir, Sr Sáz  Sntmrí, h irzd h sbr " prbms  ritción" l PSOE   GPS   lír, Pdr Sánchz, nt s crícs scilists   cd l Gbir   cs Bárcs. "El   prbms  ritción s  grup prmtri scilist,  GPS", h brd jugnd   db sd  s sigs   grup   s crícs  Sánchz   hbr lgd  mp   cit  sdints   Uvrsidd Grg Msn,  s furs  Wshingtn, l prr  cv.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1421838215_933012_1421838896";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+En  prir sión l ñ  trl l Gbir   Cngrs,  tvz l grup scilist   Cámr, Ant Hrnnd, h prvchd  prgt sbr  vigci   vis ccvs pr pdir   vicprt   Gbir " pird  pps"   cs Bárcs.
+Hrnnd h pind  s pérdid  pps  stt  hchs    cut ficil l Mistri  Jusci  Twittr rprdujr r s crcins   r, Rf Ctlá, dicid   prjudicd l cs Bárcs s  PP  ngnd   h crditd  xistci   cj B   prd.

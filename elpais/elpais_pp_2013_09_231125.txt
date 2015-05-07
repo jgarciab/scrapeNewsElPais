@@ -1,0 +1,31 @@
+“L inpnci  Ctluñ s impsib  gpr hci  impsib pu prvcr  frcr plíc  scil  cu 30  40 ñs slucinr”. Est s  stci  h jd  xprt l Gbir Fip Gnzáz   Fr   Nuv Ccción,  cu curs inugurl h cd  prstdr l prt l Grup PRISA (mprs ditr  EL PAÍS), J Luis Cbrián. El xmndtri h dd s s pincds  cráctr plíc  scil  h  r  dí, gún h prcisd.
+
+El invitd s Cbrián,  h cincidid  Gnzáz    inpnci  Ctluñ  s psib  st cdd utóm     pr crr,    trs   sn bdís. N bstnt,  c b r  rfrm   Cnsción,  s pr rslvr  prbm  Ctluñ,  tmbién pr  pud rslvr  spirción   m  finncición difrt   trr  mr rcit   indd . El cmbi l txt scinl –“pr dptr  m frl  tds s inscins"- b r sd  vtción  rfréndum spués  s próxims ccins gisvs,  principi prvists pr ntr  ds ñs. Ctluñ b dr   cldri, gún  dibuj  h trzd  prt  PRISA.
+“El prt l Gbir b vcr  s furzs plícs   diág   Prmt  brdr  rfrm   Cnsción  prfdidd   cbrción   rfréndum spués  s próxims ccins gisvs”, h prcisd. N h tr c pr Cbrián nt  “strz inscinl”   viv  Espñ,  h frd  “ strz óc”    stms nt  “pclipsis”   dignósc stá cr,  h  mvr. “El prt l Gbir  quivc si cr    jr       rslvrá”, h grid  prt  PRISA  tds s ss prvists   Ht Ritz lls l cmpt  cubirts s hc dís.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1379924560_131954_1379926565";
+                
+Envir ví
+
+
+
+
+//
+
+VÍDEO: EL PAÍS LIFE
+
+
+
+N stá  curd Cbrián – stí Fip Gnzáz–   tnci  rlizr  rvisión críc  sclificdr   trnsición plíc spñ,  s mp  cmbi “si   quir pnr  pigr td  guid”. El cág  publicó EL PAÍS  fbrr   ñ pr slir   crisis plíc sigu vigt  pdit pr Cbrián, l  trscó  rvisión  rmz l trmd inscinl,    stá  Jfr l Estd. “El R lv  ñ   bnquil   xist  stt l hrr”, h rcrdd. “El Gbir   vi  rcr  h  hcr  rgución,   s psib   prvisión    h  tcr    h  hcr pr prrvr  nuidd   insción pd prsnlmt  qui   crn”. Un Estt   Crn b rcgr tds s sicins, pstpust Gbir trs Gbir.
+A  digsis    curr s níd   pu pnr pñs clits  ldr  ritris  tngcis sicins , gún Cbrián, sn “sistécs”   crrupción  fct  x prts utnócs, xlcls, xstrs. A   “l crgs públics imputds  nds” h sicins mtbs   l prt l Tribl Cnscinl,   frr   pltrn cd  h prdid td crdibilidd   x   insción  fctd l  Estt  Ctluñ”. S rfir Cbrián l mnt   pust l prt l Cnscinl, Frncisc Pérz   Cbs,  cultó l r xnd pr  pust  litnci   Prd Ppur.
+Un cmbi     prds,   sistm ctrl,  lists birts,  Pct Scil   mp,  ducción,  Sdd  s Ps, frmn prt  s rfrms pdits  prpn Cbrián,    rfrm   Jusci ,  fin, “ cmbi scinl pr dptr  m frl  tds s inscins”. Es  mmt trscnt    h  strrr ss prcicins  “bus  m spñs”  “bus  m ctns”. L iciv s l prt l Gbir    ctrs plícs, dics, scis  mprsris b cbrr. A  currió   trnsición. “Jts ”, h cluid Cbrián, spués  r s párrfs  Mri Jsé  Lrr,   “vitriólic”   pridists  scritrs l sig XIX,  culvó  críc scil,    simpr rgí  prcupción  Espñ. N bstnt, Cbrián h trnd   “jts ”.

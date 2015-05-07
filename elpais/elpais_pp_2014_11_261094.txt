@@ -1,0 +1,28 @@
+El prt l Gbir, Mri Rj, h rccind  durz l órdg nzd r   prt   Grlitt, Arr Ms,  ERC,  pt hci s ccins pbiscitris  list úc   c hci  inpnci  18 s. Pr Rj, Ms h dd " ps  hci ng prt". El prt,   sábd vij  Br pr dr  sprd discurs,  h nzd tr Ms   spci  rrn    psib cmpñ ctrl. Rj h dich   psil l Cngrs  Ctluñ pc  "déficit  gbir"    h frcid pr plir. Rj h rivindicd   guirá grnznd,  hst ,   ctns  rvicis públics   pg  s prvdrs.
+Rj h rprchd  Ms  td  discurs svir ctrd  r  prt “  prt   ctns",   pión  prt s ritri. Rj h jd cr,  hrá   discurs l sábd,   cr   inpnsts  sn mrí. Pr s   v  dirigir sbr td   cutr lns  rts  Ctluñ, ctns  xtrnjrs,   furn  vtr  9-N. Es s  “grn mrí”    Rj prá  Br.
+Rj  v  ctrr,  h hch,  ncir  sgbir  Ms, ctrd   úc st   inpnci,   v  frcr   úc  stá psnd   prbms rs   ctns    sfurz pr slir   crisis óc. En L Mnc muchs cr   inpnsm h crcid   crisis óc  vn  ctrr   pr trtr  nzr  msj trcv   ctns. En culquir cs tds  mbrs l Gbir ltds insist    discurs l sábd rá “strucv”,   i  “brir purts”   ctrr s   fs         lt,  h sid  strtgi hst    rc  fllid pr trr   ctns. “Tdré  xplicr jr s rzns”, lgó  cir  prt  Brisbn (Austrli)  utcríc.
+Rj h insisd   “ psr l sgbir   Grlitt”,  Estd guirá udnd  Ctluñ. "Ls prvdrs   Grlitt vn  guir cbrnd,  rvicis públics vn  guir fcinnd  finnciánd,   Gbir guirá tdid   vcits  ud   Grlitt  Ctluñ", h gurd.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1416997206_731904_1416997480";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Pc nts,   sión  trl, Rj hbí ngd, nt  prgt  Rs Díz (UPD), hbr "gñd"   9-N. Díz  h cusd  prr  rfréndum   h tstd: “ rfréndum sbrst  Ctluñ   h cbrd  r igl. H cumplid   br". Díz  cusó  mr   spñs , gún xplicó, tín rch  sbr   ib  hcr  Gbir pr impdir  lt   mbrg hn vist cóm  cbrb “  pr mnr psib,  grntís mcrács”.

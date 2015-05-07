@@ -1,0 +1,34 @@
+El núr trs l PP, Cr Fri, h cusnd  ércs  fl   Audici  Mdrid   v lit   scrch rlizd nt  cs   vicprt l Gbir, Sr Sáz  Sntmrí. "N sé   pu str gimd  r  cs,  t inlt...   jrz s vilci vrbl", h firmd  Ls ss  TVE. "L stci sbr  scrch  Sntmrí gim  vilci vrbl"
+L Scción 16ª   Audici Prvincil  Mdrid dictn   scrch s “ csm rdinri  prcipción mcrác   scidd civil”  s “xprsión l plurlism   ”. El ut —rslución rznd— firm  rchiv   invsgción sbr  mfstción crtd  psd m,  rgumts sirs,   juz Mrci Sxr.
+El ut   Audici Prvincil, rdctd   mgistrd  prfsr  Drch Pl Isb Vllcbrs, pn  trif pr  Ptfrm  Afctds   Hiptc —vcnt l scrch—,   rvés pr  fisclí. El stri públic hbí rcurrid  rchiv  s ccins l tr    mfstción nt  vivid   vicprt  prdujrn lits  cccins, mfstción ilícit, sórns públics  sbdici   utridd.
+
+Fri  h sid  úc dirigt l PP  h discrpd públicmt   stci. El prt utnóc  Mdrid, Ignci Gnzáz, h clificd  cisión judicil  "brbridd"  h rmchd  trsd " msj pigrsim"   scidd. Sgún  dirigt ppur,  scrch implic " mz"   "litción  s librts   ". "M prc imprstb  lgui pud tr   pu pnr   purt   cs  indrt      fli", h ñd Gnzáz.
+En  sd, tmbién  h prncid  tvz óc l PP   Cngrs, Vict Mrtínz Pujlt,  h brd   sir "psiv"  rslución   Audici. El ppur h rclcd  si  juz hubir frid  cción sir, hbrí dictd  stci mu disnt.
+"Ls scrchs, tl   hms cid, sn  mnr  viltr  s prsns,  indrs,   vcs fct  ñs  prsns    nd  vr   vid públic", h psld Pujlt. A  rspct,  str  Jusci, Albrt Ruiz-Glrdón, h ñdid  dichs práccs, gún  critri, sn "trris  nustr rnt jurídic".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1391592418_987502_1391606338";
+                
+Envir ví
+
+
+
+
+//
+
+Mrtínz Pujlt, tvz óc l PP   Cngrs. / ts
+
+
+
+El PP "sbrcó"
+L visión   ppurs  cutr, s lug, mu js   frcid  ércs  IU. Jsé Luis Ct, diputd   clición   Cngrs, h mfstd   rslución judicil vinci   ss dís  PP trtó  "crinlizr" s prtsts  inttó svir  fc  tción  vrr " s vícms  vrdugs".
+Ct h fdid    s cisión judicil vi  mstrr s   mcrci " s vtr cd cutr ñs", si   scidd tmbién  rch  xprsr s pins   cl. El diputd  IU h cluid   PP "sbrcó"  rción  s mfstcins.

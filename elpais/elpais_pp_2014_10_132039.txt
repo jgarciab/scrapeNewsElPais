@@ -1,0 +1,40 @@
+An Mt, prtd   ccción   crisis l éb, vivirá st mn  clvri prmtri: h mrts   P l Sd;  ércs,   P l Cngrs,   juvs   Csión  Sdd   Cámr bj. Cmprc   incrdumbr públic sbr  fur   dud  si guirá   crg  vz  cb  crisis. Td prá  hst dón lgu  rid. Mri Rj  h prtd   gsón públic,  hrá   str     Prmt   prrrs plíc,   PP h rchzd  pción  tds  grups pr   prt dé cut   crisis l éb   litrá  rspnr  ércs   prgt l lír   psición.
+Est vr An Mt xplicb ,  psr l ftl  invitb sc, stb mu ssfch  cóm hbí fcind  prv pr trr  Espñ l r Migu Pjrs, frm  éb. Cntb  tl cóm  hbí crdind  trsd,  ficci l jércit   br   dipmác  s 27 ñs ,   prir s, hbí jcutd  prv  Libri.
+P   tncs  hbí trindiccins   prción, prcí  hbí slid td bi  td hubirn sid ficitcins, Mt udió ir l Cngrs  jó  ms   dirctr grl  cmprcci. L hiz  prfrí dr  d  técc , sbr td,  simpr h d prvción, próxim l pvr,   ccción,  cmprcr nt  dis  nt  diputds. Un tmr   tz cd   frntr    lv  usr frs   "si  h nd   irí”    crró  virns  rud  prs. O l “ h cs  tg  vr   dicin  cur frds”  prnció  2012.
+D hch,   rcurdn rrrs tbs  s cmprccis  s tn scit    h sid lmd   c   ccción    slir  xprs prprds  “máxim trnsprci”  “rspt   prfs”  rpit  cul   prgt    hc. Cm jmp  s circstnci drá  rud  prs l psd s    di  pbr   dirctr grl cd   prgtb   disión. E pvr lvd l lít  lm gfbi  s  pr   pács  pu frir  plíc.
+
+Y  psó cd  hicirn públics infrs l mri  Gürt    prc  pgs  vijs, fists infns   vij  trvés l  fu  mrid, Jsús Spúlvd. Prfirió tncs  xplicción privd     v  gur  str públicmt  prgts sbr  rg   trm crrupt.
+L ccción h grvd  cn  rrrs cid    h pultd   stri  pcs cmptcis    , prcismt, s imprscindib  cpcidd  gsnr crisis sbrvids. Pr jmp,  Ci Vilbs  tcó   s vcs cs,  Tridd Jiménz    grip A  hc muchs  ñs  Jsús Sánchz Rf  pultó    clz, sbr td   fms fr l “bichit tn pñ  si  c   s  mt”. L ccción  cs  rm stri  limtri trn mrcnd  csi tds  rs  Sdd   Mt  h pultd. En  cs, , h hbid  cr cn  rrrs  gsón   vícm.
+Y sv  pt  r pultd plícmt  f   rrr   infr plicil  tribuí  gst sprcind   mtril pr fists infns   pgb Gürt. S mstró   f r pr  fist l quip  fútbl l Gtf   pr  chlé  Pzu,  nc pdrá quitr  t   str l f. Tmpc  l Jgur pgd  Gürt   mrid ( prds  guín vivid jts) prcb   grj    dic  hbr vist. A s sbrvivió tr lgs prnóscs, p     tr  próxim hbí qui, brumd  s crícs,  jb slir l fc públic  bndnr  plíc. Hiz frt  s crisis tmbién  cmprccis públics. Al  bilitó    crisis l éb  cg  ms fss plícs.
+Mt  sit  cómd   spch,   tct dirct , sbr td,   rgzción. En  lvb s  cht cd frmó prt l lmd “cn  Vldlid”  cmpñó  Jsé Mrí Aznr   prci   Jt  Csl  Lón. Fu bdirctr l Gbint l prt   Jt  Csl  Lón  1987  1990    gbint stbn tmbién Spúlvd, Migu Áng Crtés, Migu Áng Rdríguz  Arr Mr.
+En 1990 mbrcrn     Gév pr vrr  Alinz Ppur  Mnu Frg   Prd Ppur  Aznr. Simpr ntr   quip, csi   mbr    fli  Aznr , sbr td,   gurdin  Gév,  rgzdr   cts   prngción l  r tncs  lír l prd. Entr 1996  2004, durnt  gbirs l PP, Aznr v pcins pr lvr   Gbir,  prfirió jr  s trñs l prd, rgznd vcins, grss, ccins  cmpñs. En  jrnd  rfxión  2004, cd   l PP r rd  quis cusnbn  vrsión ficil l 11-M, Mt fu  úc dirigt  prmnció   spch. Cn fm  trbjdr   prd, hiz  td, s infr gbs  ngcir  brns dísc,  csi simpr pinchb   ccción públic.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1413221463_192366_1413274230";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+En  finl  s tp, An Mt sv  pt  ir   grn mprs privd    tí  frt,  nc trnó  dr  ps  bndnr  cvidd plíc    lv   25 ñs. L   hiz fu cmpñr  rrd  Aznr  2004   ps trás   Prmt Eurp,   stí prt l quip  próxim l xprt.
+El nc tncs fu  Rj, si  Aznr,  fu rcuprd  2008   lír l PP  viccrtri Grl  Orgzción  Ectrl pr crgr  nuv   fntnrí l prd. Es  lín  nuidd  Aznr  Rj, csi  úc  d  l épc.
+Ahr s    mbrs l Gbir  mn  lín dirct  cv  Rj, v  p pr prr  crisis   rg  Gürt  sts dís h sid rsctd   prt l Gbir   spr  tcits. Rj h vut  jrcr  Rj  h plicd ds  s principis trdicins: vitr  cmbis   tr sprnd   scmp s trmts   mtr (plícmt)  ndi si sprr,  td cs,    icin. En  cs,  pz pr  finl  Mt  str stá tdví   ir,     s gur s  Rj,  hc simpr, sprrá    inm.
+L spr ún  dur trg  trs cmprccis  trs dís   Sd   Cngrs  s  tdrá  vlvr  frntr  pác   cróf. Un dur mn  psión, tr   gní plíc.
+El mrts psd  prt lmó   str   mrcó s puts  cmtt. Ls frs  bí rpr   Cngrs  ércs,  pss  hbí  dr pr frntr  crisis  hst slió  Mnc   sr  ccción prstd   vicprt pr rzr  sición.
+El prt  hbí crgd  slid     mbrl plícs  tbs   gisr,   l brt; stá rgul l grd  cbrción  cds utóms sbr Sdd   sbr  s lgs prcts  .
+Mt s hij  lférz  nví, nció  Mdrid  1959, Liccid  Cicis Plícs   Scigí   Uvrsidd Cmplut  Mdrid   trs hijs.

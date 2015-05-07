@@ -1,0 +1,39 @@
+El PSOE girá  fins  vimbr   ñ,  primris birts,   cndidt  s ccins grs  vimbr  2015. L h firmd st mñn  crtri grl l prd, Alfrd Pérz Rublcb, durnt  discurs nt  cté frl  b prbr  cldri  s primris trs   ds ñs  spcucins. L cción   cbz  list pr ccins utnócs  cips rá  pmbr,   drá  mrg  "fxibilidd" pr s frcins  quirn hcr primris  tr mmt,  hbí pdid  jmp  PSOE  Csl-L Mnch.
+
+Td  cldri b r ún rfrdd   200 mbrs l cté frl ( stá rid   purt crrd)  futs   jcuv frl ss   "prpust"  h hch Rublcb stá prvimt pctd   grn mrí  dirigts  brns trritris   tnt sldrá prbd  ss térs.
+"H stms dptnd  cisión trscntl  v  cmbir  plíc  Espñ. Hbrá  nts  spués. Estms brid nuv tp   plíc mcrác spñ", h dich  crtri grl l PSOE. Ls primris scilists pr gir l cndidt  prt l Gbir rán  prir vz birts   prcipción   litnts: culquir ciudd pdrá vtr, trs firmr  txt  dhsión   principis scilmócrts  pgr  cndd simbólic.
+Rublcb  h crd si s primris pr s utnócs rán tmbién birts ,  hst , crrds s  litnts. L Cnfrci Plíc l PSOE prbó hc s jr s cisión  ms  cd frción,  futs l prd  scrtn  h  rcfi s psición   vuv l sistm  primris crrds pr  cs  ccins utnócs.
+L jcuv frl l PSOE fí  ,  h  prub  cldri fiv,  sfi  prcndidts pr s primris  vimbr  mpic hst spués  s urps  m.
+
+
+
+A Arr Ms,   Rj s intrs  gurr  bnrzs,   Ctluñ   Espñ "
+
+
+Rublcb h dicd l cldri  primris ps cinc nuts   discurs   hr. El rst  h mpd  rrtr tr s plícs l Gbir  Mri Rj. "Dspués  ds ñs  rcrt  rchs trms  ds ñs  rcrts  librts", h dich  crtri grl. "H ntms  rcuprción,  lg  mu pcs. A   nc trrn   n. L rcuprción  Rj st hcid ftr    nc  hdirn", h ñdid Rublcb, tribud s bus cis      cmbi  plíc   UE  s ms ( pérdid  rchs,  bjd  sris  ps)  Rj.
+El crtri grl l PSOE h insisd   s ccins urps sn "cv" pr  prd " pr Espñ",  h rcrdd   vtnts  rá  prir dd "pr cir ''  s plícs  Rj".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1390041553_853464_1390067946";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Sbr  sición  Ctluñ, Rublcb h dich  s frut  ds "ts" igulmt culpbs    c  " rtrlimtn": "  quis quir ctrlizr      quir mrchr". Al prt ctlán, Arr Ms,   Rj "s intrs  gurr  bnrzs". "Pr  Ctluñ   Espñ ", h dich, prstnd  prpust scilist  rfrm scinl  sd frl  úc slución psib. "L vms  hcr  vstrs, cmpñrs l PSC, quí   Ctluñ", h brd, dirigiénd l ctlán Pr Nvrr.
+Pr tr d,  crtri grl -  hicir hc dís  núr ds, El Vlci- h pd   "ingci plíc",  "idd"   mócrts   "rspt   glidd"  mts pr frntr  plíc ntrrrist trs  "rrt  ETA". Pr h crd: "Estms dn simpr: pnd l Gbir. Es plíc v  guir sid  sm".

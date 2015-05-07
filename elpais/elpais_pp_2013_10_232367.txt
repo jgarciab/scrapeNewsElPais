@@ -1,0 +1,37 @@
+Td hu  rupr. Hst    ms gsts. D  rión discrt  L Mnc l 29  gst,    mbs prts hbrn  crcts   búsd  slucins,  h psd   tsión  dificult inclus culquir cutr prtcri. L mn psd, Arr Ms pntó   vicprt, Sr Sáz  Sntmrí. Y  ércs,  Br, spués  sludr  Mri Rj  frildd  chrr   s nuts  privd, gún firm  Grlitt,  mrchó  scuchr  discurs  prtst    hbín jd intrvir trs nuts  pdí.
+Ls pridists scrutrn cd    gsts  Rj  Ms,  si   trtr  ds dirigts   sm pís mcrác urp, ds prsns   c hc 20 ñs,  hn ngcid muchs css muchs vcs   stán bligds  cincidir  cts inscins  cbrr plícmt — PP  CiU   rg trdición  pcts—. E nálisis tn tld   gslidd s hbil  cutrs  lírs  pís  flict,  cmpjs prcss  pz    Gurr Frí. Pr  rción tr Rj  Ms  h tsd tnt  cd gst  s xnd  tl csi l v  ds dirigts  flict grv.
+En  txt,  jrnd  r implicó  spci  rupr frml, prvi   btl jurídic    mbs prc cnds si Ms insist  prmvr  lt sbrst. El tvz   Cngrs  ERC, Alfrd Bsch,  pus hst pbrs   prgt: “¿Está ustd  curd   inpnci  Ctluñ,   ?”.
+
+Y trs, Ms  Rj hcín sfurzs pr prtr rmlidd nt  s cámrs —mbs prrn nt  ftógrfs sbr  cumbr  Brus    h cu  prt,   dij l ctlán  s css  Eurp stán jr,  trds—  privd  tsión r r   siquir  pud rgzr  cutr ficil pr limr sprzs.
+Hub  chr  s nuts, gún  Grlitt,     sttó  s psicins stán jdísims     pnt  sts mmts ngún p  cit ficil   vnc. El Gbir,  hch,  prc tr  mr vltd  vcr  csión bitrl pr spgr cmptcis pdits l Estt  stá dispust  hcr cs. Al trri: quir str  “cmbi  trt”.
+L psibilidd   rión tr mbs, públic  discrt, prc mu jn   mmt  simpr h intrcutrs  mbs bnds  mprsris  buscn dir  fvr l diág. Pr futs tnt l Gbir ctrl    Grlitt cincin    sición trvis  mmt spcilmt licd   h crcts.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1382520590_026368_1382527411";
+                
+Envir ví
+
+
+
+
+//
+
+ATLAS
+
+
+
+D hch, Ms  fu, gún s cbrdrs, “sd” l Pci  Pdrlbs —dn  cbrb  inugurción l Fr Eóc  Mditrrán Occintl—    hbín jd  hbr  nd  lgr l Prmt crgó tr Rj. L cusó  hcr “impsicins prtcris”  fdió  s  qui, pr  vivr   tsión, mn  “digdd”.
+Al sm mp,   discurs  Ms  scuchó, Rj rspndí  citr   inpnsts: “El md cn irrsibmt hci prcss  intgrción. L mr s  ión,   disgrgción. El sig   mps  s  disgrgción   ist”.
+Rj tmbién nzó guiñs   culr cmún     ctns   rst  Espñ. D hch,  discurs rrncó  Crvnts  s cits  Br  Dn Quijt  L Mnch.
+“Br s  lugr dn s inds  mn   rrigs  cmprt”. “Es,  dij Crvnts,  lugr úc  si  bz. Y  sbms bi  prpis spñs ,  Crvnts, tmbién sms st ciudd  hnr  Espñ  hms trd    cráctr tn fi   indd   s rícs  birt  cgdr”.
+Ls ds prts  cincidín   ct públic s  primvr psd, cd  inuguró  Mntjuïc  Slón l Autmóvil. Allí  mbit fu much jr. El clim gid  sttó r  Pdrlbs dn Ms lgó  prir   mñn  prvchó pr prr,  clidd  nfitrión – pci s prpidd   Grlitt—   strs  Extrirs  cudirn l Fr.
+Cd Rj scdió l cch ficil, Ms  sludó  frildd  intrcmbió s frs  splds  s cámrs pr  furn inudibs. Pr tr,  mstró much  fusiv   str  Extrirs, Jsé Mnu Grcí-Mrgl,  qui  Gbir ctlán tribuó  cd  fxib l hbr std dispust  cptr  Ms prcipr   ct. El Gbir, ficilmt, g sts discrpncis  culp  td  flict  Ms.

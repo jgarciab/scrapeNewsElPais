@@ -1,0 +1,77 @@
+“Es  did rml. L prisión prvv    fción piv,  jusfic pr prtgr  fins l prcs,  fción  critris cutrs pr vitr,  jmp,  cultción  strucción  prubs”, ñ Mnu Cnci, ctdrác  Drch Pl   Uvrsidd Autóm  Mdrid. “En st cus,   slvdd    zc  mri l tl,   pdrí rltr nóm r mntr  prisión prvv cd  instrucción h finlizd,  s  tl mu imtnt    hn scubirt,  trvés  disnts cs rgtris, s cuts izs  Bárcs. S h trd inclus    l PP  busc  prubs   prc  h  prbb  huid”.
+Gbir  PP. “Bárcs   stá   prd”. “Nustr rspt  s cis judicis. Es  prsn   sts mmts   stá   PP”, ñló  vicprt Sr Sáz  Sntmrí. El tvz ppur Rf Hrnnd cró: “M s bslutmt indifrt. Es   jusci cig  td  ps sbr prsns  hn ulizd  plíc pr ricr”. El nuv tvz djt l Grup Ppur   Cngrs Ant Glg h vnzd   frmción rchzrá  prtsión l PSOE    prt l Gbir, Mri Rj, cmprzc   prmtri pr dr xpliccins   cs Bárcs  h rclcd   scilists  "h vid  llá   Gürt".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1421781912_878241_1421782208";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+PSOE. “Indignnt”. “Es indignnt  slg   cárc nts l máxim   ds ñs  stbc  L  sdirms  rcurs tr  xcrcción”, ñló  tvz, Ant Hrnnd. "Slid innt  slid indignnt l ñr Bárcs  prisión. Ndi    xtsrr l PP, l  pin 40 ñs  prisión  crrupción, v  slir  prisión spués    h cbrd   Jusci   h rrpd  s lits", ñdió. Sgún h ncid,  PSOE,  prt prsnd   cus Gürt, "v  plicr tds s dids prcss  xist pr pdir  ringrs  prisión  Bárcs", includ  "rcurs xtrrdinri tr  librtd",  strá "vigint   nuvs dts  h pdits,  sn s cs rgtris, pr pdir  ringrs indit  prisión"  Bárcs.
+
+Izquird Plurl. “Librtd  silci”. “Cnfí    h ngún pct  crd  tm   h pgd  silci  st librtd”, ñló Jsé Luis Ct. El diputd   Izquird Plurl, Jn Cscubi, h dich fir    msj  "Luis sé furt"   prt l Gbir, Mri Rj, vió l xtsrr l PP Luis Bárcs, trs  pust tbilidd  B l PP,   virt finlmt "  pr". Tmbién  tvz l grup, Jsé Luis Ct, h insisd   i   spr   h "lgún p  pct  crd" pr  Bárcs slg   cl,   t   "prci   silci"  prcismt  pust  librtd. Izquird Ud,  stá prsnd   cus tr Bárcs, sdirá st nuv sición   h prducid   fijción  st finz, h ñdid  tvz.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1421781912_878241_1421782178";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+UPD. “Ld   jusci”. “Lmt  ld   jusci  h pust  librtd  Bárcs sbr   psn grvísims cuscins”, pinó Rs Díz. "Un jusci mrd s  jusci ngd", h brd Díz  crcins   Cámr l rfrir   cisión   Audici Ncinl  impnr  finz  200.000 urs  Bárcs pr  slir   cárc,   sir   instrucción l cs Gürt stá práccmt gtd   h cumplid csi ds ñs  prisión prvv.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1421781912_878241_1421782140";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+ERC. “Y struó tds s prubs”. “Si pu slir libr s   h risg   stru prubs,   furn struids”, firmó Alfrd Bsch. "Es psib  si  hn jd slir     h risg rspct   strucción  prubs,  s prubs furn struids    mmt. Y png ,   cl Gév —dn stá   ncinl l PP—, stán bstnt trnqui,  s xplic  fcilidd    h slid bj finz  ñr Luis Bárcs", h firmd  diputd ctlán.
+PNV. “Un pquit bj”. El tvz l PNV   Cngrs, Aitr Estbn, h mrcd  mrts  innt slid  prisión  Luis Bárcs ntr   "rmlidd  s trtcins   prcss judicis",  h sird  mntnt   finz —200.000 urs— " pquit bj". "Lm  tción  mntnt,  pr  lits ócs   ptn,   prt, pud rltr  pquit bj", h cricd Estbn   psil   cámr.

@@ -1,0 +1,37 @@
+El crtri grl l PSOE, Pdr Sánchz, xplicó  juvs   xcrtri  Estd rtricn Min Albright s “prpusts  mcrci rdicl”   prd stá pntnd pr Espñ  intrcmbió pins sbr  sición  Eurp  Améric Ln.
+El lír   scilists cmzó  gd jrnd  visit  Wshingtn   cutr    fur crtri  Estd  Bill Clintn      fdción,  Inst Dmócrt pr  Asts Intrncins (NDI). S trt   rgzción  ám  lucr, vincud l Prd Dmócrt, dicd l p  frtcit  s inscins mcrács  td  md  trvés   prcipción ciuddn,  prr   rdición  cuts   Gbirs.
+
+En crcins   pridists, Sánchz xplicó   bjv  st rión fu “hbr  mcrci   s rfrms mcrács  ncsitn muchs pís  Eurp pr jrr  prcipción mcrác”. Sánchz pntó  Albright “lgs  s prpusts  mcrci rdicl”  stán hcid  scilists  Espñ,  “ impmtción   litción  mndts   prci l Gbir,  prr  s lists ctrs   rvisión l sistm ctrl”.
+L jrnd  Sánchz, cmpñd   crtri  E, Mnu   Rch Vázz,   tvz   sm mtri   Cngrs, J Mscs l Prd, nuó   cutr   Ctr fr Aricn Prgrss (PAC),  think tnk vincud l Prd Dmócrt. El bjv l lír scilist   vij ric h sid dr  cr  vcr    prct  cbz rspn   cmbi   prd   PSOE, fctd  s silusión   plíc  h prd  ncit  fóms  Pms.
+
+
+L gd tp   visit v  d  plíc, spués   prir dí  óc
+
+“H  prstr  Pdr pr   zcn prsnlmt,  tmbién s prpusts ócs”, firmó Mscs,  rgzó jt  D  Rch  gd stdin l plíc scilist. Y  ps, grgó, “crr  rd  inscins intrncins mu ptts”  n cpcs  mulplicr  c   msj.
+L gd tp   visit  Pdr Sánchz v  d  plíc, spués   prir dí ntmt óc,     rió   sr óc jf l prt Brck Obm, Jsn Furmn,    dirctr grt l Fnd Mntri Intrncinl, Chrisn Lgr.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1421352261_838744_1421353393";
+                
+Envir ví
+
+
+
+
+//
+
+El crtri grl l PSOE, Pdr Sánchz,  Wshingtn. / Ats
+
+
+
+El plíc spñl  rió tmbién   Uvrsidd  Grgtwn  vris mbrs   Ascición  Citífics Espñs  EE UU (ECUSA)    grup  sdints rics  plíc   cribilrn  prgts tnt sbr  prgrm óc   rt  pn Pms pr  PSOE nt s próxims ccins grs. “Pms s  cción    sé”, snrió l r prsnlmt  rspust  s inquid   sdint spñl. Pms  nutr   “sfcción  indignción”   scidd spñ  tdví   “vrr s sfcción  prpusts”, rplicó. Y bró   jr t ctrl: “El úc prd  pu grnzr  cmbi  Espñ s  PSOE”.
+Sánchz guró  tí  “ssción mu psiv”  s cutrs  Wshingtn. “M lv mu bu fing”, insisó. El plíc dó , l ms   prt, pu dr  cumplid  sión. “Hn scuchd   ríms pntr”, ñló. Qu  hn cmprd  msj s lg  tdví stá  vr.

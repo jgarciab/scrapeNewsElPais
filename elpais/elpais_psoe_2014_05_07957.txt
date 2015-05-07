@@ -1,0 +1,40 @@
+L mción  cr  Extrmdur — durnt trs ñs h pdid   spd  Dmcs sbr  Gbir  rí l PP,    PSOE hbí scrtd hst —  prducirá finlmt  próxim mn. Cd d ps  ñ  gisr. El crtri grl   scilists xtrñs, Guilrm Frnánz Vr, h ncid  ércs  srprs  cisión  prstr, gnd   sición   cdd s inssb    prt rginl, Jsé Ant Mng, h rchzd tds s frts  cbrción. Mng h tstd  Extrmdur  imt " pit"  Vr   h instd  dir si pir  mción. Alg ltmt prbb,  s ds frmcins  s  p   mción prspr —IU   rginlists scindids l grup scilist— hn cgid  nci  ttl frildd.
+
+El PP gbirn  rí  Extrmdur s 2011, cd gnó s ccins  prir vz  s cdd  dó  ds scñs   mrí bslut. L sición   Prmt utóm rltó : 32 diputds l PP, 30 l PSOE  trs  IU. Ess trs prmtris  IU-Extrmdur virn  lv: sbcid s dirctrics   dircción frl  C Lr, fcilitrn   bstción  invsdur  Mng. L hicirn spués  ltr   litnci  Extrmdur,   inclinó mritrimt   dr  Gbir l PSOE. Ls rcins tr scilists  IU  s cdd sn nfsts, spués  csi trs décds  mrí bslut l PSOE  s   ncsitó nc  IU.
+Ds l invsdur, Mng h gbrnd pánd   bstción  ss trs prmtris  IU  ngcind   s ps. Un prm  instbilidd   incrmtó  psd pmbr, cd ds diputds  Prx-Crx,  prd rginlist  hbí currid  s ccins  s lists l PSOE, rmpirn   scilists  psrn l Grup Mixt. El rprt  furzs  s : 32 diputds l PP, 28 l PSOE, trs  IU  ds  Prx-Crx. Ests úlms cinc prmtris   s ms  éxit   frcs   mción  cr  Vr. Y  tvcs  IU  Prx-Crx hn slizd  ércs — ncir ún  vt finl— ,  principi,  v rzns pr .
+
+El crtri rginl l PSOE cidió prstr  mción  cr  pctr  ccár nts  ss ds grups imprscindibs, gún h dd  sm  tr. H gurd  s   b,  bslut,    dé  prdid, si   h prfrid sprr hst  úlm mmt pr ncir  ércs,   gd jrnd l bt l std   rgión. Y h prd incluir   prgrm ltrnv  Gbir rivindiccins histórics  IU. "Ar sm [  mrts]  frcí l prt  curd  gbrnbilidd,   rchzó. N  h jd tr ltrnv", h firmd  scilist. Vr —  hbí dvrd  s intcins dís trás   dircción frl l PSOE,   di td  p—  prstrá  tñ  s primris intrns  s  sldrá  cndidt scilist  s ccins utnócs  m  2015.
+L sión plri     brá  mción  cr  cbrrá  próxim ércs dí 14, gún h firmd  prt l Prmt xtrñ, Frnnd Mnz. Es fch tn crcn prjudic   scilists,   bt drá  prt clipsd —diácmt—   cmpñ ctrl  s urps,  rrnc mñn.
+El tr  Mng h tchd  mción  huid hci nt  "jrcici  unmción"  Vr. El Gbir xtrñ,   h frtd   úlms s l  Mri Rj  cut  dids    l brt   plíc tributri, v s mción  " intt   sprd  rr   Gbir  pr  división dgmác tr izquird  rch". Ds  dircción ncinl l PP,  núr trs, Cr Fri, h pdid birtmt l lír l PSOE, Alfrd Pérz Rublcb,  frr  iciv  Vr. "Un mz   p  v  ngún d, s  prjudicr   xtrñs", h fzd. Rublcb,  mbrg,  h dd  p p   mción  cr, gún futs   jcuv frl l PSOE.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1399451854_079557_1399471553";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Fri h vincud, ,  prstción  s mción  cr l mntr   cmpñ l PP:  rcuprción óc. Pr  cúpu   ppurs —  ércs h rid rspldr  trbj  Mng p  s frcuts frtts   Ejcuv—, "hbr  mción  cr s  bslut irrspnsbilidd  sts mmts  rcuprción". N bstnt,   PP h tmbién qui v  bu ci   prstción   mción  cr. Si  prspr, fín sts futs, cbrá bilitnd   psición.
+
+
+
+"N s  mmt t"
+V. G. C.
+L rcción  quis   lv l Gbir xtrñ —IU   rginlists  Prx-Crx—  pud r  ércs ms sist. Trs scuchr  bc l scilist Guilrm Frnánz Vr  nci   mción  cr tr  PP, hn rspndid ds css:   PSOE  s hbí  siquir tntd nts  tmr  cisión  ,  principi,  v prpid mbr l Gbir . Hn brd,  bstnt,   cisión  tmrán s órgs  dircción.
+"Ni siquir tr  strs  hbr nts rfj pc finz   pud slir, prc   mbr [l PSOE]", h prtstd Pdr Escbr, tvz  IU, nts  tchr  "ltjs ccinds"  nci  Vr  prvi vis. Escbr h cusd  PP  PSOE  igul  hcr "ctrlism",  h ñdid: "Nustr cisión  stá tmd". L dircción frl  IU tmpc h rid prncir birtmt,  h md  "sdir"  d   mción.
+Dán Bt, tvz  Prx-Crx, h sid  tjnt: "N cr    mmt t", h dich. Bt h rcrdd    prpusirn  mción  cr  cbr  2013, nts l bt  Prpusts,    PSOE  IU quisirn rspldr. "Si tncs dijrn   tcb, ,   Prpusts l PP   vigr, tc ms", h pind. Prx-Crx,  mbrg, h vtd  fvr  l Prpusts. "Sé  s difícil  xplicr,   hicims   bi  Extrmdur,  ncsit  Gbir furt. Dijims:  mción  cr pr frmr  gbir ltrnv  PSOE  IU,  pms  Prpusts pr  h  Gbir xtrñ furt", h rgumtd.

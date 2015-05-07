@@ -1,0 +1,55 @@
+El ércs  ciz  Ignci Gnzáz   imputción   sps  vicprt   ptrnl mdriñ, Lurs Cvr,  prst b  cpits  lit fiscl, jó l Gbir rginl  l Prd Ppur  Mdrid  std  shck. Dig   guin cinmtgráfic    pléc ác  Estpn  scri,  ut   juz Mrin Prgrin stó  inquid   prd prcismt  dí  cbrb  trdicinl c  Nvidd prsidid,  cd ñ,  Mri Rj. A vris rspnsbs l prd fín    rchivrá  mn  vi — juz  inhibió vnd  cs   Audici Ncinl;  dición  frd  Gnzáz influ    imputción  lit,  mmt,   mujr—  ut judicil có   bmb   PP. Pr much  Gnzáz mstr  “srprs  s”   ut  ldó  “pgd  prscins  hchs  crr”.
+Disnts futs ltds rcirn   imputción s  glp “mu grv” pr Gnzáz  pr  prd, l    cum  scánd. Aprt   “cridd”   prt utnóc rcmó   jusci “  sición  inguridd  infsión”  dij trvsr,  brón l PP firmó sr “bslutmt rspldd”   dircción ncinl   prd. El rn  ccción   s principl —tds rn rdnds   rctngurs,  tn muchs dirigts nts  lgr l cóncv—   c l PP  Cld Villb rfjó  p  Rj.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1387402684_124754_1387446139";
+                
+Envir ví
+
+
+
+
+//
+
+VÍDEO: ATLAS
+
+
+
+En  gst mu cmtd,  s ctrl  rsptó  prtc   ltrnción hbil hmbr-mujr. En tr   sprd,  Rj  fnb,    prt l PP rginl, Esprnz Aguirr,  prpi Gnzáz    lcls  Mdrid, An Bt,   cs ntrirs. El círcu  cmptbn Crisn Cifuts (gd l Gbir)  Cr Fri (viccrtri  Orgzción l PP ncinl). “An Bt  Ignci Gnzáz dn  mgnífic jmp  cóm  gbirn   crisis óc. Nch,  furz  sdir hst  úlm cm   prbms, h guid  Mdrid lir tds  fctrs ócs  Espñ”, rrpó Aguirr,  fió  ñ  “dur  difícil”.
+Y   scánd  crrupción fctnd  lín  ftción l prd, spcilmt  Vlci  Mdrid. Sin ir  js,  prpi Aguirr  psó  mrts cutr hrs  di rspndid  scrit   spch  s prgts l juz Pb Ruz sbr  cs Gürt. Ls vsivs   prt l PP utnóc rgnd l xjr  Dts Albrt Lópz Vij, imputd   cs — “N r  bslut hmbr   ttl finz”, cró  scrit rspct l hmbr  crgb tds  vts   Cdd  Mdrid  s mprss  Frncisc Crr  cmbi   pust mrdid l 10%— mstrn muchísim   Asmb  Mdrid, dn    prmtri ppur  db crédit l smr  Aguirr “ si  fur  cs  ”.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1387402684_124754_1387446261";
+                
+Envir ví
+
+
+
+
+//
+
+VÍDEO: ATLAS
+
+
+
+Otr jmp   mrjd  scu l principl cr  vts l PP   prtgsts l xprt  Cj Mdrid, Migu Bs,   Jsé Mrí Aznr Bt,  hij mr l xprt l Gbir   lcls  Mdrid. Aznr Bt pidió xpliccins  Bs   dd bncri  hubir cmprd brs l rst Grrd Rud, g   fli Aznr  flcid  1996,    100 lns  urs  pl crisis finncir   dd. En  j l hurcán   gsón, An Bt tmpc lgó   c nviñ  tds sig. Cm Gnzáz. “N  vn  dbgr  sts infs  clums”, prcmó Gnzáz tr  puss  900 crriginris.
+Cm r  sprr, Rj  svó quiéns rán s cndidts l Att   Cdd ntr  ñ  di. Aún ,  s quis birts  snnd  mbrs  Aguirr,  Cifuts  inclus  Sr Sáz  Sntmrí  ptcis cndidts, fu  c  much mrb.
+“Mdrid s óm  gsón vlit  xits. Mdrid s  rfrci   rfrm. Audré  Mdrid , Ignci, udr  Mdrid s udr  tds  spñs”, prcmó Rj  lusión  Gnzáz. El lír  Prd Ppur  hiz ng rfrci   imputción  mrgó  c l PP  s l pís. Un PP  ch   s hrids.

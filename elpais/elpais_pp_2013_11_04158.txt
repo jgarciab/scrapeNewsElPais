@@ -1,0 +1,31 @@
+Álvr Lpurt,  86 ñs, xtsrr l PP  ntcsr   crg  Luis Bárcs, h lgd   h mrchd   Audici Ncinl  ms   hr.  El juz Pb Ruz rí intrrgr sbr si s  firm  stmpd   márgs   pps  Bárcs     rcg  prst tbilidd b l prd. Lpurt h lgd   Audici pc nts  s diz   mñn. Cnb pánd   bstón  cmpñd   sistt. Aps h std  curt  hr nt  juz Pb Ruz:  h cgid   rch   crr, gnd rzns médics.
+Lpurt h xplicd   cutr jr físicmt, mtlmt  stá  dicins  prstr crción  h hbd  "prbms  mri". Ants  ir,  xtsrr  h gurd  Ruz  si   fur sit  tb jrí   slud  prstrá vltri pr crr   dispn  "dts". Sin mbrg,  bgds prs   crción intprtn st rvción  frm dispr: s cr  Lpurt  rfir  dts nuvs rvnts pr invsgción trs  trs sirn   trt  dts  pustmt rfurzn  limpiz l rig  s ingrss   vrcidd  s crcins ntrirs. El juz  h dvrd,   trri,    s   prbb  s tg  dd  dr xpliccins   juici,   cs    lgu finlmt  cbrr.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1383550860_565947_1383573651";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+El xtsrr ppur  h rficd  td  crd ntrirmt nt  juz  h gurd  td  ptrim "visib" s "cid   rig", firmn futs prs   intrrgtri.
+Ruz tmó  cisión  citr   Audici Ncinl spués   médics frs s ds infrs,  ji  pmbr, sbr  std  slud. El xtsrr,  86 ñs,  rún “s dicins ncsris pr rlizr  crción cmpj nt  utridd judicil”. Sin mbrg  juz vr  s  Lpurt psó   juzgd,  19  mrz   ñ, s circstncis l cs hn vrid sirbmt,  spcil  s crcins l prpi Bárcs  dt  utrí   pps   prcipción cv  Lpurt.
+Ls médics xnrn  psd 13  pmbr l xtsrr pr crficr si rí  std  slud ncsri pr frntr  nuv crción   piz prd l cs Gürt     invsg  tbilidd B   frmción rvdr.
+El r l Juzgd Ctrl  Instrucción núr 5, Pb Ruz, rnb st diligci   prvinci, spués    dirctr l Inst  Mdicin Lgl   Audici Ncinl  tr spcilist médic trsdrn   prir nálisis rlizd  psd s  juli   xdirigt ppur,  86 ñs  dd,  rí "s dicins ópms ncsris pr rlizr  crción judicil cmpj".
+L plicí  pu crditr,  mmt,   visé  prc   pps  Luis Bárcs n l ntcsr  ,  tmbién xtsrr l PP, Álvr Lpurt. En  infr trgd l juz   Audici Ncinl Pb Ruz,  plicí ss    scrir    bí ctjr s firms   pps " xist xprs quiprbs   mrfgí sir"   , gún clu, " rlt téccmt psib" trnr   visé furn firmds  Lpurt, tl  ss Bárcs.
+L scrir h sid cmprd  dcumts  Ruz pidió  ds tris. "N  xpn crctríscs scrirs   pudn ctjr  cmprr   cmpnt scis, ts  sirs psicint  pts  t, cmbis  dircción, curvr  s bs, nuidd   chsión, distribución  gruss  prfis, dis rvs l trzd, prcinlidd  frmción grl", xpn  sdi   Udd Ctrl  Crinlísc .

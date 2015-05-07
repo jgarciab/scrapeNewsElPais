@@ -1,0 +1,129 @@
+Hn sid lg   48 hrs  sprr  sc, ncid   hij,   hn rstd mción l cr  ci   murt  Adlf Suárz. Tvisión Espñ h d  msj  hc s hrs hbí grbd  R J Cr. A nución, h íd  crción, s  Pci   Mnc, Mri Rj, qui h stcd  grnz históric.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1395593746_162018_1395593812";
+                
+Envir ví
+
+
+
+
+//
+
+EL PAÍS-LIVE!
+
+
+
+Ds   scilist  Frrz,  crtri grl l PSOE, Alfrd Pérz Rublcb, h rcrdd  cmprs  Suárz   librtd  s sfurzs  struir  Espñ    cupirn tds.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1395593746_162018_1395595519";
+                
+Envir ví
+
+
+
+
+//
+
+El pís-LIVE!
+
+
+
+En   ctrl  Prd Ppur,  viccrtri  Esdis  Prgrms, Estbn Gnzáz Pns, h stcd  fs   rcilición ncinl.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1395593746_162018_1395594498";
+                
+Envir ví
+
+
+
+
+//
+
+EL PAÍS-LIVE!
+
+
+
+Pr  vtri   fli h rgzd   clíc dn h murt  xprt l Gbir hn sfid  xstrs  prsns próxims l  fu prir prt   mcrci. L lcls  Mdrid, An Bt,  Jsé Mrí Aznr,  rrpó  brv crrr plíc l hij  Suárz, hn std llí.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1395593746_162018_1395597639";
+                
+Envir ví
+
+
+
+
+//
+
+EL PAÍS-LIVE! / EFE
+
+
+
+Ds  Pís Vsc,  sdr l PNV Iñki Ansgs, h scrit   bg prsnl  chb  ms prfs  Suárz. H rcrdd   rig plíc sv   frnquism,  h rcid  fu vlit l brdr  prbms.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_5 = cn.hrf;
+                  if (/\?/.tst(_url_vid_5))
+                      _url_vid_5 += "&";
+                  
+                      _url_vid_5 += "?";
+                  _url_vid_5 += "viid=1395593746_162018_1395600007";
+                
+Envir ví
+
+
+
+
+//
+
+Ats
+
+
+
+ 
+ 
+ 
+ 

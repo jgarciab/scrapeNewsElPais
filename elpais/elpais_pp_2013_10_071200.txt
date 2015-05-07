@@ -1,0 +1,33 @@
+L prt l PP ctlán, Alici Sánchz-Cmch, h dich  cmprr  trcr ví  prpn  tvz  CiU   Cngrs   Diputds, Jp Ant Durn Lid,  ,   pión, Ctluñ  " cmptcis   Estd frl". Sánchz-Cmch,   cutr  Mdrid pr prcipr   rión   dircción ncinl l prd, prpn  rvisión l m  finncición ctlán   slid   crisis trritril. "Ctluñ  pu tr cirt vsc,   pu mdur  ds spcts:  slidridd  líts,    Länr mns,   rdinlidd [N prr psicins  riz trs hcr  tción   cj cmún]", h firmd   trvist   cn SER.
+
+L dirigt ctn prpn "litr  slidridd    dinrs   tn l rst  Espñ tgn  plicción dirct",  h gurd  "Ctluñ   prsión fiscl lt". En  sd,  dirigt ppur h firmd  "Ctluñ,  mtr óc  Espñ, ncsit  tción imtntísim", , h ñdid  " s cirt  Espñ h std rbnd  Ctluñ".
+Sánchz-Cmch,   s tdrá  i   pin  prd sbr  iciv, h brd  " c" pr rslvr  tsión trritril " s rmpr  Cnsción". Y h ñdid: "Dbms strs  stbcr grns sss. Dbms ir   ss   m  finncición".
+L lír l PP ctlán h gurd   prd "v  xplicr s mrs  s   bs  sfí inpnst" l prt   Grlitt, Arr Ms. En  pión, st crisis sbrst  " stá vird  prbm pr td Espñ". L lír ppur h cifrd  mrí silcis -     mfistn  fvr   inpnci  Ctluñ-  "is lns  ctns". "Y st gur   h  mrí  ctns   quir  rupr  Espñ", h znjd. 
+Sbr s cuts l Estd pr 2014, h dich   trt  s "prpusts ustrs"   b r ulizds   Gbir  Ctluñ pr limtr  "vicsm".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_2 = cn.hrf;
+                  if (/\?/.tst(_url_vid_2))
+                      _url_vid_2 += "&";
+                  
+                      _url_vid_2 += "?";
+                  _url_vid_2 += "viid=1381133315_867442_1381141426";
+                
+Envir ví
+
+
+
+
+//
+
+ATLAS
+
+
+
+El str l Intrir, Jrg Frnánz Díz, h gurd   trvist  Ant 3   slidridd intrtrritril s  principi scinl  sir rznb  tg " lít  s dicins",  cumplir  principi  rdinlidd. El dirigt l PP ctlán tmbién h brd  "qui  " b r slidri   rst.
+A Esrr Rpublicn  imt pc  rltd  s gsns l PP ctlán pr  btr  jr sistm  finncición pr Ctluñ, infrm Mil Rgr. "Est pntl   hms psd", h ilustrd  tvz l prd, Ann Simó,  h brd   lír   ppurs ctns, Alici Sánchz-Cmh, "lg tr"  fr  rdinlidd. Simó h rcrdd   m  finncición  stb prvist   Estt,   furt psición l PP. "Hc is ñs rcgín firms tr st   rlt   rdinlidd s cv", h irzd Simó.
+L tvz rpublicn cr ,  Ctluñ btg  jr l m  finncición,  inpnsm guirá   vs  p cl. "El pís h id vlucinnd,    v   mrí quir vtr  fur plíc rpscn crpts  hbín crrd hc mp. Hc tr", h insisd Simó,  h gurd  s prpusts l PP "  crdibilidd".

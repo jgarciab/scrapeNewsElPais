@@ -1,0 +1,33 @@
+Mri Rj  quir ír hbr   pléc signción  s cndidts l Att   Cdd  Mdrid. Pr ds vcs h rd bns fur cd   h prgtd    jó   cl prt rginl, Ignci Gnzáz, pt   rcción  si drá ms librs  Esprnz Aguirr pr  fccins  list   prgrm cipl. Trs brr  pr  “ st stá znjd”   “ stms   fur”, Rj h grgd,  t ctrl: “Cn    d s   tms ds mgnífics cndidts  sl  ám  gnr s próxims ccins,  lvn  mp  plíc,    xprici,  cr  sn ds pusts mu bus l PP”.
+Rj tmpc h rid rvr   prd strí dispust  pctr  PP,   vist   tds s custs vcinn  ng furz btdrí mrí ficit pr gbrnr  slitri,   Andlucí   Espñ. El prt  h ngd  hcr “prnóscs  quis”, gnd  “ hc l cs” hbr   hst   tgn  rltds   m.
+
+Es , h pdid  si  PP vuv  r  furz  vtd  Andlucí,   s úlms utnócs, “ rspt  cisión   ”. Es s,   juici, “ imtnt. L , si fur ncsri, vdrí spués”. N bstnt, h ñdid, “tmpc h  hcr grns sfurzs pr inir  quién pu tr   tr  PP”. En  prgt   hbí mcind xprsmt  Ciudds   PSOE.
+A, Rj h chd  jrr  gu frí  quis prscbn  rducción  crt pz l IVA culrl, fijd    21%. Trs urr s dids  h tmd  Gbir pr   prducción culrl  ritrr  prpósit  ctr nuvs rbjs  impusts si  mn  crcit óc, h cluid  “ fch  h   v  tmr s cisión,   s psib”. Y    h scrtd pr  fur, h sird  “ rí prt ntr quí"  fch pr dich rbj.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1425929001_018895_1425931056";
+                
+Envir ví
+
+
+
+
+//
+
+El prt l Gbir, Mri Rj, hb sbr Ignci Gnzáz. / Ats
+
+
+
+Rj h hch sts crcins   rud  prs   prt gutmltc Ott Pérz Mlin   Pci Ncinl   Culr. El jf l Gbir spñl h vijd  Gutm pr vlvr  visit ,  2013, hiz  Espñ  xgrl  prcipr   cumbr bitrl Espñ- SICA (Sistm  Intgrción Ctrricn),  Pérz Mlin, prt  r   rgzción rginl, prpus  Rj   cumbr ibrricn  Vrcruz (Méxic),  dicimbr psd.
+
+A   nfitrión, hn prcipd   cit  Rj  prts  Cst Ric, Luis Guilrm Slís, El Slvdr, Slvdr Sánchz Crén, Hndurs, J Ornd Hrnánz Alvrd, Pnmá, J Cr Vr,  Rpúblic Dcn, D Mdin Sánchz,    str  Asts Extrirs  Bic, Wilfrd Elringtn. El grn ust h sid  mndtri crgü, D Ortg.
+En  discurs  bivid, Pérz Mlin h stcd  lirzg  Rj “  luch tr  trrrism,  crrupción   crim rgzd”,  h ficitd  s dids ócs dptds   gbir   h prstd   “principl sci  lid   UE”. Rj,   prt, h dich   cmprs  Espñ   srrl  Gutm “stá intct”    pís guirá sid bjv priritri   cprción spñ,  psr   rcrts. Rspct   rión   lírs l SICA, h crd   prpósit s “scuchr cuás sn  rts  is   pís   rgión”   bjv  “guir cmpñánds   prcs  srrl  intgrción”.

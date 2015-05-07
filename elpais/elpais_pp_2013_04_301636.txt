@@ -1,0 +1,31 @@
+El Ejcuv  Arr Ms  quir dr   pr trz   trt cd  rprtn  frm fiv  bjvs  déficit. Y pr , trt  crgr  rzns pr grr vr, l ms pr Ctluñ,  listón l 1,2% l Prduct Intrir Brut (PIB) ntr l cul,  mmt,  jt  s cds brá sir  déficit públic  ñ. El tvz l Gbir ctlán, Frncsc Hms, vlvió  rcmr r pr s uts  trci l bjv  déficit   fij pr td  ctr públic spñl, l 6,3%,  rcrdó   Ejcuv  Jsé Luis Rdríguz Zptr    db  bril  2011, cd  t crdd  Brus pr 2013 r l 3% l PIB. En  c tr  3% l 6,3%, dij Hms,  Adstrción ctrl h gnd  mrg  33.000 lns ( 97% l ttl), trs  s cds s  hn hrrd s justs  1.000 lns.
+En s ngcicins   Gbir  CiU mn    Mri Rj, xplicn futs   Grlitt, primn ds rgumts. El prir,   just  3.400 lns  urs sigu sid inédit  inb  pl rcsión. Y  gd,   Estd sigu dánd   mr prt l mrg  stá siguid  Brus cd s cds sn quis prstn  rvicis básics l Estd l Bistr,  invitbmt drán tcds   just  quivldrí l 15% l gst  finncir   Grlitt.
+
+El tvz l Gbir ctlán, Frncsc Hms, crgó trs  rión  r l Ejcuv tr   s  Pci   Grlitt  sigu sirnd  “rprt injust”   bjvs. L rcmción sigu sid  bjv  déficit pr Ctluñ l 2% l PIB. S trt   cifr     cdd crró 2012   rrirí  just  1.800 lns  urs   incrmt   gsts finncirs.
+El jr  E, Andru Ms-Cll,  ró  crt l vicprt   Csión Eurp, Olli Rhn,  psd s  r     xpní   ncsidd    déficits  s cds  fijrn  fción l gst  cd v  gbir. D di,   Adstrción ctrl   Sguridd Scil s crrspn  51% l gst;  s cds,  36%,   s crcins cs,  14% rstnt. Sgún  ncid   Cnj  Mistrs,  Gbir ctrl   Sguridd Scil   bjv l 5,1%,  cul pn  80% l ttl, trs  s cds  drán   1,2%, quivlt l 20%,  bj   trci  rcm  Grlitt.
+Hms cmpró  bjvs  slidción fiscl prbds   Gbir  Rj  virns    rcgín  pns  Rdríguz Zptr  bril  2011. Entncs  bjv pr 2013 r crrr  ñ   sf l 3%    t s  l db,  6,3%. Sin mbrg,  bjv pr s cds ps h vrid: si  l mmt r l 1,1% l PIB,  s s  décim prir, l 1,2%. Es cir, tncs  sfurz  gst  s uts r   trci l ttl, quivlt l gst,   s infrir.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1367348717_203370_1367353336";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+“Tmnd  prvisión icil  2013,  Estd h psd   3%  bjv  déficit   6,3%,    gn  mrg  33.000 lns  urs. Ls uts hn psd l 1,1% l 1,2%, s cir, s 1.000 lns, cd sn s dstrcins  prstn  princips rvicis”, rgumtó Frncsc Hms.
+L Grlitt ngci   Gbir ctrl   vicción    déficit  rá ifr, si simétric. Futs l Ejcuv ss   jr l déficit prá   cpcidd  Rj  gtr s js  lgs cds   cr,  firn   Brs   Cdd Vlcin  pndrán   d. Otrs futs cdrs  s ngcicins sirn  Rj h sid “rlist”   scri mcróc hst 2015,    sprn  tmbién     sfurzs bs  s dstrcins.

@@ -1,0 +1,40 @@
+El clim plíc l pís  muv  prir vz  td  gisr   dircción pr grr curds tr  princips prds. A flt  crción,  s próxims mns,  prt l Gbir   lír   psición hn dd  vr pr crrr  pct sbr plíc óc  Eurp  r  Ejcuv   PSOE jrn ptts   Cngrs  vltd  sr    Trnsprci,   s rms  mbmács   mndt.
+Ls cmbis  strtgi   prds,   ún   Gbirs, prcisn  mns  gsts  crcins,  spci   mp. Alfrd Pérz Rublcb lv mns pidid públicmt  grn pct  Mri Rj, trs rsisr   p  hc ds mns, prc  ngr , l ms     rfir  Eurp. A   rltds  custs    pión públic, cnsd  s disputs, fvrc tbmt  clim  vint cmbi   plíc   UE nt  crisis,  cincinci  dids  stímu ,  disnt grd, hn pdid Gbir  PSOE s hc s.
+
+Td s incipit  lt,   hn prcibid  nuvs msjs   clim plíc. Ds scs  hn d lugr   ds úlms dís simblizn s prcpción. L prir  prduj  ércs, trs  sión  trl l Gbir  gt bnc    Rublcb hiz  frt  pct sbr Eurp  Rj cptó inttr. Ambs  virn lug  mnvirn  brv vrsción    slió  cmprs  vr   próxims dís pr buscr  curd. Rublcb tctó  Rj pr prprr  cutrs  mbs  prd   cncilr ustríc   hí slió  cincinci sbr  ncsidd  grr   Cnj Eurp  ji t cis rápids sbr crcit  mp juvil. S inclu tmbién  cincinci   lgs  ss uds  cmput   xigci  déficit  impn Brus ,  pust,  sttción    plíc urp cn ltmt  dircción pust     strict ustridd.
+L tr sc  prduj r l tér l prir bt   prir vtción   p     Trnsprci. Fu  vrsción crdil   psil l Cngrs   vicprt Sr Sénz  Sntmrí   pnt scilist Jsé Enri Srr. Trs  ft,  simbliz  psibilidd  curd  tr    s s  mbmács, hbí  vrsción    sttrn  trbj  h  nt   vltd  pct. Tmbién  cirt críc  grups ritris ,  principi,  hn gbrnd   psibilids  hcr   mn  rchz rdicl   rm   pn hst   trtción.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_4 = cn.hrf;
+                  if (/\?/.tst(_url_vid_4))
+                      _url_vid_4 += "&";
+                  
+                      _url_vid_4 += "?";
+                  _url_vid_4 += "viid=1369939946_947582_1369953477";
+                
+Envir ví
+
+
+
+
+//
+
+
+
+
+Ants  s ft, , h hrs  vrscins tr  crtri  Estd  Rcins  s Crts, Jsé Luis Allón,   pnts scilists Mritx Btt  Jsé Enri Srr,  rgs s  cmprccis  xprts   Csión Cnscinl l Cngrs. El rltd   mmt s   prct    slió l Cnj  Mistrs   fu rchzd  tds stá  vís  r mdificd  rrib bj,  psibilids  curd, l ms, tr  PP,  PSOE,  PNV  CiU. El Gbir h cptd rcir  s psds icis  scr  prct  slitri,  pdrí   mrí bslut.
+“Qurms  curd   L  Trnsprci     pid l Gbir  scuch,  nustrs psicins stán bsds   rspnsbilidd    ncsidd  trnsprci”, guró r  crtri grl l PSOE, Alfrd Pérz Rublcb,   pridists pr jr cr  vltd  curd sbr  rm.
+“Vms  prstr muchs ds   gnms nd  pdir  vlución     rí mpzr  nuv  pspnr ún   rm”, dij  scilist Btt durnt  bt. El dirigt l PP Estbn Gnzáz Pns, tvz l prd   bt, hiz lmts sirs l curd pr dr  vr  fur   prct.
+
+
+ UPD, Izquird Plurl   grup Mixt mn  psición   
+
+El lír l PSOE lv mns inttnd buscr pts  cmún tr tds  grups sbr  crisis,  llá  s invccins públics l pct  Estd. Ess pcins pdrín intrprtr  rmt rtórics si  fur    rún s hc dís   tvcs  trs prds. Pr jmp, ntr  hiz   lír  UPD, Rs Díz,    sttó cincincis,  r    CiU, Jp Ant Durn Lid,   l PNV, Aitr Estbn.
+Sgún Rublcb,  ss cutrs tds hn cincidid   “ncsidd”  lcnzr  grn curd “plíc  scil” pr hcr frt   crisis. Aguró   trs  s hn pstd   pct pr “slir ct nts”, si tmbién pr “fir  m  slid”. Ds   h icid  gisr,  h hbid ng rnd  rins   p   tvcs   prt l Gbir.
+Rj  siquir hbí mstrd intrés  pnr  mrch s iciv. Mn tct rrvd  Rublcb ,  jmp,   h rid nc  tvcs  Rs Díz s  lgó  L Mnc hc 15 s.
+Pr  h trscdid sts dís s L Mnc  cutr  Rj  Fip Gnzáz, xprt l Gbir,  fir prdri   cbrción   grns sts  mbs frmcins.
+Ests mvits lts  vs  prduc, , cd Rj stá bstnt bilitd intrnmt  s psicins trds  s brns rgins sbr  rprt l déficit. Y cd h irrumpid  nuv  ntcsr   prci l PP, Jsé Mrí Aznr, sbr  invitb   incumplit l úlm prgrm ctrl.

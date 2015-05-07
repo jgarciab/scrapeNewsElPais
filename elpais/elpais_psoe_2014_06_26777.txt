@@ -1,0 +1,29 @@
+Pb Igsis, urdiputd  Pms  cndidt   Izquird Utri   prci l Prmt Eurp, h pd  juvs   rprstnts scilists   Eurcámr  "vtr  cici"  pntr si prfir ptr tr  cndidt   "grn clición mn" — rfrci  Mrn Schulz—    cndidt l r. Igsis h prvchd  prir rud  prs   Eurprmt pr gir  disión l hst  ércs lír  Izquird Ud (IU)  Estrsburg, Will Mr,  h clificd  "jmp  digdd  chrci". A  rg   intrvción,  tvz   frmción  izquirds h crgd tr "lgs" dis  ccción  hbr "mlintrprtd"  frm "mlintcind" s crcins l s sbr  trrrism  ETA.
+El tvz  Pms,  frmción   ms  cutr s h grd cpitlizr  stt scil  frm  xcts rltds ctrs  cinc urdiputds, h rcrdd   rprstnts scilmócrts l r  r scilist "sigfic fr  rchs   gt trbjdr"  s h mpzd  "prgtr   sms" si vn  r cpcs  "cir  s pís  hn vtd   cndidt mán  frm prt   grn clición  gbirn  Am   Grci   stá lvnd  nustr Eurp l sstr".
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_1 = cn.hrf;
+                  if (/\?/.tst(_url_vid_1))
+                      _url_vid_1 += "&";
+                  
+                      _url_vid_1 += "?";
+                  _url_vid_1 += "viid=1403785951_181740_1403792530";
+                
+Envir ví
+
+
+
+
+//
+
+ATLAS
+
+
+
+P   s pcins  hcr   prci l Prmt Eurp sn scss — m   vts  scilmócrts  rvdrs pr  crcs  mrí ncsri pr  cción  Schulz—, Igsis h brd   pción spir  r "lg "   cndidr   grup. "Qurms r  cndidr l r   Eurp     pntn ds ltrnvs:     vntn pr fr  mcrci,  sbrní   rchs scis  s its finncirs guirán impd  d   pbrz   pub l r", h sgrnd      Eurcámr  Brus nt  nutrid públic. "Tg  cir mu cr:  pís l r  Eurp  rms r cs  s finncirs   h gid ndi".
+Al r prgtd   cisión  Mr  bndnr  dircción  IU   Eurcámr trs cr  prcipó   fnd vltri  ps l Prmt Eurp gsnd   Sicv,  lír  Pms h pdid   rprstnts  PP, PSOE  UPD  "tm jmp"   chrci  lgui "  h cd ng iglidd   h std   lr plíc  s circstncis".
+Igsis h ldd  "brbridd"   insción públic   Eurcámr h tribuid   finncición  pns  ps "ids pr frudr l fisc"  h hch  guiñ l nuv lír  IU  Eurp, Jvir Cus,  qui  h rfrid  "g". A  juici, s rcins  Izquird Ud, tnt  Brus  Estrsburg   Mdrid, rán  "cmrrí, cmpñrism  frnc cbrción".

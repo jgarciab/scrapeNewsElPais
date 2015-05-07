@@ -1,0 +1,34 @@
+Un dí spués   vtción     PP mstró disciplin  idd frt l intt l PSOE    mrcrn s firs   prd  tr l brt,  mustr   división nú. L vicprt prir l Cngrs, Ci Vilbs, h jd s css crs. Ls difrcis nún   s   prd     vtó  dí ntrir nd tí  vr   ntprct l Gbir -ún  h trd  siquir   Cngrs–, si   pción l PSOE    dcumt  rchiv,  rr,  sig vnznd   lgu l Prmt.
+¿Es rl  dd l PP   vivió  dí ntrir?,   h prgtd  Vilbs. “Pr pust,  s rl”. Si  vtción hubir sid sbr  rfrm    st dirigt plíc hubir vtd  cici. “Pr pustísim  ,  cr   gt  ”, h gurd. A, h rcrdd   trs cs   h hch   tr   grup. Pr  PSOE trtó  pnr  prub  chsión l PP,  s “ muchísim”, h xplicd  vicprt prir l Cngrs.
+
+El str  Jusci, Albrt Ruiz Glrdón,  bstnt, h ulizd s vtción pr prr implícitmt nt  Cámr l p   rfrm  mmts spués   vtción, l fi  s diz   ch l mrts, Vilbs prcisó   prgt  si pb    Glrdón. “N s s,  rchz l PSOE,   s  sm”. Es chsión  vrá cd    vt   Cngrs,    PP fín    lgu  tr much  hcr.
+Y  dí spués,  bt sigu  s   psil si tmbién   p l Cngrs. Ls scilists  prgts,  Izquird Plurl   mción, vlvirn   crg. L rspnsb prmtri  Iguldd, Crm Mntón, h tmd  prch  “tr   librtd”   psd mn lgó  Mdrid  mujrs  td Espñ  fs   cl  l brt  trris l pn l Gbir  sir    pzs    ds pusts   vut  r  lit. “N s vn  clr”, dvirt s diputds scilists.
+
+
+
+                  vr t = '';
+                  if (dcumt.gtEmtsBTgN('t'))
+                    t = cURICmpnt(dcumt.gtEmtsBTgN('t')[0].innrHTML);
+                  vr _url_vid_3 = cn.hrf;
+                  if (/\?/.tst(_url_vid_3))
+                      _url_vid_3 += "&";
+                  
+                      _url_vid_3 += "?";
+                  _url_vid_3 += "viid=1392195536_085355_1392211053";
+                
+Envir ví
+
+
+
+
+//
+
+ATLAS
+
+
+
+“Ni vc   pu  prdirn s ccins,  vc    rgumts; s divin   scidd”, h rplicd  str  Jusci, Albrt Ruiz Glrdón,   intrvción   diputd scilist. ¿L mfstción,  tr   librtd?. “El Gbir rspt s u tr mfstción   mu ritri  hubir sid,   rspt l Gbir;  ng mfstción stá  cim   vltd l Prmt”, h rplicd.
+Sí dó cr   sión l mrts   ch  tds  grups rchzn  ntprct,   intrvción   diputd l Grup Ppur, Mrt Trrd,   ctró  s princips js tr  ntprct. Trrd irritó   bncd scilist  sts prcicins: “Ahr dic  hbn  mbr  s mujrs  s  s : h muchs mujrs   psms  usts,   sms  ms mrns  ms frmds,  hms prd  fsm rnci  lgs  pu quitr  cim jnd vr  mdvrsión csi ptlógic hci  hmbrs”.
+L dd  rspnr  sts sircins  h vist h Crm Mntón   sión  trl  Glrdón: “Y s fst,    vn  clr. Ar s lmrn rnci, ncud   vrsión ptlógic   hmbrs; tds  dís cms ccins  mfstcins  s l tr   librtd  quir  rr  ntprct  ustd, indlt  sbrbi  scuch”. Y  h dvrd s  PSOE : “L librtd   ngci, s ,  tg    vd”, h dich Mntón, prfrnd   scritr Virgi Wlf.
+Glrdón h mnd  puls  inclus  h rgd   xhibición  idd   dí ntrir hiz  grup. “Ls ctrs vn  csgr  quis trtn  dividir”, h stcid.
+El bt sigu   p l Cngrs tdrá  brch  mción l Grup  Izquird Plurl pr   rr  ntprct gubrnmtl.
